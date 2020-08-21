@@ -1,0 +1,105 @@
+
+
+
+GTIN
+GTIN.twc
+GTIN.ws
+additional  // array for additional information scraped that has no matching attributes
+
+
+
+
+* band
+
+
+* bezel
+
+
+
+
+brand
+brandID
+
+* caliber
+
+* case
+
+
+collection
+description
+
+* dial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+features            // array of watch features
+features.Calendar   // array for calendar feature
+features.Functions  // array of watch functions
+
+gender
+
+
+lang                // language data
+lastCheckAt
+
+
+
+modelID
+movementType
+name
+
+
+
+origin
+pair
+
+
+price
+productID
+
+
+
+
+recordedAt
+reference
+
+related             // array of related products
+retail
+
+
+
+
+
+
+
+
+
+
+scripts
+
+
+source
+
+
+subcollection
+thumbnail
+
+url
+
+
+warranty
+waterResistance
+
+weight
+xlreference

@@ -1,0 +1,103 @@
+ASIN
+ASIN.twc
+ASIN.ws
+GTIN
+GTIN.twc
+GTIN.ws
+HS
+SKU
+alternative               // alternatives to product
+amendments                // specific to product collection
+assets                    // product images
+* band
+bandLocal                // product_local
+bandType
+
+box
+
+
+
+
+brandID
+bundled
+* caliber
+caliberLocal              // product_local
+* case
+caseLocal                 // product_local
+caseShape
+
+description
+descriptionLocal          // product_local
+* dial
+dialColor
+dialLocal                 // product_local
+external
+external.hh
+external.jomashop
+external.kakaku
+external.official
+external.prestigetime
+external.uvkdk
+external.vip
+external.watchbase
+external.watchesofmayfair
+external.watchmaxx
+external.watchsofmayfair
+feature
+
+
+gems
+gender
+gtin
+id
+
+
+limited
+manufacturedFrom
+manufacturedTo
+modelID
+movementType
+name
+nameLocal                   // product_local
+newStockCount
+nextRevisionNumber
+
+
+path
+pendingRevisions            // specific to product collection
+
+
+provision
+ranking
+ranking.collection
+ranking.home
+
+reference
+rejectedRevisions
+related
+retailPrice                   // array
+retailPrice.amount
+retailPrice.country
+retailPrice.currency
+retailPrice.precision
+retailPrice.validFrom
+retailPrice.verifiedAt
+revision
+revisionIndex
+revisions
+rm
+
+search
+shipping
+source
+status
+style
+
+
+type
+
+usedStockCount
+version
+
+waterResistance
+waterResistanceLocal            //product_local

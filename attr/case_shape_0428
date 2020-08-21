@@ -1,0 +1,67 @@
+audemarspiguet.ts:                result.case.shape = 'Oval'
+audemarspiguet.ts:                result.case.shape = 'Round'
+breguet.ts:            if (key === 'case shape') {
+breguet.ts:                result.case.shape = value.trim();
+breitling.ts:                result.case.shape = 'Round'
+breitling.ts:                result.case.shape = 'Oval'
+breitling.ts:                result.case.shape = 'Square'
+chopard.ts:                result.case.shape = 'Oval';
+chopard.ts:                result.case.shape = 'Round';
+citizen.ts:                result.case.shape = 'Oval';
+citizen.ts:                result.case.shape = 'Round';
+grand-seiko.ts:                result.case.shape = 'Oval';
+grand-seiko.ts:                result.case.shape = 'Round';
+hermes.ts:                result.case.shape = 'Oval';
+hermes.ts:                result.case.shape = 'Round';
+iwc.ts:                    result.case.shape = 'Oval';
+iwc.ts:                    result.case.shape = 'Round';
+jaegerlecoultre.ts:                    result.case.shape = 'Oval';
+jaegerlecoultre.ts:                    result.case.shape = 'Round';
+jaegerlecoultre.ts:                            result.case.shape = 'Rectangle';
+jaegerlecoultre.ts:                            result.case.shape = 'Round';
+jomashop.ts:                if (key === 'case shape :') {
+jomashop.ts:                    result.case.shape = value.trim();
+longines-de.ts:                result.case.shape = value.trim();
+longines-hk.ts:                result.case.shape = value.trim();
+longines-jp.ts:                result.case.shape = value.trim();
+longines-zh.ts:                result.case.shape = value.trim();
+longines.ts:                result.case.shape = value.trim();
+louisvuitton.ts:                result.case.shape = 'Oval';
+louisvuitton.ts:                result.case.shape = 'Round';
+mayfair.ts:            if (key === 'case shape') {
+orient.ts:                result.case.shape = 'Oval';
+orient.ts:                result.case.shape = 'Round';
+oris.ts:                    result.case.shape = 'Oval';
+oris.ts:                    result.case.shape = 'Round';
+panerai.ts:                result.case.shape = 'Oval';
+panerai.ts:                result.case.shape = 'Round';
+patek.ts:                result.case.shape = 'Oval';
+patek.ts:                result.case.shape = 'Round';
+piaget.ts:            if (key === 'case shape:') {
+piaget.ts:                result.case.shape = value.trim();
+prestigetime.ts:            if (word.indexOf('Case Shape') > -1) {
+prestigetime.ts:                key = 'Case Shape';
+prestigetime.ts:                value = word.split('Case Shape')[1].trim();
+prestigetime.ts:            if (key === 'case shape') {
+prestigetime.ts:                result.case.shape = value.trim();
+rado.ts:                        result.case.shape = value.trim();
+rado.ts:                        result.case.shape = value.trim();
+rado.ts:                        result.case.shape = value.trim();
+rado.ts:                        result.case.shape = value.trim();
+rado.ts:                        result.case.shape = value.trim();
+rolex.ts:                result.case.shape = 'Oval';
+rolex.ts:                result.case.shape = 'Round';
+seiko.ts:                result.case.shape = 'Oval';
+seiko.ts:                result.case.shape = 'Round';
+tagheuer.ts:                        result.case.shape = 'Oval';
+tagheuer.ts:                        result.case.shape = 'Runden';
+tagheuer.ts:                        result.case.shape = 'Oval';
+tagheuer.ts:                        result.case.shape = 'Round';
+tissot.ts:                    if (key === 'case shape') {
+tissot.ts:                        result.case.shape = value;
+tissot.ts:                    if (key === 'case shape') {
+tissot.ts:                        result.case.shape = value;
+tudor.ts:                result.case.shape = 'Oval';
+tudor.ts:                result.case.shape = 'Round';
+watchmaxx.ts:            if (key === 'case shape') {
+watchmaxx.ts:                result.case.shape = value.trim();

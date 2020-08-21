@@ -1,0 +1,14 @@
+result.case.shape = 'Oval'
+result.case.shape = 'Rectangle';
+result.case.shape = 'Round'
+result.case.shape = 'Square'
+
+Cushion                 /cushion/
+Oblong                  /oblong/
+Octagon                 /octagon/
+Oval                    /oval/ 
+Rectangular             /rectangle/rectangular/
+Round                   /round/
+Square                  /square/
+Tonneau                 /tonneau/
+Unique                  /unique/

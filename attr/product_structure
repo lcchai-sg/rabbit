@@ -1,0 +1,203 @@
+***** processing data *****
+ASIN
+ASIN.twc
+ASIN.ws
+GTIN
+GTIN.twc
+GTIN.ws
+HS
+SKU
+alternative
+alternative.0
+amendments
+assets[]
+  reference
+  status
+  type
+band
+  buckle
+  clasp
+  color
+  length
+  material
+  materials
+  materials.0
+  materials.1
+  reference
+  type
+  width
+bandLocal[]
+  buckle
+  lang
+  materials
+  materials.0
+  materials.1
+  type
+bandType
+box
+brandID
+bundled
+caliber
+  additional
+  battery
+  brand
+  chronograph
+  crystal
+  description
+  diameter
+  display
+  frequency
+  hands
+  jewels
+  label
+  powerreserve
+  reference
+  reserve
+  type
+caliberLocal[]
+  additional
+  brand
+  chronograph
+  description
+  diameter
+  frequency
+  hands
+  jewels
+  lang
+  reference
+  reserve
+  type
+case
+  back
+  bezel
+  coating
+  color
+  crystal
+  crystalCoating
+  depth
+  diameter
+  height
+  lugWidth
+  lugwidth
+  material
+  materials[]
+  shape
+  thickness
+  width
+caseLocal
+  back
+  bezel
+  crystal
+  diameter
+  height
+  lang
+  lugWidth
+  materials
+  materials.0
+  shape
+caseShape
+description
+descriptionLocal[]
+  lang
+  value
+dial
+  color
+  finish
+  gemSet
+  handStyle
+  indexType
+  indextype
+  subDial
+  type
+dialColor
+dialLocal[]
+  color
+  finish
+  gemSet
+  handStyle
+  indexType
+  lang
+external
+  hh
+  jomashop
+  kakaku
+  official
+  prestigetime
+  uvkdk
+  vip
+  watchbase
+  watchesofmayfair
+  watchmaxx
+  watchsofmayfair
+feature[]
+gems
+gender
+gtin
+id
+limited
+manufacturedFrom
+manufacturedTo
+modelID
+movementType
+name
+nameLocal[]
+  lang
+  source
+  value
+newStockCount
+nextRevisionNumber
+path
+pendingRevisions
+provision
+ranking
+ranking.collection
+ranking.home
+reference
+rejectedRevisions[]
+  amendments[]
+    base
+    op
+    path
+    value
+  appliedAt
+  id
+  status
+  submittedAt
+  userID
+related
+.retailPrice[]
+  amount
+  country
+  courrency
+  currency
+  precision
+  source
+  validFrom
+  verifiedAt
+revision
+revisionIndex[]
+revisions[]
+  amendments[]
+    base
+    op
+    path
+    value
+  appliedAt
+  id
+  status
+  submittedAt
+  userID
+rm
+search
+shipping
+source
+status
+style[]
+type
+updateAt
+usedStockCount
+version
+waterResistance
+waterResistanceLocal[]
+  lang
+  value

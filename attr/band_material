@@ -1,0 +1,28 @@
+result.band.material = 'Alligator Leather';
+result.band.material = 'Calfskin';
+result.band.material = 'Genuine Shell';
+result.band.material = 'Leather';
+result.band.material = 'Polymer';
+result.band.material = 'Steel';
+result.band.material = 'aluminium';
+result.band.material = 'rose gold';
+result.band.material = 'rubber';
+result.band.material = 'stainless steel';
+result.band.material = 'titanium';
+result.band.material = 'yellow gold';
+
+Alligator Leather	      /alligator/crocodile/
+Leather			            /leather/
+Stainless Steel		      /stainless/
+Calf Leather 		        /calf/
+Yellow Gold 		        /yellow gold/
+Titanium		            /titanium/
+Rubber 			            /rubber/
+White Gold 		          /white gold/
+Everose Gold 		        /everose/
+Steel 			            /steel/
+Ceramic 		            /ceramic/
+Silicone		            /silicone/
+Genuine Shell		        /genuine shell/
+Polymer			            /polymer/
+Rose Gold		            /rose gold/

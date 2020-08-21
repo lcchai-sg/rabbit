@@ -1,0 +1,94 @@
+**** processing data *****
+additional[]
+band
+  buckle
+  color
+  length
+  material
+  materials
+  reference
+  type
+  width
+bezel
+  color
+  material
+  type
+brand
+brandID
+caliber
+  battery
+  brand
+  components
+  crystal
+  diameter
+  display
+  engine
+  frequency
+  hands
+  height
+  jewel
+  jewels
+  label
+  manufacture
+  reference
+  reserve
+  type
+case
+  Thickness
+  back
+  coating
+  crystal
+  crystalCoating
+  depth
+  diameter
+  height
+  lenght
+  lugWidth
+  lugwidth
+  material
+  materials[]
+  shape
+  thickness
+  width
+collection
+description
+dial
+  color
+  finish
+  handStyle
+  indexType
+  indextype
+  material
+  type
+feature[]
+features[]
+  Calendar[]
+  Functions
+gender
+lang
+lastCheckAt
+manufacturedFrom
+manufacturedTo
+name
+origin
+pair
+price
+productID
+recordedAt
+reference
+refernce
+related[]
+  name
+  url
+scripts
+source
+spec[]
+  key
+  value
+thumbnail
+url
+warranty
+waterResistance
+weight
+xlreference
+  

@@ -1,0 +1,19 @@
+result.case.back = 'Full back';
+result.case.back = 'Sapphire'
+result.case.back = 'Screw Back';
+result.case.back = 'Screw Locked'
+result.case.back = 'Screw down';
+result.case.back = 'Screw';
+result.case.back = 'See Through';
+result.case.back = 'Solid';
+result.case.back = 'Transparent';
+result.case.back = 'screwed';
+result.case.back = 'see through';
+
+See through		    /see through/see-through/
+Screwed			      /screw/
+Skeleton		      /skeleton/
+Transparent		    /transparent/
+Stainless Steel		/stainless steel/steel/
+Sapphire		      /sapphire/
+Solid			        /solid/

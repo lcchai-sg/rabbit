@@ -1,0 +1,18 @@
+result.case.material = '18 ct 5N gold';
+result.case.material = 'Titanium'
+result.case.material = 'aluminium';
+result.case.material = 'gelbes Gold';
+result.case.material = 'rose gold';
+result.case.material = 'stainless steel';
+result.case.material = 'titan';
+result.case.material = 'titanium';
+result.case.material = 'white gold';
+result.case.material = 'yellow gold';
+
+Stainless Steel		/stainless steel/
+Titanium		      /titanium/
+White Gold		    /white gold/
+Yellow Gold		    /yellow gold/
+Diamonds		      /diamond/
+Rose Gold		      /rose gold/
+Aluminium		      /aluminium/

@@ -1,0 +1,630 @@
+{
+  name: '#LOVE# earrings',
+  materials: 'Rose gold'
+  materials: 'Yellow gold'
+  materials: 'White gold'
+  materials: 'Rose gold, diamond'
+  materials: 'White gold, diamond'
+}
+{
+  name: '#LOVE# earrings, 2 diamonds',
+  materials: 'Yellow gold, diamonds'
+  materials: 'White gold, diamonds'
+}
+{
+  name: '#LOVE# single earring',
+  materials: 'Yellow gold'
+  materials: 'Rose gold'
+  materials: 'Yellow gold'
+  materials: 'White gold, diamond'
+}
+{
+  name: '1895 earrings',
+  materials: 'Platinum, diamonds'
+  materials: 'White gold, diamonds'
+  materials: 'Yellow gold, diamonds'
+}
+{
+  name: 'Agrafe earrings',
+  materials: 'Rose gold, diamonds'
+  materials: 'Yellow gold, diamonds'
+  materials: 'White gold, diamonds'
+}
+  url: '/en-sg/collections/jewellery/categories/earrings/amulette-de-cartier/b8301230-amulette-de-cartier-earrings-xs-model.html',
+  name: 'Amulette de Cartier earrings, XS model',
+  materials: 'Rose gold, onyx, diamonds'
+  materials: 'Rose gold, onyx, white mother-of-pearl, diamond'
+  materials: 'Yellow gold, white mother-of-pearl, diamonds'
+}
+{
+  name: 'C de Cartier earrings',
+  materials: 'Rose gold, pearl'
+  materials: 'White gold, pearl'
+  materials: 'White gold, diamonds'
+  materials: 'Yellow gold, diamonds'
+  materials: 'Rose gold, diamonds'
+}
+{
+  name: 'Cactus de Cartier earrings',
+  materials: 'Yellow gold, diamonds'
+  materials: 'Rose gold, diamonds'
+  materials: 'Yellow gold, aventurine, diamonds'
+  materials: 'Rose gold, spinels, diamonds'
+  materials: 'Yellow gold, emeralds, carnelians, diamonds'
+}
+{
+  name: 'Caresse d’Orchidées par Cartier earrings',
+  materials: 'Rose gold, diamonds'
+  materials: 'White gold, diamonds'
+}
+{
+  name: "Cartier d'Amour earrings",
+  materials: 'White gold, diamonds'
+  materials: 'Rose gold, diamonds'
+}
+{
+  name: 'Cartier Destinée earrings',
+  materials: 'White gold, diamonds'
+  materials: 'Rose gold, diamonds'
+}
+
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/clash-de-cartier-earrings/n8515218-clash-de-cartier-earring-large-model.html',
+  name: 'Clash de Cartier earring Large Model',
+  materials: 'Rose gold, amazonite'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/clash-de-cartier-earrings/n8515173-clash-de-cartier-earrings.html',
+  name: 'Clash de Cartier earrings Diamonds',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/clash-de-cartier-earrings/b8301416-clash-de-cartier-earrings.html',
+  name: 'Clash de Cartier earrings Small Model',
+  materials: 'Rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/clash-de-cartier-earrings/b8301415-clash-de-cartier-earrings.html',
+  name: 'Clash de Cartier earrings Small Model',
+  materials: 'Rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/clash-de-cartier-earrings/n8515174-clash-de-cartier-earrings.html',
+  name: 'Clash de Cartier earrings XL Model',
+  materials: 'Yellow gold, coral'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301405-diamants-l%C3%A9gers-earrings.html',
+  name: 'Diamants Légers earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301406-diamants-l%C3%A9gers-earrings.html',
+  name: 'Diamants Légers earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301407-diamants-l%C3%A9gers-earrings.html',
+  name: 'Diamants Légers earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301215-diamants-l%C3%A9gers-earrings-xs.html',
+  name: 'Diamants Légers earrings XS',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301213-diamants-l%C3%A9gers-earrings-xs.html',
+  name: 'Diamants Légers earrings XS',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301214-diamants-l%C3%A9gers-earrings-xs.html',
+  name: 'Diamants Légers earrings XS',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8041400-diamants-l%C3%A9gers-earrings-mm.html',
+  name: 'Diamants Légers earrings, MM',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8041500-diamants-l%C3%A9gers-earrings-mm.html',
+  name: 'Diamants Légers earrings, MM',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8041600-diamants-l%C3%A9gers-earrings-mm.html',
+  name: 'Diamants Légers earrings, MM',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800859-high-jewellery-earrings.html',
+  name: 'Diamond Collection earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/%C3%A9crou-de-cartier-earrings/b8301408-ecrou-de-cartier-earrings.html',
+  name: 'Ecrou de Cartier earrings',
+  materials: 'Rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515139-etincelle-de-cartier-earring.html',
+  name: 'Etincelle de Cartier earring',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515171-etincelle-de-cartier-earring.html',
+  name: 'Etincelle de Cartier earring',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301244-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301245-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515101-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301246-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515102-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515103-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515097-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515098-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515095-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/etincelle-de-cartier/n8515190-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515172-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515137-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301247-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515096-etincelle-de-cartier-earrings.html',
+  name: 'Etincelle de Cartier earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515086-etincelle-de-cartier-earrings-large-model.html',
+  name: 'Etincelle de Cartier earrings, large model',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301227-etincelle-de-cartier-earrings-medium-model.html',
+  name: 'Etincelle de Cartier earrings, medium model',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515087-etincelle-de-cartier-earrings-large-model.html',
+  name: 'Etincelle de Cartier earrings, medium model',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8301226-etincelle-de-cartier-earrings-small-model.html',
+  name: 'Etincelle de Cartier earrings, small model',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8043100-classic-diamonds-earrings-small-model.html',
+  name: 'Etincelle de Cartier earrings, small model',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/hp800935-cartier-fauna-and-flora-earrings.html',
+  name: 'Faune et Flore de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515036-galanterie-de-cartier-earrings.html',
+  name: 'Galanterie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515038-galanterie-de-cartier-earrings.html',
+  name: 'Galanterie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515040-galanterie-de-cartier-earrings.html',
+  name: 'Galanterie de Cartier earrings',
+  materials: 'White gold, black lacquer, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515088-galanterie-de-cartier-earrings.html',
+  name: 'Galanterie de Cartier earrings',
+  materials: 'White gold, black lacquer, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515157-galanterie-de-cartier-earrings.html',
+  name: 'Galanterie de Cartier earrings',
+  materials: 'White gold, black lacquer, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000076-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000077-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000112-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000113-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800725-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800777-high-jewellery-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800795-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800796-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800798-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800806-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800807-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800830-classic-diamond-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800924-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800925-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/hp800926-1895-earrings.html',
+  name: 'High Jewellery 1895 earrings',
+  materials: 'Platinum, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301212-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301225-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Yellow gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301234-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301235-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Yellow gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301236-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'White gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/b8301211-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/n8515009-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'Rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/juste-un-clou/n8515008-juste-un-clou-earrings.html',
+  name: 'Juste un Clou earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/n8503300-les-oiseaux-lib%C3%A9r%C3%A9s-earrings.html',
+  name: 'Les Oiseaux Libérés earrings',
+  materials: 'White gold, emeralds, mother-of-pearl, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/h8000125-les-oiseaux-liberes-earrings.html',
+  name: 'Les Oiseaux Libérés earrings',
+  materials: 'White gold, emeralds, sapphires, mother-of-pearl, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/h8000128-les-oiseaux-lib%C3%A9r%C3%A9s-earrings.html',
+  name: 'Les Oiseaux Libérés earrings',
+  materials: 'White gold, sapphires, emeralds, grey mother-of-pearl, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/h8000129-les-oiseaux-liberes-earrings.html',
+  name: 'Les Oiseaux Libérés earrings',
+  materials: 'White gold, emeralds, mother-of-pearl, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/cartier-fauna-and-flora/h8000127-les-oiseaux-lib%C3%A9r%C3%A9s-earrings.html',
+  name: 'Les Oiseaux Libérés earrings',
+  materials: 'White gold, rubies, emeralds, mother-of-pearl, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/links-and-chains/b8032600-maillon-panth%C3%A8re-earrings-3-diamond-paved-rows.html',
+  name: 'Maillon Panthère earrings, 3 diamond-paved rows',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8050700-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, diamonds, emeralds, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/b8043900-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Yellow gold, tsavorite garnets, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/b8044700-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Yellow gold, lacquer, diamonds, tsavorite garnets, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8503200-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, diamonds, emeralds, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8026900-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, emeralds, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8515072-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Yellow gold, diamonds, tsavorite garnets, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8515073-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, emeralds, diamonds, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8045900-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, diamonds, emeralds, onyx'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/h8000330-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, emeralds, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/n8503700-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, nephrite jade, onyx, emeralds, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800976-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, emeralds, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800671-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'White gold, emeralds, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800741-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Platinum, pearls, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800755-null.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Platinum, emeralds, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800923-panth%C3%A8re-de-cartier-earrings.html',
+  name: 'Panthère de Cartier earrings',
+  materials: 'Platinum, sapphires, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/h8000054-panthere-de-cartier-earrings.html',
+  name: 'Panthère de Cartier High Jewellery earrings',
+  materials: 'Platinum, coral, onyx, emeralds, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/h8000291-panth%C3%A8re-de-cartier-high-jewellery-earrings.html',
+  name: 'Panthère de Cartier High Jewellery earrings',
+  materials: 'Platinum, aquamarines, onyx, diamonds.'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp800963-panthere-de-cartier-earrings.html',
+  name: 'Panthère de Cartier High Jewellery earrings',
+  materials: 'Platinum, tsavorites, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/panthere-de-cartier/hp801024-earrings.html',
+  name: 'Panthère de Cartier High Jewellery earrings',
+  materials: 'Platinum, sapphires, onyx, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/agrafe/h8000654-pluie-de-cartier-earrings.html',
+  name: 'Pluie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/pluie-de-cartier-earrings/n8515134-pluie-de-cartier-earrings.html',
+  name: 'Pluie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/pluie-de-cartier-earrings/h8000466-pluie-de-cartier-earrings.html',
+  name: 'Pluie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/pluie-de-cartier-earrings/n8515135-pluie-de-cartier-earrings.html',
+  name: 'Pluie de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515094-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515129-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515133-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000215-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000334-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/h8000454-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/reflection-de-cartier/h8000629-reflection-de-cartier-earrings.html',
+  name: 'Reflection de Cartier earrings',
+  materials: 'White gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/b8043400-saphirs-l%C3%A9gers-de-cartier-earrings.html',
+  name: 'Saphirs Légers de Cartier earrings',
+  materials: 'Rose gold, pink sapphires'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8017100-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8043200-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/80083231-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8031700-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8045300-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8301224-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, diamonds, ceramic'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/b8031900-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, yellow gold, rose gold, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/trinity-de-cartier/n8500300-trinity-de-cartier-earrings.html',
+  name: 'Trinity earrings',
+  materials: 'White gold, ceramic, diamonds'
+}
+{
+  url: '/en-sg/collections/jewellery/categories/earrings/diamond-collection/n8515014-trinity-ruban-earrings.html',
+  name: 'Trinity Ruban earrings',
+  materials: 'White gold, diamonds'
+}

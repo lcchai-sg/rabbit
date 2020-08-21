@@ -1,0 +1,4005 @@
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '101',
+  name: 'Tangente',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-101',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0e/3d/ed/1024xauto-q80-bg238238238/0101_0139_tangente-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '120',
+  name: 'Tangente 33 duo',
+  retail: { currency: 'SGD', price: '1,940' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-duo-120',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/70/a0/21/1024xauto-q80-bg238238238/0120_0127_tangente_33_duo-2d-front-maskedpXEJIH3xYu5DB.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '122',
+  name: 'Tangente 33',
+  retail: { currency: 'SGD', price: '2,360' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-122',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/99/a9/d0/1024xauto-q80-bg238238238/0122_0123_tangente_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '125',
+  name: 'Tangente 33 gray',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-gray-125',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b4/6d/54/1024xauto-q80-bg238238238/0125_tangente_33_grau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '126',
+  name: 'Tangente 33 karat',
+  retail: { currency: 'SGD', price: '2,850' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-karat-126',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c7/1c/c7/1024xauto-q80-bg238238238/0126_tangente_33_karat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '130',
+  name: 'Tangente 38 date',
+  retail: { currency: 'SGD', price: '3,680' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-date-130',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2c/35/75/1024xauto-q80-bg238238238/0130_tangente_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '131',
+  name: 'Tangente date power reserve',
+  retail: { currency: 'SGD', price: '4,660' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-date-power-reserve-131',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c0/31/8e/1024xauto-q80-bg238238238/0131_tangente_d_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '132',
+  name: 'Tangente midnight blue',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-midnight-blue-132',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/1e/9b/1024xauto-q80-bg238238238/0133_tangente_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '140',
+  name: 'Tangente neomatik 39',
+  retail: { currency: 'SGD', price: '5,000' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-140',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/33/b6/78/1024xauto-q80-bg238238238/0140_tangente_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '141',
+  name: 'Tangente neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,140' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-silvercut-141',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/dc/ea/f7/1024xauto-q80-bg238238238/0141_tangente_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '142',
+  name: 'Tangente neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,140' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-midnight-blue-142',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a1/ce/c4/1024xauto-q80-bg238238238/0142_tangente_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '150',
+  name: 'Tangente 33 champagne',
+  retail: { currency: 'SGD', price: '2,430' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-champagne-150',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/c5/b8/1024xauto-q80-bg238238238/0151_0150_tangente_33_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '165',
+  name: 'Tangente 38',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-165',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/55/76/15/1024xauto-q80-bg238238238/0164_0165_tangente_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '166',
+  name: 'Tangente 38 midnight blue',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-midnight-blue-166',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2b/d2/f9/1024xauto-q80-bg238238238/0167_tangente_38_nachtblau-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '172',
+  name: 'Tangente power reserve',
+  retail: { currency: 'SGD', price: '3,750' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-power-reserve-172',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3f/67/5d/1024xauto-q80-bg238238238/0172_tangente_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '175',
+  name: 'Tangente neomatik',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-175',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/20/d9/f9/1024xauto-q80-bg238238238/0175_tangente_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '176',
+  name: 'Tangente neomatik champagne',
+  retail: { currency: 'SGD', price: '4,900' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-champagne-176',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/fa/76/47/1024xauto-q80-bg238238238/0176_tangente_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '177',
+  name: 'Tangente neomatik midnight blue',
+  retail: { currency: 'SGD', price: '4,900' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-midnight-blue-177',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/51/65/86/1024xauto-q80-bg238238238/0177_tangente_neomatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '180',
+  name: 'Tangente neomatik 41 Update',
+  retail: { currency: 'SGD', price: '5,570' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-41-update-180',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b2/71/9a/1024xauto-q80-bg238238238/0180_tangente_neomatik_41_update-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '181',
+  name: 'Tangente neomatik 41 Update ruthenium',
+  retail: { currency: 'SGD', price: '5,570' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-41-update-ruthenium-181',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f6/b6/a7/1024xauto-q80-bg238238238/0181_tangente_neomatik_41_update_ruthenium-2d-front-maskedkotE3ZRMsh5p2.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '580',
+  name: 'Tangente Sport neomatik 42 date',
+  retail: { currency: 'SGD', price: '6,920' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-sport-neomatik-42-date-580',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/02/6c/c8/1024xauto-q80-bg238238238/0580_tangente_sport_neomatik_42_d-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '581',
+  name: 'Tangente Sport neomatik 42 date marine black',
+  retail: { currency: 'SGD', price: '6,920' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-sport-neomatik-42-date-marine-black-581',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/89/0e/8c/1024xauto-q80-bg238238238/0581_tangente_sport_neomatik_42_d_blauschwarz-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1101',
+  name: 'Metro date power reserve',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-date-power-reserve-1101',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6b/f5/c0/1024xauto-q80-bg238238238/1101_metro_d_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1102',
+  name: 'Metro 38 date',
+  retail: { currency: 'SGD', price: '4,200' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-date-1102',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f5/14/19/1024xauto-q80-bg238238238/1102_metro_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1103',
+  name: 'Metro 38 date urban gray',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-date-urban-gray-1103',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/29/da/2a/1024xauto-q80-bg238238238/1103_metro_38_d_stadtschwarz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1106',
+  name: 'Metro neomatik',
+  retail: { currency: 'SGD', price: '5,280' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-1106',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/da/99/a8/1024xauto-q80-bg238238238/1106_metro_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1107',
+  name: 'Metro neomatik champagne',
+  retail: { currency: 'SGD', price: '5,420' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-champagne-1107',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a9/d6/c6/1024xauto-q80-bg238238238/1107_metro_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1109',
+  name: 'Metro 38',
+  retail: { currency: 'SGD', price: '3,300' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-1109',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/d2/02/1024xauto-q80-bg238238238/1108_1109_metro_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1110',
+  name: 'Metro neomatik midnight blue',
+  retail: { currency: 'SGD', price: '5,420' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-midnight-blue-1110',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c6/ff/4a/1024xauto-q80-bg238238238/1110_metro_neomatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1112',
+  name: 'Metro 38 urban gray',
+  retail: { currency: 'SGD', price: '3,370' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-urban-gray-1112',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/d7/ff/1024xauto-q80-bg238238238/1111_1112_metro_38_stadtschwarz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1113',
+  name: 'Metro neomatik 39',
+  retail: { currency: 'SGD', price: '5,520' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-1113',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/76/19/36/1024xauto-q80-bg238238238/1113_metro_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1114',
+  name: 'Metro neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,660' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-silvercut-1114',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7f/f4/65/1024xauto-q80-bg238238238/1114_metro_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1115',
+  name: 'Metro neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,660' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-midnight-blue-1115',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ff/ee/38/1024xauto-q80-bg238238238/1115_metro_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1170',
+  name: 'Metro rose gold 33',
+  retail: { currency: 'SGD', price: '9,750' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-rose-gold-33-1170',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/82/35/fb/1024xauto-q80-bg238238238/1170_metro_rosegold_33_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1180',
+  name: 'Metro rose gold neomatik 39',
+  retail: { currency: 'SGD', price: '12,510' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-rose-gold-neomatik-39-1180',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d8/b3/dd/1024xauto-q80-bg238238238/1180_metro_rg_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '201',
+  name: 'Ludwig',
+  retail: { currency: 'SGD', price: '2,500' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-201',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/54/a8/78/1024xauto-q80-bg238238238/0201_0205_ludwig-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '231',
+  name: 'Ludwig 38 date',
+  retail: { currency: 'SGD', price: '3,680' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-38-date-231',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/28/7f/1e/1024xauto-q80-bg238238238/0231_ludwig_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '235',
+  name: 'Ludwig 38',
+  retail: { currency: 'SGD', price: '2,740' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-38-235',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/11/f6/60/1024xauto-q80-bg238238238/0234_0235_ludwig_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '240',
+  name: 'Ludwig 33 duo',
+  retail: { currency: 'SGD', price: '1,840' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-duo-240',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5b/0e/40/1024xauto-q80-bg238238238/240_0241_ludwig_33_duo-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '243',
+  name: 'Ludwig 33',
+  retail: { currency: 'SGD', price: '2,260' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-243',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/34/ce/0a/1024xauto-q80-bg238238238/243_0244_ludwig_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '247',
+  name: 'Ludwig 33 champagne',
+  retail: { currency: 'SGD', price: '2,330' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-champagne-247',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/85/f3/b0/1024xauto-q80-bg238238238/248_0247_ludwig_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '251',
+  name: 'Ludwig automatic',
+  retail: { currency: 'SGD', price: '4,270' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-automatic-251',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/61/66/77/1024xauto-q80-bg238238238/0251_ludwig_automatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '260',
+  name: 'Ludwig neomatik 41 date',
+  retail: { currency: 'SGD', price: '5,460' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-41-date-260',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/73/56/03/1024xauto-q80-bg238238238/0260_ludwig_neomatik_41_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '271',
+  name: 'Ludwig automatic date',
+  retail: { currency: 'SGD', price: '5,040' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-automatic-date-271',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/fc/bf/ea/1024xauto-q80-bg238238238/0271_ludwig_automatik_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '282',
+  name: 'Ludwig neomatik',
+  retail: { currency: 'SGD', price: '4,660' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-282',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/52/48/7f/1024xauto-q80-bg238238238/0282_ludwig_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '283',
+  name: 'Ludwig neomatik champagne',
+  retail: { currency: 'SGD', price: '4,790' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-champagne-283',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/15/dc/2f/1024xauto-q80-bg238238238/0283_ludwig_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '301',
+  name: 'Orion',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-301',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/26/d0/1024xauto-q80-bg238238238/0301_0309_orion_35-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '307',
+  name: 'Orion anthracite',
+  retail: { currency: 'SGD', price: '3,230' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-anthracite-307',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/23/cb/09/1024xauto-q80-bg238238238/0307_orion_anthrazit-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '319',
+  name: 'Orion 33 duo',
+  retail: { currency: 'SGD', price: '2,120' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-duo-319',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0a/c9/b7/1024xauto-q80-bg238238238/0319_0320_orion_33_duo-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '321',
+  name: 'Orion 33',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-321',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3b/92/bb/1024xauto-q80-bg238238238/321_0322_orion_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '324',
+  name: 'Orion 33 white',
+  retail: { currency: 'SGD', price: '2,920' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-white-324',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e9/17/13/1024xauto-q80-bg238238238/324_orion_33_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '325',
+  name: 'Orion 33 rose',
+  retail: { currency: 'SGD', price: '2,990' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-rose-325',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/50/g0/8d/1024xauto-q80-bg238238238/325_orion_33_rose-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '326',
+  name: 'Orion 1989',
+  retail: { currency: 'SGD', price: '2,990' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-1989-326',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/41/41/a5/1024xauto-q80-bg238238238/326_orion_33_1989-2d-front-maskedV8WlqJKk9CByF.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '327',
+  name: 'Orion 33 champagne',
+  retail: { currency: 'SGD', price: '2,610' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-champagne-327',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a2/e4/fc/1024xauto-q80-bg238238238/328_0327_orion_33_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '330',
+  name: 'Orion 33 midnight blue',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-midnight-blue-330',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/ab/20/1024xauto-q80-bg238238238/329_orion_33_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '331',
+  name: 'Orion white',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-white-331',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8f/f2/4d/1024xauto-q80-bg238238238/0331_0306_orion_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '340',
+  name: 'Orion neomatik 39',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-340',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2e/48/ee/1024xauto-q80-bg238238238/0340_orion_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '341',
+  name: 'Orion neomatik 39 white',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-white-341',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b6/29/6a/1024xauto-q80-bg238238238/0341_orion_neomatik_39_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '342',
+  name: 'Orion neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-silvercut-342',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/94/6a/f6/1024xauto-q80-bg238238238/0342_orion_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '343',
+  name: 'Orion neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-midnight-blue-343',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8a/79/1b/1024xauto-q80-bg238238238/0343_orion_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '352',
+  name: 'Orion rose',
+  retail: { currency: 'SGD', price: '3,230' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-rose-352',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/88/59/8e/1024xauto-q80-bg238238238/0352_orion_rose-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '360',
+  name: 'Orion neomatik 41 date',
+  retail: { currency: 'SGD', price: '5,740' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-360',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/78/a9/1024xauto-q80-bg238238238/0360_orion_neomatik_41_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '363',
+  name: 'Orion neomatik 41 date midnight blue',
+  retail: { currency: 'SGD', price: '5,950' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-midnight-blue-363',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7e/09/34/1024xauto-q80-bg238238238/0363_orion_neomatik_41_d_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '364',
+  name: 'Orion neomatik 41 date olive gold',
+  retail: { currency: 'SGD', price: '5,950' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-olive-gold-364',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ae/33/27/1024xauto-q80-bg238238238/0364_orion_neomatik_41_d_olivgold-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '380',
+  name: 'Orion 38 date',
+  retail: { currency: 'SGD', price: '3,960' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-date-380',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0c/d7/23/1024xauto-q80-bg238238238/0380_orion_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '381',
+  name: 'Orion 38 date white',
+  retail: { currency: 'SGD', price: '4,100' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-date-white-381',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/98/b8/94/1024xauto-q80-bg238238238/0381_orion_38_d_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '383',
+  name: 'Orion 38 gray',
+  retail: { currency: 'SGD', price: '3,470' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-gray-383',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/34/69/ae/1024xauto-q80-bg238238238/0383_orion_38_grau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '385',
+  name: 'Orion 1989',
+  retail: { currency: 'SGD', price: '3,470' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-1989-385',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/be/18/8f/1024xauto-q80-bg238238238/0385_orion_38_1989-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '386',
+  name: 'Orion 38 white',
+  retail: { currency: 'SGD', price: '3,400' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-white-386',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5e/b9/60/1024xauto-q80-bg238238238/0386_orion_38_weiss-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '387',
+  name: 'Orion 38',
+  retail: { currency: 'SGD', price: '3,020' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-387',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/80/a1/fe/1024xauto-q80-bg238238238/0387_0384_orion_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '388',
+  name: 'Orion 38 midnight blue',
+  retail: { currency: 'SGD', price: '3,020' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-midnight-blue-388',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b0/65/47/1024xauto-q80-bg238238238/0389_orion_38_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '392',
+  name: 'Orion neomatik',
+  retail: { currency: 'SGD', price: '4,930' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-392',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b2/9f/4b/1024xauto-q80-bg238238238/0392_orion_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '393',
+  name: 'Orion neomatik champagne',
+  retail: { currency: 'SGD', price: '5,070' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-champagne-393',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/16/23/06/1024xauto-q80-bg238238238/0393_orion_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '401',
+  name: 'Tetra 27',
+  retail: { currency: 'SGD', price: '2,640' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-401',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/07/a2/61/1024xauto-q80-bg238238238/0401_tetra_27-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '405',
+  name: 'Tetra 27 duo',
+  retail: { currency: 'SGD', price: '2,220' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-duo-405',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/1c/d5/f7/1024xauto-q80-bg238238238/0405_tetra_27_duo-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '408',
+  name: 'Tetra',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-408',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d0/4b/f9/1024xauto-q80-bg238238238/0408_0406_tetra-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '421',
+  name: 'Tetra neomatik 39',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-421',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/db/90/50/1024xauto-q80-bg238238238/0421_tetra_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '422',
+  name: 'Tetra neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-midnight-blue-422',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/9a/51/de/1024xauto-q80-bg238238238/0422_tetra_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '423',
+  name: 'Tetra neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-silvercut-423',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/96/c0/b8/1024xauto-q80-bg238238238/0423_tetra_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '443',
+  name: 'Tetra Divine Spark',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-divine-spark-443',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f9/0a/12/1024xauto-q80-bg238238238/0443_0444_tetra_goetterfunken_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '445',
+  name: 'Tetra Ode to Joy',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-ode-to-joy-445',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/96/e5/70/1024xauto-q80-bg238238238/0445_0446_tetra_ode_an_die_freude__2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '447',
+  name: 'Tetra Immortal Beloved',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-immortal-beloved-447',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2d/0d/84/1024xauto-q80-bg238238238/0447_0448_tetra_unsterbliche_geliebte__2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '449',
+  name: 'Tetra Fidelio',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-fidelio-449',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a7/51/18/1024xauto-q80-bg238238238/0449_0450_tetra_fidelio_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '472',
+  name: 'Tetra 27 karat',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-karat-472',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4e/a2/a9/1024xauto-q80-bg238238238/0472_tetra_27_karat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '473',
+  name: 'Tetra 27 champagne',
+  retail: { currency: 'SGD', price: '2,710' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-champagne-473',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f4/b7/73/1024xauto-q80-bg238238238/0473_tetra_27_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '489',
+  name: 'Tetra Clärchen',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-claerchen-489',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/40/f3/58/1024xauto-q80-bg238238238/0489_tetra_claerchen-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '490',
+  name: 'Tetra Nachtijall',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-nachtijall-490',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/76/e3/f4/1024xauto-q80-bg238238238/0490_tetra_nachtijall-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '491',
+  name: 'Tetra Goldelse',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-goldelse-491',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6a/c3/06/1024xauto-q80-bg238238238/0491_tetra_goldelse-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '492',
+  name: 'Tetra Kleene',
+  retail: { currency: 'SGD', price: '4,170' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-kleene-492',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5a/bc/c4/1024xauto-q80-bg238238238/0492_tetra_kleene-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '495',
+  name: 'Tetra Matcha',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-matcha-495',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/1a/00/e8/1024xauto-q80-bg238238238/0495_tetra_matcha-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '496',
+  name: 'Tetra Azure',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-azure-496',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/32/35/14/1024xauto-q80-bg238238238/0496_tetra_azur-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '497',
+  name: 'Tetra Pearl',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-pearl-497',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0a/b6/70/1024xauto-q80-bg238238238/0493_tetra_perle-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '498',
+  name: 'Tetra Grenadine',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-grenadine-498',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/g0/36/2a/1024xauto-q80-bg238238238/0494_tetra_grenadine-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '499',
+  name: 'Tetra plum',
+  retail: { currency: 'SGD', price: '3,720' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-plum-499',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/eb/a0/99/1024xauto-q80-bg238238238/0499_tetra_pflaume-2d-front-maskedKXO9bUo1WtbJw.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1203',
+  name: 'Minimatik',
+  retail: { currency: 'SGD', price: '5,070' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-1203',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8c/96/cd/1024xauto-q80-bg238238238/1203_minimatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1204',
+  name: 'Minimatik champagne',
+  retail: { currency: 'SGD', price: '5,210' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-champagne-1204',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/1c/f9/1024xauto-q80-bg238238238/1204_minimatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1205',
+  name: 'Minimatik midnight blue',
+  retail: { currency: 'SGD', price: '5,210' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-midnight-blue-1205',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b6/bd/cf/1024xauto-q80-bg238238238/1205_minimatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '701',
+  name: 'Club',
+  retail: { currency: 'SGD', price: '1,880' },
+  url: 'https://nomos-glashuette.com/en/club/club-701',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/82/c8/97/1024xauto-q80-bg238238238/0701_club-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '708',
+  name: 'Club Campus',
+  retail: { currency: 'SGD', price: '1,910' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-708',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/75/10/19/1024xauto-q80-bg238238238/0708_0709_club_36_campus-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '731',
+  name: 'Club date',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/club/club-date-731',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b3/cc/14/1024xauto-q80-bg238238238/0731_0733_club_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '735',
+  name: 'Club Campus 38',
+  retail: { currency: 'SGD', price: '2,080' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-38-735',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/21/23/01/1024xauto-q80-bg238238238/0735_0737_club_38_campus-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '736',
+  name: 'Club Campus 38 night',
+  retail: { currency: 'SGD', price: '2,080' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-38-night-736',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f7/87/a4/1024xauto-q80-bg238238238/0736_club_38_campus_nacht-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '740',
+  name: 'Club neomatik',
+  retail: { currency: 'SGD', price: '4,200' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-740',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/dc/74/f2/1024xauto-q80-bg238238238/0740_club_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '741',
+  name: 'Club neomatik Atlantic',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-atlantic-741',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/fe/56/1024xauto-q80-bg238238238/0741_club_37_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '742',
+  name: 'Club neomatik siren blue',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-blue-742',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/71/03/1f/1024xauto-q80-bg238238238/0742_club_37_neomatik_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '743',
+  name: 'Club neomatik siren red',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-red-743',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bf/fb/bb/1024xauto-q80-bg238238238/0743_club_neomatik_signalrot-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '744',
+  name: 'Club neomatik siren white',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-white-744',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/68/a6/3d/1024xauto-q80-bg238238238/0744_club_neomatik_signalweiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '748',
+  name: 'Club Campus neomatik',
+  retail: { currency: 'SGD', price: '3,890' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-748',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/65/2b/86/1024xauto-q80-bg238238238/0748_club_neomatik_37_campus_weiss_stahl-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '751',
+  name: 'Club automatic',
+  retail: { currency: 'SGD', price: '3,400' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-751',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ba/7f/0c/1024xauto-q80-bg238238238/0751_0753_club_automat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '765',
+  name: 'Club Campus neomatik 39',
+  retail: { currency: 'SGD', price: '4,140' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-39-765',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/89/98/c5/1024xauto-q80-bg238238238/0765_club_neomatik_39_campus_weiss_stahl-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '767',
+  name: 'Club Campus neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '4,070' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-39-midnight-blue-767',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a6/f5/2f/1024xauto-q80-bg238238238/0767_club_neomatik_39_campus_dunkel_textil-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '775',
+  name: 'Club automatic date',
+  retail: { currency: 'SGD', price: '4,550' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-775',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8a/06/39/1024xauto-q80-bg238238238/0775_club_automat_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '776',
+  name: 'Club automatic date Atlantic',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-atlantic-776',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f7/06/a6/1024xauto-q80-bg238238238/0776_club_automat_datum_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '777',
+  name: 'Club automatic date siren blue',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-siren-blue-777',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/e7/1a/1024xauto-q80-bg238238238/0777_club_automat_d_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '781',
+  name: 'Club Sport neomatik 42 date black',
+  retail: { currency: 'SGD', price: '5,600' },
+  url: 'https://nomos-glashuette.com/en/club/club-sport-neomatik-42-date-black-781',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3e/98/17/1024xauto-q80-bg238238238/0781_club_sport_neomatik_42_d_schwarz-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '552',
+  name: 'Ahoi Atlantic',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-atlantic-552',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2b/7d/e1/1024xauto-q80-bg238238238/0552_ahoi_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '553',
+  name: 'Ahoi Atlantic date',
+  retail: { currency: 'SGD', price: '6,290' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-atlantic-date-553',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bd/bf/9c/1024xauto-q80-bg238238238/0553_ahoi_atlantik_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '554',
+  name: 'Ahoi date siren blue',
+  retail: { currency: 'SGD', price: '6,290' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-date-siren-blue-554',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4d/45/3a/1024xauto-q80-bg238238238/0554_ahoi_d_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '555',
+  name: 'Ahoi',
+  retail: { currency: 'SGD', price: '4,790' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-555',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/e1/dc/1024xauto-q80-bg238238238/0550_0555_ahoi-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '556',
+  name: 'Ahoi date',
+  retail: { currency: 'SGD', price: '5,700' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-date-556',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e2/3d/c8/1024xauto-q80-bg238238238/0551_0556_ahoi_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '560',
+  name: 'Ahoi neomatik',
+  retail: { currency: 'SGD', price: '5,490' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-560',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/71/e4/3f/1024xauto-q80-bg238238238/0560_ahoi_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '561',
+  name: 'Ahoi neomatik Atlantic',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-atlantic-561',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b0/88/a2/1024xauto-q80-bg238238238/0561_ahoi_neomatik_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '562',
+  name: 'Ahoi neomatik siren blue',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-blue-562',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d5/07/4f/1024xauto-q80-bg238238238/0562_ahoi_neomatik_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '563',
+  name: 'Ahoi neomatik siren red',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-red-563',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/54/fc/45/1024xauto-q80-bg238238238/0563_ahoi_signalrot-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '564',
+  name: 'Ahoi neomatik siren white',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-white-564',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e1/a2/6d/1024xauto-q80-bg238238238/0564_ahoi_neomatik_signalweiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S10',
+  name: 'Tangomat red—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-red-a-century-of-bauhaus-601-s10',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/43/e5/84/1024xauto-q80-bg238238238/0601_s10_tangomat_dfs_hongkong_red_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S11',
+  name: 'Tangomat blue—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-blue-a-century-of-bauhaus-601-s11',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/b1/1f/1024xauto-q80-bg238238238/0601_s11_tangomat_dfs_hongkong_blue_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S12',
+  name: 'Tangomat yellow—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-yellow-a-century-of-bauhaus-601-s12',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/cb/47/89/1024xauto-q80-bg238238238/0601_s12_tangomat_dfs_hongkong_yellow_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S13',
+  name: 'Tangomat für Ärzte ohne Grenzen Deutschland',
+  retail: { currency: 'SGD', price: '4,310' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-fur-aerzte-ohne-grenzen-deutschland-601-s13',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/9d/fe/16/1024xauto-q80-bg238238238/0601-s13_tangomat_aog_d_2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '602',
+  name: 'Tangomat date',
+  retail: { currency: 'SGD', price: '5,110' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-date-602',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4b/eb/45/1024xauto-q80-bg238238238/0602_tangomat_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '603',
+  name: 'Tangomat ruthenium',
+  retail: { currency: 'SGD', price: '4,450' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-ruthenium-603',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3e/f8/76/1024xauto-q80-bg238238238/0603_tangomat_ruthenium-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '604',
+  name: 'Tangomat ruthenium date',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-ruthenium-date-604',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/40/b7/9f/1024xauto-q80-bg238238238/0604_tangomat_ruthenium_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '635',
+  name: 'Tangomat GMT',
+  retail: { currency: 'SGD', price: '6,460' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-gmt-635',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e3/0e/49/1024xauto-q80-bg238238238/0635_tangomat_gmt_nyc-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '641',
+  name: 'Tangomat',
+  retail: { currency: 'SGD', price: '3,930' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-641',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a7/84/8d/1024xauto-q80-bg238238238/0601_0641_tangomat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '802',
+  name: 'Zürich date',
+  retail: { currency: 'SGD', price: '6,430' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-date-802',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7e/b1/f4/1024xauto-q80-bg238238238/0802_zuerich_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '805',
+  name: 'Zürich world time',
+  retail: { currency: 'SGD', price: '7,820' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-world-time-805',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ac/6f/55/1024xauto-q80-bg238238238/0805_zuerich_wz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '806',
+  name: 'Zürich',
+  retail: { currency: 'SGD', price: '5,280' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-806',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ae/d8/54/1024xauto-q80-bg238238238/0806_0801_zuerich-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '807',
+  name: 'Zürich world time midnight blue',
+  retail: { currency: 'SGD', price: '8,030' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-world-time-midnight-blue-807',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d2/ae/d8/1024xauto-q80-bg238238238/0807_zuerich_wz_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1301',
+  name: 'Autobahn neomatik 41 date',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-1301',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/74/e8/1024xauto-q80-bg238238238/1301_autobahn_neomatik_41_d_1bn_pr.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1302',
+  name: 'Autobahn neomatik 41 date midnight blue',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-midnight-blue-1302',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/87/b7/6d/1024xauto-q80-bg238238238/1302_autobahn_neomatik_41_d_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1303',
+  name: 'Autobahn neomatik 41 date sports gray',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-sports-gray-1303',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/04/8f/0e/1024xauto-q80-bg238238238/1303_autobahn_neomatik_41_d_sportgrau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '920',
+  name: 'Lux white gold',
+  retail: { currency: 'SGD', price: '27,450' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-white-gold-920',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/3a/ed/1024xauto-q80-bg238238238/0920_lux_wg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '921',
+  name: 'Lux white gold light',
+  retail: { currency: 'SGD', price: '27,450' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-white-gold-light-921',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/de/bf/6a/1024xauto-q80-bg238238238/0921_lux_wg_hell-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '940',
+  name: 'Lux Hermelin',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-hermelin-940',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/68/e4/f4/1024xauto-q80-bg238238238/0940_lux_hermelin-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '941',
+  name: 'Lux Zikade',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-zikade-941',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/e8/c6/1024xauto-q80-bg238238238/0941_lux_zikade-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '942',
+  name: 'Lux Zobel',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-zobel-942',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/51/48/f2/1024xauto-q80-bg238238238/0942_lux_zobel-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '930',
+  name: 'Lambda rose gold',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-rose-gold-930',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6d/1b/25/1024xauto-q80-bg238238238/0930_lambda_rg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '931',
+  name: 'Lambda white gold',
+  retail: { currency: 'SGD', price: '25,710' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-white-gold-931',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e9/23/g0/1024xauto-q80-bg238238238/0931_lambda_wg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '932',
+  name: 'Lambda rose gold',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-rose-gold-932',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/61/f7/37/1024xauto-q80-bg238238238/0932_lambda_rg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '933',
+  name: 'Lambda white gold',
+  retail: { currency: 'SGD', price: '25,710' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-white-gold-933',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bc/54/81/1024xauto-q80-bg238238238/0933_lambda_wg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '935',
+  name: 'Lambda deep blue',
+  retail: { currency: 'SGD', price: '26,410' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-deep-blue-935',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f3/fb/08/1024xauto-q80-bg238238238/0935_lambda_tiefblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '952',
+  name: 'Lambda 39',
+  retail: { currency: 'SGD', price: '22,240' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-952',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/88/fe/c1/1024xauto-q80-bg238238238/0952_lambda_39_rg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '953',
+  name: 'Lambda 39',
+  retail: { currency: 'SGD', price: '22,240' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-953',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/84/e4/1a/1024xauto-q80-bg238238238/0953_lambda_39_rg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '954',
+  name: 'Lambda 39 velvet black',
+  retail: { currency: 'SGD', price: '22,930' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-velvet-black-954',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a9/69/53/1024xauto-q80-bg238238238/0954_lambda_39_rg_samtschwarz-2d-front-masked.jpg',
+  productID: null
+}
+number of products:  154
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '101',
+  name: 'Tangente',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-101',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0e/3d/ed/1024xauto-q80-bg238238238/0101_0139_tangente-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '120',
+  name: 'Tangente 33 duo',
+  retail: { currency: 'SGD', price: '1,940' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-duo-120',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/70/a0/21/1024xauto-q80-bg238238238/0120_0127_tangente_33_duo-2d-front-maskedpXEJIH3xYu5DB.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '122',
+  name: 'Tangente 33',
+  retail: { currency: 'SGD', price: '2,360' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-122',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/99/a9/d0/1024xauto-q80-bg238238238/0122_0123_tangente_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '125',
+  name: 'Tangente 33 gray',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-gray-125',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b4/6d/54/1024xauto-q80-bg238238238/0125_tangente_33_grau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '126',
+  name: 'Tangente 33 karat',
+  retail: { currency: 'SGD', price: '2,850' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-karat-126',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c7/1c/c7/1024xauto-q80-bg238238238/0126_tangente_33_karat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '130',
+  name: 'Tangente 38 date',
+  retail: { currency: 'SGD', price: '3,680' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-date-130',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2c/35/75/1024xauto-q80-bg238238238/0130_tangente_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '131',
+  name: 'Tangente date power reserve',
+  retail: { currency: 'SGD', price: '4,660' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-date-power-reserve-131',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c0/31/8e/1024xauto-q80-bg238238238/0131_tangente_d_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '132',
+  name: 'Tangente midnight blue',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-midnight-blue-132',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/1e/9b/1024xauto-q80-bg238238238/0133_tangente_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '140',
+  name: 'Tangente neomatik 39',
+  retail: { currency: 'SGD', price: '5,000' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-140',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/33/b6/78/1024xauto-q80-bg238238238/0140_tangente_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '141',
+  name: 'Tangente neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,140' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-silvercut-141',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/dc/ea/f7/1024xauto-q80-bg238238238/0141_tangente_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '142',
+  name: 'Tangente neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,140' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-39-midnight-blue-142',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a1/ce/c4/1024xauto-q80-bg238238238/0142_tangente_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '150',
+  name: 'Tangente 33 champagne',
+  retail: { currency: 'SGD', price: '2,430' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-33-champagne-150',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/c5/b8/1024xauto-q80-bg238238238/0151_0150_tangente_33_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '165',
+  name: 'Tangente 38',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-165',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/55/76/15/1024xauto-q80-bg238238238/0164_0165_tangente_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '166',
+  name: 'Tangente 38 midnight blue',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-38-midnight-blue-166',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2b/d2/f9/1024xauto-q80-bg238238238/0167_tangente_38_nachtblau-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '172',
+  name: 'Tangente power reserve',
+  retail: { currency: 'SGD', price: '3,750' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-power-reserve-172',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3f/67/5d/1024xauto-q80-bg238238238/0172_tangente_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '175',
+  name: 'Tangente neomatik',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-175',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/20/d9/f9/1024xauto-q80-bg238238238/0175_tangente_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '176',
+  name: 'Tangente neomatik champagne',
+  retail: { currency: 'SGD', price: '4,900' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-champagne-176',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/fa/76/47/1024xauto-q80-bg238238238/0176_tangente_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '177',
+  name: 'Tangente neomatik midnight blue',
+  retail: { currency: 'SGD', price: '4,900' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-midnight-blue-177',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/51/65/86/1024xauto-q80-bg238238238/0177_tangente_neomatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '180',
+  name: 'Tangente neomatik 41 Update',
+  retail: { currency: 'SGD', price: '5,570' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-41-update-180',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b2/71/9a/1024xauto-q80-bg238238238/0180_tangente_neomatik_41_update-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '181',
+  name: 'Tangente neomatik 41 Update ruthenium',
+  retail: { currency: 'SGD', price: '5,570' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-neomatik-41-update-ruthenium-181',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f6/b6/a7/1024xauto-q80-bg238238238/0181_tangente_neomatik_41_update_ruthenium-2d-front-maskedkotE3ZRMsh5p2.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '580',
+  name: 'Tangente Sport neomatik 42 date',
+  retail: { currency: 'SGD', price: '6,920' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-sport-neomatik-42-date-580',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/02/6c/c8/1024xauto-q80-bg238238238/0580_tangente_sport_neomatik_42_d-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangente',
+  reference: '581',
+  name: 'Tangente Sport neomatik 42 date marine black',
+  retail: { currency: 'SGD', price: '6,920' },
+  url: 'https://nomos-glashuette.com/en/tangente/tangente-sport-neomatik-42-date-marine-black-581',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/89/0e/8c/1024xauto-q80-bg238238238/0581_tangente_sport_neomatik_42_d_blauschwarz-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1101',
+  name: 'Metro date power reserve',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-date-power-reserve-1101',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6b/f5/c0/1024xauto-q80-bg238238238/1101_metro_d_g-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1102',
+  name: 'Metro 38 date',
+  retail: { currency: 'SGD', price: '4,200' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-date-1102',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f5/14/19/1024xauto-q80-bg238238238/1102_metro_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1103',
+  name: 'Metro 38 date urban gray',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-date-urban-gray-1103',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/29/da/2a/1024xauto-q80-bg238238238/1103_metro_38_d_stadtschwarz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1106',
+  name: 'Metro neomatik',
+  retail: { currency: 'SGD', price: '5,280' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-1106',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/da/99/a8/1024xauto-q80-bg238238238/1106_metro_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1107',
+  name: 'Metro neomatik champagne',
+  retail: { currency: 'SGD', price: '5,420' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-champagne-1107',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a9/d6/c6/1024xauto-q80-bg238238238/1107_metro_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1109',
+  name: 'Metro 38',
+  retail: { currency: 'SGD', price: '3,300' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-1109',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/d2/02/1024xauto-q80-bg238238238/1108_1109_metro_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1110',
+  name: 'Metro neomatik midnight blue',
+  retail: { currency: 'SGD', price: '5,420' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-midnight-blue-1110',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c6/ff/4a/1024xauto-q80-bg238238238/1110_metro_neomatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1112',
+  name: 'Metro 38 urban gray',
+  retail: { currency: 'SGD', price: '3,370' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-38-urban-gray-1112',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/d7/ff/1024xauto-q80-bg238238238/1111_1112_metro_38_stadtschwarz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1113',
+  name: 'Metro neomatik 39',
+  retail: { currency: 'SGD', price: '5,520' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-1113',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/76/19/36/1024xauto-q80-bg238238238/1113_metro_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1114',
+  name: 'Metro neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,660' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-silvercut-1114',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7f/f4/65/1024xauto-q80-bg238238238/1114_metro_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1115',
+  name: 'Metro neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,660' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-neomatik-39-midnight-blue-1115',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ff/ee/38/1024xauto-q80-bg238238238/1115_metro_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1170',
+  name: 'Metro rose gold 33',
+  retail: { currency: 'SGD', price: '9,750' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-rose-gold-33-1170',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/82/35/fb/1024xauto-q80-bg238238238/1170_metro_rosegold_33_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Metro',
+  reference: '1180',
+  name: 'Metro rose gold neomatik 39',
+  retail: { currency: 'SGD', price: '12,510' },
+  url: 'https://nomos-glashuette.com/en/metro/metro-rose-gold-neomatik-39-1180',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d8/b3/dd/1024xauto-q80-bg238238238/1180_metro_rg_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '201',
+  name: 'Ludwig',
+  retail: { currency: 'SGD', price: '2,500' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-201',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/54/a8/78/1024xauto-q80-bg238238238/0201_0205_ludwig-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '231',
+  name: 'Ludwig 38 date',
+  retail: { currency: 'SGD', price: '3,680' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-38-date-231',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/28/7f/1e/1024xauto-q80-bg238238238/0231_ludwig_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '235',
+  name: 'Ludwig 38',
+  retail: { currency: 'SGD', price: '2,740' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-38-235',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/11/f6/60/1024xauto-q80-bg238238238/0234_0235_ludwig_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '240',
+  name: 'Ludwig 33 duo',
+  retail: { currency: 'SGD', price: '1,840' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-duo-240',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5b/0e/40/1024xauto-q80-bg238238238/240_0241_ludwig_33_duo-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '243',
+  name: 'Ludwig 33',
+  retail: { currency: 'SGD', price: '2,260' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-243',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/34/ce/0a/1024xauto-q80-bg238238238/243_0244_ludwig_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '247',
+  name: 'Ludwig 33 champagne',
+  retail: { currency: 'SGD', price: '2,330' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-33-champagne-247',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/85/f3/b0/1024xauto-q80-bg238238238/248_0247_ludwig_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '251',
+  name: 'Ludwig automatic',
+  retail: { currency: 'SGD', price: '4,270' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-automatic-251',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/61/66/77/1024xauto-q80-bg238238238/0251_ludwig_automatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '260',
+  name: 'Ludwig neomatik 41 date',
+  retail: { currency: 'SGD', price: '5,460' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-41-date-260',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/73/56/03/1024xauto-q80-bg238238238/0260_ludwig_neomatik_41_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '271',
+  name: 'Ludwig automatic date',
+  retail: { currency: 'SGD', price: '5,040' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-automatic-date-271',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/fc/bf/ea/1024xauto-q80-bg238238238/0271_ludwig_automatik_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '282',
+  name: 'Ludwig neomatik',
+  retail: { currency: 'SGD', price: '4,660' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-282',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/52/48/7f/1024xauto-q80-bg238238238/0282_ludwig_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ludwig',
+  reference: '283',
+  name: 'Ludwig neomatik champagne',
+  retail: { currency: 'SGD', price: '4,790' },
+  url: 'https://nomos-glashuette.com/en/ludwig/ludwig-neomatik-champagne-283',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/15/dc/2f/1024xauto-q80-bg238238238/0283_ludwig_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '301',
+  name: 'Orion',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-301',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/26/d0/1024xauto-q80-bg238238238/0301_0309_orion_35-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '307',
+  name: 'Orion anthracite',
+  retail: { currency: 'SGD', price: '3,230' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-anthracite-307',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/23/cb/09/1024xauto-q80-bg238238238/0307_orion_anthrazit-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '319',
+  name: 'Orion 33 duo',
+  retail: { currency: 'SGD', price: '2,120' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-duo-319',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0a/c9/b7/1024xauto-q80-bg238238238/0319_0320_orion_33_duo-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '321',
+  name: 'Orion 33',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-321',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3b/92/bb/1024xauto-q80-bg238238238/321_0322_orion_33-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '324',
+  name: 'Orion 33 white',
+  retail: { currency: 'SGD', price: '2,920' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-white-324',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e9/17/13/1024xauto-q80-bg238238238/324_orion_33_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '325',
+  name: 'Orion 33 rose',
+  retail: { currency: 'SGD', price: '2,990' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-rose-325',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/50/g0/8d/1024xauto-q80-bg238238238/325_orion_33_rose-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '326',
+  name: 'Orion 1989',
+  retail: { currency: 'SGD', price: '2,990' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-1989-326',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/41/41/a5/1024xauto-q80-bg238238238/326_orion_33_1989-2d-front-maskedV8WlqJKk9CByF.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '327',
+  name: 'Orion 33 champagne',
+  retail: { currency: 'SGD', price: '2,610' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-champagne-327',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a2/e4/fc/1024xauto-q80-bg238238238/328_0327_orion_33_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '330',
+  name: 'Orion 33 midnight blue',
+  retail: { currency: 'SGD', price: '2,540' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-33-midnight-blue-330',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/ab/20/1024xauto-q80-bg238238238/329_orion_33_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '331',
+  name: 'Orion white',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-white-331',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8f/f2/4d/1024xauto-q80-bg238238238/0331_0306_orion_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '340',
+  name: 'Orion neomatik 39',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-340',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2e/48/ee/1024xauto-q80-bg238238238/0340_orion_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '341',
+  name: 'Orion neomatik 39 white',
+  retail: { currency: 'SGD', price: '5,180' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-white-341',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b6/29/6a/1024xauto-q80-bg238238238/0341_orion_neomatik_39_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '342',
+  name: 'Orion neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-silvercut-342',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/94/6a/f6/1024xauto-q80-bg238238238/0342_orion_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '343',
+  name: 'Orion neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-39-midnight-blue-343',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8a/79/1b/1024xauto-q80-bg238238238/0343_orion_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '352',
+  name: 'Orion rose',
+  retail: { currency: 'SGD', price: '3,230' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-rose-352',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/88/59/8e/1024xauto-q80-bg238238238/0352_orion_rose-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '360',
+  name: 'Orion neomatik 41 date',
+  retail: { currency: 'SGD', price: '5,740' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-360',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/78/a9/1024xauto-q80-bg238238238/0360_orion_neomatik_41_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '363',
+  name: 'Orion neomatik 41 date midnight blue',
+  retail: { currency: 'SGD', price: '5,950' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-midnight-blue-363',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7e/09/34/1024xauto-q80-bg238238238/0363_orion_neomatik_41_d_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '364',
+  name: 'Orion neomatik 41 date olive gold',
+  retail: { currency: 'SGD', price: '5,950' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-41-date-olive-gold-364',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ae/33/27/1024xauto-q80-bg238238238/0364_orion_neomatik_41_d_olivgold-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '380',
+  name: 'Orion 38 date',
+  retail: { currency: 'SGD', price: '3,960' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-date-380',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0c/d7/23/1024xauto-q80-bg238238238/0380_orion_38_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '381',
+  name: 'Orion 38 date white',
+  retail: { currency: 'SGD', price: '4,100' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-date-white-381',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/98/b8/94/1024xauto-q80-bg238238238/0381_orion_38_d_weiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '383',
+  name: 'Orion 38 gray',
+  retail: { currency: 'SGD', price: '3,470' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-gray-383',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/34/69/ae/1024xauto-q80-bg238238238/0383_orion_38_grau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '385',
+  name: 'Orion 1989',
+  retail: { currency: 'SGD', price: '3,470' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-1989-385',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/be/18/8f/1024xauto-q80-bg238238238/0385_orion_38_1989-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '386',
+  name: 'Orion 38 white',
+  retail: { currency: 'SGD', price: '3,400' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-white-386',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5e/b9/60/1024xauto-q80-bg238238238/0386_orion_38_weiss-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '387',
+  name: 'Orion 38',
+  retail: { currency: 'SGD', price: '3,020' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-387',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/80/a1/fe/1024xauto-q80-bg238238238/0387_0384_orion_38-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '388',
+  name: 'Orion 38 midnight blue',
+  retail: { currency: 'SGD', price: '3,020' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-38-midnight-blue-388',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b0/65/47/1024xauto-q80-bg238238238/0389_orion_38_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '392',
+  name: 'Orion neomatik',
+  retail: { currency: 'SGD', price: '4,930' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-392',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b2/9f/4b/1024xauto-q80-bg238238238/0392_orion_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Orion',
+  reference: '393',
+  name: 'Orion neomatik champagne',
+  retail: { currency: 'SGD', price: '5,070' },
+  url: 'https://nomos-glashuette.com/en/orion/orion-neomatik-champagne-393',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/16/23/06/1024xauto-q80-bg238238238/0393_orion_neomatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '401',
+  name: 'Tetra 27',
+  retail: { currency: 'SGD', price: '2,640' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-401',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/07/a2/61/1024xauto-q80-bg238238238/0401_tetra_27-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '405',
+  name: 'Tetra 27 duo',
+  retail: { currency: 'SGD', price: '2,220' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-duo-405',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/1c/d5/f7/1024xauto-q80-bg238238238/0405_tetra_27_duo-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '408',
+  name: 'Tetra',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-408',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d0/4b/f9/1024xauto-q80-bg238238238/0408_0406_tetra-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '421',
+  name: 'Tetra neomatik 39',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-421',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/db/90/50/1024xauto-q80-bg238238238/0421_tetra_neomatik_39-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '422',
+  name: 'Tetra neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-midnight-blue-422',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/9a/51/de/1024xauto-q80-bg238238238/0422_tetra_neomatik_39_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '423',
+  name: 'Tetra neomatik 39 silvercut',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-neomatik-39-silvercut-423',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/96/c0/b8/1024xauto-q80-bg238238238/0423_tetra_neomatik_39_silvercut-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '443',
+  name: 'Tetra Divine Spark',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-divine-spark-443',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f9/0a/12/1024xauto-q80-bg238238238/0443_0444_tetra_goetterfunken_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '445',
+  name: 'Tetra Ode to Joy',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-ode-to-joy-445',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/96/e5/70/1024xauto-q80-bg238238238/0445_0446_tetra_ode_an_die_freude__2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '447',
+  name: 'Tetra Immortal Beloved',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-immortal-beloved-447',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2d/0d/84/1024xauto-q80-bg238238238/0447_0448_tetra_unsterbliche_geliebte__2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '449',
+  name: 'Tetra Fidelio',
+  retail: { currency: 'SGD', price: '2,880' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-fidelio-449',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a7/51/18/1024xauto-q80-bg238238238/0449_0450_tetra_fidelio_2d_front_masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '472',
+  name: 'Tetra 27 karat',
+  retail: { currency: 'SGD', price: '2,780' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-karat-472',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4e/a2/a9/1024xauto-q80-bg238238238/0472_tetra_27_karat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '473',
+  name: 'Tetra 27 champagne',
+  retail: { currency: 'SGD', price: '2,710' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-27-champagne-473',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f4/b7/73/1024xauto-q80-bg238238238/0473_tetra_27_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '489',
+  name: 'Tetra Clärchen',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-claerchen-489',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/40/f3/58/1024xauto-q80-bg238238238/0489_tetra_claerchen-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '490',
+  name: 'Tetra Nachtijall',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-nachtijall-490',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/76/e3/f4/1024xauto-q80-bg238238238/0490_tetra_nachtijall-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '491',
+  name: 'Tetra Goldelse',
+  retail: { currency: 'SGD', price: '3,340' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-goldelse-491',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6a/c3/06/1024xauto-q80-bg238238238/0491_tetra_goldelse-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '492',
+  name: 'Tetra Kleene',
+  retail: { currency: 'SGD', price: '4,170' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-kleene-492',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/5a/bc/c4/1024xauto-q80-bg238238238/0492_tetra_kleene-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '495',
+  name: 'Tetra Matcha',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-matcha-495',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/1a/00/e8/1024xauto-q80-bg238238238/0495_tetra_matcha-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '496',
+  name: 'Tetra Azure',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-azure-496',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/32/35/14/1024xauto-q80-bg238238238/0496_tetra_azur-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '497',
+  name: 'Tetra Pearl',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-pearl-497',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/0a/b6/70/1024xauto-q80-bg238238238/0493_tetra_perle-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '498',
+  name: 'Tetra Grenadine',
+  retail: { currency: 'SGD', price: '2,950' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-grenadine-498',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/g0/36/2a/1024xauto-q80-bg238238238/0494_tetra_grenadine-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tetra',
+  reference: '499',
+  name: 'Tetra plum',
+  retail: { currency: 'SGD', price: '3,720' },
+  url: 'https://nomos-glashuette.com/en/tetra/tetra-plum-499',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/eb/a0/99/1024xauto-q80-bg238238238/0499_tetra_pflaume-2d-front-maskedKXO9bUo1WtbJw.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1203',
+  name: 'Minimatik',
+  retail: { currency: 'SGD', price: '5,070' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-1203',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8c/96/cd/1024xauto-q80-bg238238238/1203_minimatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1204',
+  name: 'Minimatik champagne',
+  retail: { currency: 'SGD', price: '5,210' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-champagne-1204',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/08/1c/f9/1024xauto-q80-bg238238238/1204_minimatik_champagner-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Minimatik',
+  reference: '1205',
+  name: 'Minimatik midnight blue',
+  retail: { currency: 'SGD', price: '5,210' },
+  url: 'https://nomos-glashuette.com/en/minimatik/minimatik-midnight-blue-1205',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b6/bd/cf/1024xauto-q80-bg238238238/1205_minimatik_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '701',
+  name: 'Club',
+  retail: { currency: 'SGD', price: '1,880' },
+  url: 'https://nomos-glashuette.com/en/club/club-701',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/82/c8/97/1024xauto-q80-bg238238238/0701_club-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '708',
+  name: 'Club Campus',
+  retail: { currency: 'SGD', price: '1,910' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-708',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/75/10/19/1024xauto-q80-bg238238238/0708_0709_club_36_campus-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '731',
+  name: 'Club date',
+  retail: { currency: 'SGD', price: '2,810' },
+  url: 'https://nomos-glashuette.com/en/club/club-date-731',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b3/cc/14/1024xauto-q80-bg238238238/0731_0733_club_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '735',
+  name: 'Club Campus 38',
+  retail: { currency: 'SGD', price: '2,080' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-38-735',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/21/23/01/1024xauto-q80-bg238238238/0735_0737_club_38_campus-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '736',
+  name: 'Club Campus 38 night',
+  retail: { currency: 'SGD', price: '2,080' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-38-night-736',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f7/87/a4/1024xauto-q80-bg238238238/0736_club_38_campus_nacht-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '740',
+  name: 'Club neomatik',
+  retail: { currency: 'SGD', price: '4,200' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-740',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/dc/74/f2/1024xauto-q80-bg238238238/0740_club_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '741',
+  name: 'Club neomatik Atlantic',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-atlantic-741',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/fe/56/1024xauto-q80-bg238238238/0741_club_37_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '742',
+  name: 'Club neomatik siren blue',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-blue-742',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/71/03/1f/1024xauto-q80-bg238238238/0742_club_37_neomatik_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '743',
+  name: 'Club neomatik siren red',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-red-743',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bf/fb/bb/1024xauto-q80-bg238238238/0743_club_neomatik_signalrot-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '744',
+  name: 'Club neomatik siren white',
+  retail: { currency: 'SGD', price: '4,340' },
+  url: 'https://nomos-glashuette.com/en/club/club-neomatik-siren-white-744',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/68/a6/3d/1024xauto-q80-bg238238238/0744_club_neomatik_signalweiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '748',
+  name: 'Club Campus neomatik',
+  retail: { currency: 'SGD', price: '3,890' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-748',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/65/2b/86/1024xauto-q80-bg238238238/0748_club_neomatik_37_campus_weiss_stahl-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '751',
+  name: 'Club automatic',
+  retail: { currency: 'SGD', price: '3,400' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-751',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ba/7f/0c/1024xauto-q80-bg238238238/0751_0753_club_automat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '765',
+  name: 'Club Campus neomatik 39',
+  retail: { currency: 'SGD', price: '4,140' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-39-765',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/89/98/c5/1024xauto-q80-bg238238238/0765_club_neomatik_39_campus_weiss_stahl-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '767',
+  name: 'Club Campus neomatik 39 midnight blue',
+  retail: { currency: 'SGD', price: '4,070' },
+  url: 'https://nomos-glashuette.com/en/club/club-campus-neomatik-39-midnight-blue-767',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a6/f5/2f/1024xauto-q80-bg238238238/0767_club_neomatik_39_campus_dunkel_textil-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '775',
+  name: 'Club automatic date',
+  retail: { currency: 'SGD', price: '4,550' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-775',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/8a/06/39/1024xauto-q80-bg238238238/0775_club_automat_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '776',
+  name: 'Club automatic date Atlantic',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-atlantic-776',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f7/06/a6/1024xauto-q80-bg238238238/0776_club_automat_datum_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '777',
+  name: 'Club automatic date siren blue',
+  retail: { currency: 'SGD', price: '4,760' },
+  url: 'https://nomos-glashuette.com/en/club/club-automatic-date-siren-blue-777',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/e7/1a/1024xauto-q80-bg238238238/0777_club_automat_d_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Club',
+  reference: '781',
+  name: 'Club Sport neomatik 42 date black',
+  retail: { currency: 'SGD', price: '5,600' },
+  url: 'https://nomos-glashuette.com/en/club/club-sport-neomatik-42-date-black-781',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3e/98/17/1024xauto-q80-bg238238238/0781_club_sport_neomatik_42_d_schwarz-2d-front-masked_1.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '552',
+  name: 'Ahoi Atlantic',
+  retail: { currency: 'SGD', price: '5,450' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-atlantic-552',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/2b/7d/e1/1024xauto-q80-bg238238238/0552_ahoi_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '553',
+  name: 'Ahoi Atlantic date',
+  retail: { currency: 'SGD', price: '6,290' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-atlantic-date-553',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bd/bf/9c/1024xauto-q80-bg238238238/0553_ahoi_atlantik_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '554',
+  name: 'Ahoi date siren blue',
+  retail: { currency: 'SGD', price: '6,290' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-date-siren-blue-554',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4d/45/3a/1024xauto-q80-bg238238238/0554_ahoi_d_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '555',
+  name: 'Ahoi',
+  retail: { currency: 'SGD', price: '4,790' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-555',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/c5/e1/dc/1024xauto-q80-bg238238238/0550_0555_ahoi-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '556',
+  name: 'Ahoi date',
+  retail: { currency: 'SGD', price: '5,700' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-date-556',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e2/3d/c8/1024xauto-q80-bg238238238/0551_0556_ahoi_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '560',
+  name: 'Ahoi neomatik',
+  retail: { currency: 'SGD', price: '5,490' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-560',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/71/e4/3f/1024xauto-q80-bg238238238/0560_ahoi_neomatik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '561',
+  name: 'Ahoi neomatik Atlantic',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-atlantic-561',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/b0/88/a2/1024xauto-q80-bg238238238/0561_ahoi_neomatik_atlantik-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '562',
+  name: 'Ahoi neomatik siren blue',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-blue-562',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d5/07/4f/1024xauto-q80-bg238238238/0562_ahoi_neomatik_signalblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '563',
+  name: 'Ahoi neomatik siren red',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-red-563',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/54/fc/45/1024xauto-q80-bg238238238/0563_ahoi_signalrot-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Ahoi',
+  reference: '564',
+  name: 'Ahoi neomatik siren white',
+  retail: { currency: 'SGD', price: '5,630' },
+  url: 'https://nomos-glashuette.com/en/ahoi/ahoi-neomatik-siren-white-564',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e1/a2/6d/1024xauto-q80-bg238238238/0564_ahoi_neomatik_signalweiss-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S10',
+  name: 'Tangomat red—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-red-a-century-of-bauhaus-601-s10',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/43/e5/84/1024xauto-q80-bg238238238/0601_s10_tangomat_dfs_hongkong_red_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S11',
+  name: 'Tangomat blue—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-blue-a-century-of-bauhaus-601-s11',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/b1/1f/1024xauto-q80-bg238238238/0601_s11_tangomat_dfs_hongkong_blue_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S12',
+  name: 'Tangomat yellow—A century of Bauhaus',
+  retail: { currency: 'SGD', price: '4,380' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-yellow-a-century-of-bauhaus-601-s12',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/cb/47/89/1024xauto-q80-bg238238238/0601_s12_tangomat_dfs_hongkong_yellow_2d_front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '601.S13',
+  name: 'Tangomat für Ärzte ohne Grenzen Deutschland',
+  retail: { currency: 'SGD', price: '4,310' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-fur-aerzte-ohne-grenzen-deutschland-601-s13',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/9d/fe/16/1024xauto-q80-bg238238238/0601-s13_tangomat_aog_d_2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '602',
+  name: 'Tangomat date',
+  retail: { currency: 'SGD', price: '5,110' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-date-602',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/4b/eb/45/1024xauto-q80-bg238238238/0602_tangomat_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '603',
+  name: 'Tangomat ruthenium',
+  retail: { currency: 'SGD', price: '4,450' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-ruthenium-603',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/3e/f8/76/1024xauto-q80-bg238238238/0603_tangomat_ruthenium-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '604',
+  name: 'Tangomat ruthenium date',
+  retail: { currency: 'SGD', price: '5,320' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-ruthenium-date-604',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/40/b7/9f/1024xauto-q80-bg238238238/0604_tangomat_ruthenium_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '635',
+  name: 'Tangomat GMT',
+  retail: { currency: 'SGD', price: '6,460' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-gmt-635',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e3/0e/49/1024xauto-q80-bg238238238/0635_tangomat_gmt_nyc-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Tangomat',
+  reference: '641',
+  name: 'Tangomat',
+  retail: { currency: 'SGD', price: '3,930' },
+  url: 'https://nomos-glashuette.com/en/tangomat/tangomat-641',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a7/84/8d/1024xauto-q80-bg238238238/0601_0641_tangomat-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '802',
+  name: 'Zürich date',
+  retail: { currency: 'SGD', price: '6,430' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-date-802',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/7e/b1/f4/1024xauto-q80-bg238238238/0802_zuerich_d-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '805',
+  name: 'Zürich world time',
+  retail: { currency: 'SGD', price: '7,820' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-world-time-805',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ac/6f/55/1024xauto-q80-bg238238238/0805_zuerich_wz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '806',
+  name: 'Zürich',
+  retail: { currency: 'SGD', price: '5,280' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-806',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/ae/d8/54/1024xauto-q80-bg238238238/0806_0801_zuerich-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Zürich',
+  reference: '807',
+  name: 'Zürich world time midnight blue',
+  retail: { currency: 'SGD', price: '8,030' },
+  url: 'https://nomos-glashuette.com/en/zurich/zurich-world-time-midnight-blue-807',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/d2/ae/d8/1024xauto-q80-bg238238238/0807_zuerich_wz_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1301',
+  name: 'Autobahn neomatik 41 date',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-1301',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/69/74/e8/1024xauto-q80-bg238238238/1301_autobahn_neomatik_41_d_1bn_pr.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1302',
+  name: 'Autobahn neomatik 41 date midnight blue',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-midnight-blue-1302',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/87/b7/6d/1024xauto-q80-bg238238238/1302_autobahn_neomatik_41_d_nachtblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Autobahn',
+  reference: '1303',
+  name: 'Autobahn neomatik 41 date sports gray',
+  retail: { currency: 'SGD', price: '6,610' },
+  url: 'https://nomos-glashuette.com/en/autobahn/autobahn-neomatik-41-date-sports-gray-1303',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/04/8f/0e/1024xauto-q80-bg238238238/1303_autobahn_neomatik_41_d_sportgrau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '920',
+  name: 'Lux white gold',
+  retail: { currency: 'SGD', price: '27,450' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-white-gold-920',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e0/3a/ed/1024xauto-q80-bg238238238/0920_lux_wg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '921',
+  name: 'Lux white gold light',
+  retail: { currency: 'SGD', price: '27,450' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-white-gold-light-921',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/de/bf/6a/1024xauto-q80-bg238238238/0921_lux_wg_hell-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '940',
+  name: 'Lux Hermelin',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-hermelin-940',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/68/e4/f4/1024xauto-q80-bg238238238/0940_lux_hermelin-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '941',
+  name: 'Lux Zikade',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-zikade-941',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/36/e8/c6/1024xauto-q80-bg238238238/0941_lux_zikade-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lux',
+  reference: '942',
+  name: 'Lux Zobel',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lux/lux-zobel-942',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/51/48/f2/1024xauto-q80-bg238238238/0942_lux_zobel-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '930',
+  name: 'Lambda rose gold',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-rose-gold-930',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/6d/1b/25/1024xauto-q80-bg238238238/0930_lambda_rg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '931',
+  name: 'Lambda white gold',
+  retail: { currency: 'SGD', price: '25,710' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-white-gold-931',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/e9/23/g0/1024xauto-q80-bg238238238/0931_lambda_wg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '932',
+  name: 'Lambda rose gold',
+  retail: { currency: 'SGD', price: '23,970' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-rose-gold-932',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/61/f7/37/1024xauto-q80-bg238238238/0932_lambda_rg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '933',
+  name: 'Lambda white gold',
+  retail: { currency: 'SGD', price: '25,710' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-white-gold-933',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/bc/54/81/1024xauto-q80-bg238238238/0933_lambda_wg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '935',
+  name: 'Lambda deep blue',
+  retail: { currency: 'SGD', price: '26,410' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-deep-blue-935',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/f3/fb/08/1024xauto-q80-bg238238238/0935_lambda_tiefblau-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '952',
+  name: 'Lambda 39',
+  retail: { currency: 'SGD', price: '22,240' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-952',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/88/fe/c1/1024xauto-q80-bg238238238/0952_lambda_39_rg-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '953',
+  name: 'Lambda 39',
+  retail: { currency: 'SGD', price: '22,240' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-953',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/84/e4/1a/1024xauto-q80-bg238238238/0953_lambda_39_rg_gz-2d-front-masked.jpg',
+  productID: null
+}
+{
+  source: 'official',
+  brandID: 134,
+  brand: 'Nomos Glashütte',
+  lang: 'en',
+  collection: 'Lambda',
+  reference: '954',
+  name: 'Lambda 39 velvet black',
+  retail: { currency: 'SGD', price: '22,930' },
+  url: 'https://nomos-glashuette.com/en/lambda/lambda-39-velvet-black-954',
+  thumbnail: 'https://cdn.nomos-glashuette.com/media/image/a9/69/53/1024xauto-q80-bg238238238/0954_lambda_39_rg_samtschwarz-2d-front-masked.jpg',
+  productID: null
+}

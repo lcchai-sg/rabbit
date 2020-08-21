@@ -1,0 +1,52 @@
+result.band.buckle = 'Buckle';
+result.band.buckle = 'Deployant';
+result.band.buckle = 'Fold';
+result.band.buckle = 'Folding clasp';
+result.band.buckle = 'Folding';
+result.band.buckle = 'Pin';
+result.band.buckle = 'pin buckle'
+
+
+case
+	shape
+	material
+	crystal
+	back
+	materials?
+	crown
+
+band
+	buckle
+	color
+	material
+	materials?
+	type
+
+caliber
+	type
+	reserve
+	jewels
+
+dial
+	color
+	finish
+	indexType
+	handStyle
+	type
+
+dial.color,
+dial.handStyle,
+dial.indexType,
+dial.finish,
+dial.material,
+dial.type,
+dial.secondMarkers,
+dial.subDial,
+dial.subIndexType,
+dial.luminescence,
+dial.calendar,
+dial.gemSet,
+dial.dialType,
+dial.dialDigital,
+dial.indextype
+
