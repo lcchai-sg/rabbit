@@ -175,8 +175,8 @@ const getBrandName = input => {
   var sitemap = new Sitemapper({
     // url: 'https://www.jomashop.com/sitemap.xml',
     // url: 'https://watchesofmayfair.com/sitemap.xml',
-    // url: 'https://www.watchmaxx.com/sitemap.xml',
-    url: 'https://www.prestigetime.com/sitemap.xml',
+    url: 'https://www.watchmaxx.com/sitemap.xml',
+    // url: 'https://www.prestigetime.com/sitemap.xml',
     // url: "https://www.suunto.com/globalassets/Sitemaps/sitemap_en.xml",
     // url: "https://www.suunto.com/globalassets/Sitemaps/sitemap_en_2.xml",
     // url: "https://www.suunto.com/globalassets/Sitemaps/sitemap_en_3.xml",
