@@ -1,10 +1,20 @@
 const { MongoClient } = require('mongodb');
 const { Mappers } = require('./utils');
 
+
+const sameMaterials = (arr1, arr2) => {
+  if (arr1.length !== arr2.length) return false;
+  arr1.forEach(v => {
+    if (arr2.indexOf(v) < 0) return false;
+  })
+  return true;
+}
+
 (async () => {
   try {
     const mdb = {
-      host: "203.118.42.106",
+      // host: '203.118.42.106',  // dev
+      host: '127.0.0.1',  //local
       port: 27017,
       user: "synopsis",
       pass: "synopsis",
@@ -20,7 +30,7 @@ const { Mappers } = require('./utils');
     const r = await db.collection(mdb.coll).find({ "case.materials": { $nin: [null, []] } }).toArray();
     const noMatch = [];
     for (let i = 0; i < r.length; i++) {
-      // console.log(r.length, i);
+      console.log(r.length, i);
       if (r[i].case.materials && r[i].case.materials.length > 0) {
         const ms = r[i].case.materials;
         const nms = [];
@@ -35,11 +45,13 @@ const { Mappers } = require('./utils');
             if (noMatch.indexOf(ms[j]) < 0) noMatch.push(ms[j]);
           }
         }
-        console.log(nms, ' x ', ms);
-        await db.collection(mdb.coll).updateOne(
-          { _id: r[i]._id },
-          { $set: { "case.materials": nms } }
-        );
+        if (!sameMaterials(nms, ms)) {
+          console.log('   ', nms, ' >>> ', ms);
+          await db.collection(mdb.coll).updateOne(
+            { _id: r[i]._id },
+            { $set: { "case.materials": nms } }
+          );
+        }
       }
     }
     console.log();

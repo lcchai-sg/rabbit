@@ -22,8 +22,8 @@ const shortid = require('shortid');
 
   // update data here
   const source = 'official';
-  const brandID = 292;
-  const strategy = 'muehle';
+  const brandID = 342;
+  const strategy = 'bremont';
 
   const db_url = `mongodb://${mdb.user}:${mdb.pass}@${mdb.host}:${mdb.port}/${mdb.name}`;
   const conn = await MongoClient.connect(db_url, {
@@ -55,7 +55,7 @@ const shortid = require('shortid');
 
   //for (let i = 0; i < 1; i++) {
   let r = await db.collection(mdb.coll).find({ source, brandID }).toArray();
-  // for (let i = 0; i < 1; i++) {
+  //for (let i = 0; i < 1; i++) {
   for (let i = 0; i < r.length; i++) {
     console.log(r.length, i, r[i].url);
     const payload = { ...r[i] };

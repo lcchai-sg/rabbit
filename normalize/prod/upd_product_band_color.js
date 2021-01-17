@@ -4,7 +4,8 @@ const { Mappers } = require('./utils');
 (async () => {
   try {
     const mdb = {
-      host: '203.118.42.106',
+      // host: '203.118.42.106',  // dev
+      host: '127.0.0.1',  //local
       port: 27017,
       user: 'synopsis',
       pass: 'synopsis',

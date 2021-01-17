@@ -1,10 +1,20 @@
 const { MongoClient } = require('mongodb');
 const { Mappers } = require('./utils');
 
+
+const sameArray = (arr1, arr2) => {
+  if (arr1.length !== arr2.length) return false;
+  arr1.forEach(v => {
+    if (arr2.indexOf(v) < 0) return false;
+  })
+  return true;
+}
+
 (async () => {
   try {
     const mdb = {
-      host: "203.118.42.106",
+      // host: '203.118.42.106',  // dev
+      host: '127.0.0.1',  //local
       port: 27017,
       user: "synopsis",
       pass: "synopsis",
@@ -18,32 +28,39 @@ const { Mappers } = require('./utils');
     });
     const db = conn.db(mdb.name);
     const r = await db.collection(mdb.coll).find({ "band.materials": { $nin: [null, []] } }).toArray();
-    const noMatch = []; const rec = [];
+    const noMatch = []; const updated = [];
     for (let i = 0; i < r.length; i++) {
-      i % 1000 === 0 && console.log(r.length, i);
+      console.log(r.length, i, r[i]._id, r[i].band.materials);
       const ms = r[i].band.materials;
       const nms = [];
       for (let j = 0; j < ms.length; j++) {
-        const { bm, bms, } = Mappers.getMaterial.map(ms[j]);
-        if (bm) {
+        const { bms, } = Mappers.getMaterial.map(ms[j]);
+        console.log('           ', bms)
+        if (bms.length > 0) {
+          console.log('..........nms..........')
           bms.forEach(v => {
             if (nms.indexOf(v) < 0) nms.push(v);
           })
         } else {
           if (nms.indexOf(ms[j]) < 0) nms.push(ms[j]);
           if (noMatch.indexOf(ms[j]) < 0) noMatch.push(ms[j]);
-          rec.push({ id: r[i]._id, m: ms[j] });
         }
       }
-      //console.log(ms, ' > ', nms);
-      await db.collection(mdb.coll).updateOne(
-        { _id: r[i]._id },
-        { $set: { "band.materials": nms } }
-      );
+      console.log(ms, ' > ', nms);
+      if (!sameArray(nms, ms)) {
+        await db.collection(mdb.coll).findOneAndUpdate(
+          { _id: r[i]._id },
+          { $set: { "band.materials": nms } }
+        );
+        updated.push(nms + ' >>> ' + ms);
+      }
     }
-    console.log('NOT MATCH MATERIALS >>>>>', noMatch.length);
-    rec.sort();
-    rec.forEach(v => console.log(v));
+    updated.sort();
+    console.log('updated : ', updated.length);
+    updated.forEach(v => console.log(v));
+    noMatch.sort();
+    console.log('no match : ', noMatch.length);
+    noMatch.forEach(v => console.log(v));
   } catch (e) {
     console.log(e);
   }
