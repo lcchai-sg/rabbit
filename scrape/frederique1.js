@@ -26,6 +26,7 @@ const indexing = async context => {
     const { data } = await client.get(entry);
     const link = data.match(/<loc>.*<\/loc>/ig);
     const slink = link ? link[0].replace('<loc>', '').replace('</loc>', '').trim() : null;
+    console.log('slink...', slink)
     const data1 = slink ? (await client.get(slink)).data : null;
     const parser = new xml2js.Parser();
     parser.parseString(data1, (err, res) => {

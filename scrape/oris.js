@@ -241,29 +241,29 @@ const distill = async (context) => {
   // })
   // console.log(r);
 
-  // const rr = [
-  //   "https://www.oris.ch/watch/133/1379",
-  //   "https://www.oris.ch/watch/133/1378",
-  // ];
+  const rr = [
+    "https://www.oris.ch/watch/245/1515",
+    "https://www.oris.ch/watch/195/1451",
+  ];
 
-  // for (let i = 0; i < rr.length; i++) {
-  //   const ex = await extraction({
-  //     entry: rr[i],
-  //     client: axios,
-  //     brand: "Oris",
-  //     brandID: 164,
-  //   })
-  //   console.log(ex);
-  // }
-
-  for (let i = 0; i < r.collections.length; i++) {
-    const c = r.collections[i];
-    for (let j = 0; j < r.items[c].length; j++) {
-      const w = r.items[c][j];
-      const ex = await extraction({
-        ...w, client: axios, entry: w.url,
-      });
-      ex.spec.forEach(s => console.log(s.key + " | " + s.value));
-    }
+  for (let i = 0; i < rr.length; i++) {
+    const ex = await extraction({
+      entry: rr[i],
+      client: axios,
+      brand: "Oris",
+      brandID: 164,
+    })
+    console.log(ex);
   }
+
+  // for (let i = 0; i < r.collections.length; i++) {
+  //   const c = r.collections[i];
+  //   for (let j = 0; j < r.items[c].length; j++) {
+  //     const w = r.items[c][j];
+  //     const ex = await extraction({
+  //       ...w, client: axios, entry: w.url,
+  //     });
+  //     ex.spec.forEach(s => console.log(s.key + " | " + s.value));
+  //   }
+  // }
 })();

@@ -39,39 +39,24 @@ const indexing = async (context) => {
 
 
 const extraction = async (context) => {
-  const { client, entry, base, ...rest } = context;
-  // console.log('entry >>> ', entry)
-  const result = { ...rest, url: entry, spec: [], related: [], features: [] };
+  const { client, entry, ...rest } = context;
+  const result = { ...rest, url: entry, spec: [], related: [], };
   try {
     const $ = cheerio.load((await client.get(entry)).data);
-
     result.thumbnail = $('.product-page--root').find('meta[property="og:image"]').first().attr('content');
     result.name = $('.product-page--root').find('.product-page--title').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
     result.reference = $('.product-page--root').find('h2').text();
-    result.price = $('.product-page--root').find('.price--container').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
+    result.retail = $('.product-page--root').find('.price--container').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
     $('.product-page--description .rte-content').find('div').each((idx, el) => {
       const s = $(el).text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
       const sp = s.split(':');
-      // console.log(sp)
-      // let key = 'spec'; let value = '';
-
-      // sp.forEach((val, i, arr) => {
-      //   if (i === 0) key = val;
-      //   else if (arr.length === 2) {
-      //     result.spec.push({ key, value: val });
-      //   } else {
-      //     const v = val.split(' ');
-      //     value = v.slice(0, v.length - 1).join(' ');
-      //     result.spec.push({ key, value });
-      //     key = v[v.length - 1];
-      //   }
-      // console.log(sp)
       if (sp.length === 2)
         result.spec.push({ key: sp[0].trim(), value: sp[1].trim() });
       else if (sp.length === 1)
         result.spec.push({ key: 'techdata', value: sp[0].trim() });
-    })
+    });
     if (result.spec.length === 0) {
+      // different structure
       if (result.name.match(/analytic/i)) result.code = 'not product';
       else {
         let withColon = true; let key = ''; let html = false; let bad = false;
@@ -112,11 +97,14 @@ const extraction = async (context) => {
       }
     }
   } catch (error) {
-    console.log('Failed extraction for Frédérique Constant with error : ' + error);
-    result.code = error.response.status;
+    console.error('Failed extraction for Frederique Constant with error : ' + error);
+    console.error('entry : ', entry)
+    if (error.response) result.code = error.response.status;
+    else result.code = 'UNKNOWN ERROR';
   }
   return result;
 };
+
 
 
 (async () => {
@@ -124,59 +112,44 @@ const extraction = async (context) => {
     headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9' }
   });
   //https://frederiqueconstant.com/sitemap.xml
-  const r = await indexing({
-    client,
-    entry: "https://frederiqueconstant.com/sitemap_products_1.xml?from=4620948930607&to=4757665021999",
-    //"https://frederiqueconstant.com/sitemap_products_1.xml?from=4620948930607&to=4757665021999",
-    brandID: 154,
-    brand: "Frédérique Constant",
-    base: "https://frederiqueconstant.com",
-  });
+  // const r = await indexing({
+  //   client,
+  //   entry: "https://frederiqueconstant.com/sitemap_products_1.xml?from=4620948930607&to=4757665021999",
+  //   //"https://frederiqueconstant.com/sitemap_products_1.xml?from=4620948930607&to=4757665021999",
+  //   brandID: 154,
+  //   brand: "Frédérique Constant",
+  //   base: "https://frederiqueconstant.com",
+  // });
 
-  //https://frederiqueconstant.com/products/classics-quartz-ladies-pink-ribbon-special-edition
-  //https://frederiqueconstant.com/products/ladies-automatic-pink-ribbon-special-edition
-  //https://frederiqueconstant.com/products/highlife-perpetual-calendar-manufacture-fc-775n4nh6b
-  //https://frederiqueconstant.com/products/fc-392rmg5b6
-  //https://frederiqueconstant.com/products/fc-392rms5b6
 
-  // const r = {
-  //   source: "official",
-  //   collections: ['all'],
-  //   items: {
-  //     'all': [
-  //       {
-  //         url: "https://frederiqueconstant.com/products/classics-quartz-ladies-pink-ribbon-special-edition",
-  //       },
-  //       {
-  //         url: "https://frederiqueconstant.com/products/ladies-automatic-pink-ribbon-special-edition"
-  //       },
-  //       {
-  //         url: "https://frederiqueconstant.com/products/highlife-perpetual-calendar-manufacture-fc-775n4nh6b"
-  //       },
-  //       {
-  //         url: "https://frederiqueconstant.com/products/fc-392rmg5b6"
-  //       },
-  //       {
-  //         url: "https://frederiqueconstant.com/products/fc-392rms5b6"
-  //       }
-  //     ]
+  const r = [
+    "https://frederiqueconstant.com/products/ladies-moonphase-fc-206mpwd1s4",
+    "https://frederiqueconstant.com/products/highlife-automatic-cosc-fc-303s4nh6b",
+    "https://frederiqueconstant.com/products/classics-quartz-chronograph-serie-speciale-france-fc-292mb5tb6",
+    "https://frederiqueconstant.com/products/classics-index-automatic",
+  ];
+  for (let i = 0; i < r.length; i++) {
+    const ex = await extraction({
+      client,
+      entry: r[i],
+    })
+    console.log(ex)
+  }
+  // console.log(r)
+  // for (let i = 0; i < r.collections.length; i++) {
+  //   const c = r.collections[i];
+  //   for (let j = 0; j < r.items[c].length; j++) {
+  //     const ex = await extraction({
+  //       ...r.items[c][j],
+  //       client: axios,
+  //       entry: r.items[c][j]['url'],
+  //     });
+  //     // console.log(ex);
+  //     console.log(ex.url)
+  //     ex.spec.forEach(s => {
+  //       console.log(s.key + ' | ' + s.value);
+  //     });
+  //     console.log()
   //   }
   // }
-  // console.log(r)
-  for (let i = 0; i < r.collections.length; i++) {
-    const c = r.collections[i];
-    for (let j = 0; j < r.items[c].length; j++) {
-      const ex = await extraction({
-        ...r.items[c][j],
-        client: axios,
-        entry: r.items[c][j]['url'],
-      });
-      // console.log(ex);
-      console.log(ex.url)
-      ex.spec.forEach(s => {
-        console.log(s.key + ' | ' + s.value);
-      });
-      console.log()
-    }
-  }
 })();

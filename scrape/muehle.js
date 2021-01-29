@@ -53,51 +53,24 @@ const extraction = async (context) => {
   try {
     const { data } = await client.get(entry);
     const $ = cheerio.load(data);
-    result.name = $('meta[name="og:title"]').attr('content');
-    result.description = $('meta[name="og:description"]').attr('content');
-    $(".malihu-scroller").find("li").each((idx, el) => {
-      const key = $(el).find('h2').text().trim();
-      const value = $(el).find('p').text().trim();
-      result.spec.push({ key, value });
-    });
-    let s = {};
-    $("#variants").find(".c").first().each((idx, el) => {
-      $(el).find("#detaildesc").find("div").each((idxDiv, el) => {
-        const ref = $(el).find("h2").text().replace(/reference/i, '').trim();
-        if (ref) {
-          // result.spec.push({ key: 'v_reference' + idxDiv, value: ref });
-          s[idxDiv] = [];
-          s[idxDiv].push({ key: 'v_reference', value: ref });
-          $(el).find("p").each((idx, el) => {
-            const spec = $(el).text().split(":");
-            if (spec.length === 2) {
-              const value = spec[1].trim();
-              // if (value) result.spec.push({ key: 'v_' + spec[0] + idxDiv, value });
-              if (value) s[idxDiv].push({ key: 'v_' + spec[0] + idxDiv, value });
-            } else if (spec.length === 1) {
-              const value = spec[0].trim();
-              if (value) {
-                // result.spec.push({ key: 'v_' + idxDiv, value })
-                s[idxDiv].push({ key: 'v_' + idxDiv, value });
-              }
-            } else {
-              logger.debug("unknown specifications, ", spec);
-            }
-          })
-        }
-      })
-      let i = 0;
-      $(el).find(".v-img-c").find(".img-c").each((idx, el) => {
-        const thumbnail = baseURL + $(el).find("img").attr("src");
-        const face = $(el).attr("data-angle");
-        if (face === '0') {
-          // result.spec.push({ key: "v_thumbnail" + i, value: thumbnail });
-          s[i].push({ key: "v_thumbnail" + i, value: thumbnail });
-          i++;
-        }
-      })
+    result.name = $('meta[property="og:title"]').attr('content');
+    result.description = $('meta[property="og:description"]').attr('content');
+    result.reference = $('.subtitle').first().text().replace(/\s|/g, '').trim();
+    result.thumbnail = $('meta[property="og:image"]').attr('content');
+    result.retail = $('.price-wrapper').text().replace(/\s+/g, '').replace(/\./g, ',').trim();
+    let key;
+    $('.details-list').find('div').each((idx, el) => {
+      if (idx % 3 === 1) key = $(el).text();
+      else if (idx % 3 === 2) {
+        const value = $(el).text();
+        result.spec.push({ key, value });
+      }
     })
-    result.spec.push({ key: 'variations', value: s })
+    $('.related-products-loop').find('a').each((idx, el) => {
+      const name = $(el).find(".line-1").text();
+      const url = $(el).attr('href');
+      result.related.push({ name, url })
+    })
   } catch (error) {
     console.error('Failed extraction for Muehle Glasshuette with error : ' + error);
     console.error('entry : ', entry);
@@ -147,6 +120,7 @@ const extraction = async (context) => {
     base: "https://www.muehle-glashuette.de/",
     entry: "https://www.muehle-glashuette.de/en/wristwatches/functional-wristwatches/promare-datum/",
   })
+  console.log(ex)
   // console.log(ex)
   // ex.spec.forEach(s => {
   //   if (s.key === 'variations') {
@@ -156,27 +130,27 @@ const extraction = async (context) => {
   //   } else console.log(s.key, s.value);
   // })
 
-  console.log()
-  const vars = [];
-  for (const s of ex.spec) {
-    const key = s.key;
-    const value = s.value;
-    if (key === 'variations') {
-      let r = {};
-      Object.keys(value).forEach(key => {
-        for (const s of value[key]) {
-          console.log('    ', s.key, s.value)
-          const key1 = s.key;
-          const value1 = s.value;
-          if (key1.match(/reference/i)) r.reference = value1;
-          else if (key1.match(/Face colour/i)) r.dialColor = value1;
-          else if (key1.match(/limited edition/i)) r.limited = true;
-          else if (key1.match(/thumbnail/i)) r.thumbnail = value1;
-          else r.strap = value1;
-        }
-        vars.push(r);
-      })
-    }
-  }
-  console.log('vars....', vars)
+  // console.log()
+  // const vars = [];
+  // for (const s of ex.spec) {
+  //   const key = s.key;
+  //   const value = s.value;
+  //   if (key === 'variations') {
+  //     let r = {};
+  //     Object.keys(value).forEach(key => {
+  //       for (const s of value[key]) {
+  //         console.log('    ', s.key, s.value)
+  //         const key1 = s.key;
+  //         const value1 = s.value;
+  //         if (key1.match(/reference/i)) r.reference = value1;
+  //         else if (key1.match(/Face colour/i)) r.dialColor = value1;
+  //         else if (key1.match(/limited edition/i)) r.limited = true;
+  //         else if (key1.match(/thumbnail/i)) r.thumbnail = value1;
+  //         else r.strap = value1;
+  //       }
+  //       vars.push(r);
+  //     })
+  //   }
+  // }
+  // console.log('vars....', vars)
 })();

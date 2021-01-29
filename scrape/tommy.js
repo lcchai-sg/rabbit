@@ -1,4 +1,5 @@
-const { fetchUrl } = require('fetch');
+// const { fetchUrl } = require('fetch');
+const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 const axios = require('axios');
 // const { Mappers } = require("./utils");
@@ -23,14 +24,17 @@ const indexing = async (context) => {
     //   )
     // });
     // console.log(data)
-    {
-      const client = axios.create({
-        // headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36' }
-        headers: { 'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" }
-      });
-      const { data } = await client.get(entry);
-      console.log('axios >>>>>', data)
-    }
+    // {
+    //   const client = axios.create({
+    //     // headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36' }
+    //     headers: { 'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" }
+    //   });
+    //   const { data } = await client.get(entry);
+    //   console.log('axios >>>>>', data)
+    // }
+    const d = await fetch(entry);
+    console.log('fetch ...', d)
+    const data = d.toString();
     const $ = cheerio.load(data);
     $('loc').each((idx, el) => {
       const url = $(el).text();

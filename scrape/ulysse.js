@@ -1,19 +1,18 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const indexing = async () => {
+const indexing = async (context) => {
+  const { client, entry, } = context;
+  console.debug('Ulysse Nardin indexing ...', entry);
+  const source = "official";
+  const lang = "en";
+  const brand = "Ulysse Nardin";
+  const brandID = 162;
+  const result = { source, lang, brand, brandID, collections: [], items: {} };
+  const cats = [];
   try {
-    const client = axios;
-    const entry = "https://www.ulysse-nardin.com/row_en/";
-    const source = "official";
-    const brand = "Ulysse Nardin";
-    const brandID = 162;
-    const lang = "en";
-    const result = { source, lang, brand, brandID, collections: [], items: {} };
-    const cats = [];
     const $ = cheerio.load((await client.get(entry)).data);
     $('.un-c-megaMenu__sub-menu li a').each((idx, el) => {
-      // if (idx > 0 && idx < 6) {
       const name = $(el).text().trim();
       if (name.match(/\bcollection\b/i)) {
         const url = $(el).attr('href');
@@ -21,21 +20,18 @@ const indexing = async () => {
         result.items[name] = [];
         cats.push({ name, url });
       }
-      // }
     });
-    console.log(cats);
-    return result;
     for (const cat of cats) {
       const $$ = cheerio.load((await client.get(cat.url)).data);
-      // const amount = $$('.un-c-filter__total').text().replace('Watches', '').trim();
-      const amount = $$('#toolbar-number-product-count').text().replace('Watches', '').trim();
-      const PAGE = Math.ceil(parseInt(amount) / 9);
+      const watches = $$('.summary').first().text().replace(/\s+/g, '').match(/\d{0,4}/g);
+      const w = watches ? watches[0] : '0';
+      const PAGE = Math.ceil(parseInt(w) / 9);
       for (let i = 1; i <= PAGE; i++) {
         const link = cat.url + '?p=' + i;
-        console.log(link);
+        console.debug(link);
         const { data } = await client.get(link);
         const $$ = cheerio.load(data);
-        $$('.un-c-product.product-item').each((idx, el) => {
+        $$('.un-c-product__content').each((idx, el) => {
           const url = $$(el).find('.un-c-product__item a').attr('href');
           if (url) {
             const thumbnail = $$(el).find('.un-c-product__item a img').attr('src');
@@ -56,53 +52,9 @@ const indexing = async () => {
           }
         });
       }
-
-      // if (PAGE > 1) {
-      //   let current = 1;
-      //   do {
-      //     const link = cat.url + ((current > 0) ? '?p=' + current : '?p=1');
-      //     const $$ = cheerio.load((await client.get(link)).data);
-      //     $$('.un-c-product.product-item').each((idx, el) => {
-      //       const url = $$(el).find('.un-c-product__item a').attr('href');
-      //       const thumbnail = $$(el).find('.un-c-product__item a img').attr('src');
-      //       const name = $$(el).find('.product-item-link').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
-      //       const retail = $$(el).find('.price-box.price-final_price').text().trim();
-      //       let reference = '';
-      //       const words = url.split('/');
-      //       for (const word of words) {
-      //         if (word.match(/html/i)) {
-      //           reference = word.replace('.html', '');
-      //         }
-      //       }
-      //       result.items[cat.name].push({
-      //         source, lang, brand, brandID, url, collection: cat.name,
-      //         name, reference, retail, thumbnail,
-      //       });
-      //     });
-      //     current++;
-      //   }
-      //   while (current < (PAGE + 1))
-      // } else {
-      //   const $$ = cheerio.load((await client.get(cat.url)).data);
-      //   $$('.un-c-product.product-item').each((idx, el) => {
-      //     const url = $$(el).find('.un-c-product__item a').attr('href');
-      //     const thumbnail = $$(el).find('.un-c-product__item a img').attr('src');
-      //     const name = $$(el).find('.product-item-link').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
-      //     const retail = $$(el).find('.price-box.price-final_price').text().trim();
-      //     let reference = '';
-      //     const words = url.split('/');
-      //     for (const word of words) {
-      //       if (word.match(/html/i)) {
-      //         reference = word.replace('.html', '');
-      //       }
-      //     }
-      //     result.items[cat.name].push({
-      //       source, lang, brand, brandID, url, collection: cat.name,
-      //       name, reference, retail, thumbnail,
-      //     });
-      //   });
-      // }
     }
+    console.debug('Ulysse Nardin indexing done.');
+    console.log(result)
     return result;
   } catch (error) {
     console.error('Failed indexing for Ulysse Nardin with error : ' + error);
@@ -156,12 +108,15 @@ const extraction = async (context) => {
 };
 
 (async () => {
-  // const r = await indexing();
-  // console.log(r)
-  // r.collections.forEach(c => {
-  //   r.items[c].forEach(v => console.log(v));
-  // })
-  // process.exit(0)
+  const r = await indexing({
+    client: axios,
+    entry: "https://www.ulysse-nardin.com/row_en/",
+  });
+  console.log(r)
+  r.collections.forEach(c => {
+    r.items[c].forEach(v => console.log(v));
+  })
+  process.exit(0)
   const u = [
     {
       source: 'official',
