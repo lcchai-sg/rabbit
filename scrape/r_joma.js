@@ -17,7 +17,7 @@ const shortid = require('shortid');
 
   const channel = await station.createChannel();
 
-  for (let i = 4588; i < joma_urls.length; i++) {
+  for (let i = 0; i < joma_urls.length; i++) {
     const job = {
       dryRun: false,
       payload: {

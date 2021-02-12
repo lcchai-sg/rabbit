@@ -1,51 +1,53 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const Sitemapper = require('sitemapper');
+const { Mappers, } = require('./utils');
 
-(async () => {
-  const st = 1;
-  const end = 100;
-  const entry = "https://www.jomashop.com/watches.html?p=";
+const indexing = async (context) => {
+  const { entry, } = context;
+  console.log('Jomashop indexing ...', entry)
+  const source = "jomashop";
+  const lang = "en";
   const result = [];
-  for (let i = st; i <= end; i++) {
-    const link = entry + i;
-    console.log(link);
-    const d = (await axios.get(link)).data;
-    const $ = cheerio.load(d);
-    $('.products-grid li').each((idx, el) => {
-      const url = $(el).find('a').attr('href');
-      const name = $(el).find('a img').attr('alt');
-      const brand = $(el).find('.manufacturer').text();
-      let thumbnail = '';
-      if ($(el).find('a img').attr('data-original')) {
-        thumbnail = $(el).find('a img').attr('data-original');
-      } else {
-        thumbnail = $(el).find('a img').attr('src');
-      }
-      let retail = '';
-      if ($(el).find('.special-price').text()) {
-        retail = $(el).find('.special-price').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
-      } else {
-        retail = $(el).find('.regular-price').text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
-      }
-      let reference = '';
-      const words = url.split('-');
-      for (const word of words) {
-        if (word.match(/html/i)) {
-          reference = word.replace('.html', '').trim();
+  let payload = { source, lang, collections: ['all'], items: { 'all': [], } };
+  try {
+    let sitemap = new Sitemapper({
+      url: entry,
+      timeout: 300000,
+    });
+    let data = await sitemap.fetch();
+    let cnt = 0;
+    for (let i = 0; i < data.sites.length; i++) {
+      if (data.sites[i].match(/-watch-/i) && !(data.sites[i].match(/event|sale|gift|deal|watches/i))) {
+        let u = data.sites[i].split('/');
+        let d = u[u.length - 1].split('-watch-');
+        const { id: brandID, name: brand } = Mappers.generateBrandID.map(data.sites[i]);
+        payload.items['all'].push({
+          source, lang, brand, brandID, url: data.sites[i],
+          name: d[1].replace('.html', '').replace(new RegExp('-', 'g'), ' '),
+          reference: d[1].replace('.html', '').replace(new RegExp('-', 'g'), '.'),
+          retail: null,
+        });
+        cnt++;
+        if (cnt % 500 === 0) {
+          result.push({ payload });
+          payload = { source, lang, collections: ['all'], items: { 'all': [], } };
         }
       }
-      result.push({
-        url,
-        source: 'jomashop',
-        name,
-        retail,
-        thumbnail,
-        brand,
-        reference,
-        lang: "en",
-      });
-    });
-    await new Promise(r => setTimeout(r, 5000));
+    }
+    if (payload.items['all'].length > 0) result.push({ payload });
+    console.debug('Jomashop indexing done.')
+    return result;
+  } catch (error) {
+    console.error('Failed indexing for Jomashop with error : ' + error)
+    return {};
   }
-  result.forEach(v => console.log(v))
+}
+
+(async () => {
+  const r = indexing({
+    client: axios,
+    entry: "https://www.jomashop.com/media/sitemaps/sitemap.xml",
+  });
+  console.log(r);
 })();
