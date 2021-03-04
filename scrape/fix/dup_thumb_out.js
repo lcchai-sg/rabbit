@@ -207,7 +207,7 @@ const u = [
   "https://storage.seikowatches.com/image/2020/11/19051240542549/0/SRPC91K1.png        https://synopsis.cosmos.ieplsg.com/files/6,06d817564adf76",
   "https://storage.seikowatches.com/image/2020/11/19051240542549/0/SRPC91K1.png        https://synopsis.cosmos.ieplsg.com/files/5,06da98c2e52a41",
   "https://storage.seikowatches.com/image/2020/11/19051240542549/0/SRPC91K1.png        https://synopsis.cosmos.ieplsg.com/files/5,06edf297a8d6f3",
-  "https://storage.seikowatches.com/image/2021/01/19040802244691/0/SRPF49J1.png        https://synopsis.cosmos.ieplsg.com/files/4,0723b1f83dae63",
+  "https://storage.seikowatches.com/image/2021/02/18004700457055/0/SRPF49J1.png        https://synopsis.cosmos.ieplsg.com/files/4,0723b1f83dae63",
   "https://storage.seikowatches.com/image/2021/01/19040802244691/0/SRPF49J1.png        https://synopsis.cosmos.ieplsg.com/files/4,07b36f46491624",
   "https://storage.seikowatches.com/image/2021/01/19040802244691/0/SRPF49J1.png        https://synopsis.cosmos.ieplsg.com/files/6,07b3e8af1f2a9e",
   "https://storage.seikowatches.com/image/2021/01/19040802244691/0/SRPF49J1.png        https://synopsis.cosmos.ieplsg.com/files/6,08a8db0511d999",

@@ -2283,7 +2283,7 @@ export class getGender implements DataMapper<string, any> {
         if (input.match(/lady|ladies|woman|women|female/i)) {
             return 'F';
         }
-        if (input.match(/gent|\bmens?\b|\bmans?\b|\bmales?\b/i)) {
+        if (input.match(/\bboys?\b|gent|\bmens?\b|\bmans?\b|\bmales?\b/i)) {
             return 'M';
         }
         if (input.match(/unisex|pocket/i)) {

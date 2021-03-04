@@ -10,7 +10,7 @@ const { MongoClient } = require('mongodb');
       user: "synopsis",
       pass: "synopsis",
       name: "synopsis",
-      coll: "p_reference_urls",
+      coll: "p1_reference_product",
     }
     const ldb = {
       host: "127.0.0.1",
@@ -18,7 +18,7 @@ const { MongoClient } = require('mongodb');
       user: "synopsis",
       pass: "synopsis",
       name: "synopsis",
-      coll: "p_reference_urls",
+      coll: "p_reference_product",
     }
     const ddb_url = `mongodb://${ddb.user}:${ddb.pass}@${ddb.host}:${ddb.port}/${ddb.name}`;
     const d_conn = await MongoClient.connect(ddb_url, { useUnifiedTopology: true, useNewUrlParser: true, });

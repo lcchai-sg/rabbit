@@ -1,6 +1,6 @@
 const { MessageStation } = require("@cosmos/utils");
 const shortid = require('shortid');
-const u = require('./fix_omega');
+const u = require('./fix_u');
 
 (async function () {
     const mqHost = process.env.MESSAGE_HOST;
@@ -22,14 +22,14 @@ const u = require('./fix_omega');
         const job = {
             dryRun: false,
             payload: {
-                strategy: "omega",
+                strategy: "fossil",
                 command: "extraction",
                 context: {
                     entry: u[i],
                     lang: "en",
                     source: "official",
-                    brand: "Omega",
-                    brandID: 20,
+                    brand: "Fossil",
+                    brandID: 350,
                 }
             }
         };
