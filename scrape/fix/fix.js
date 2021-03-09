@@ -22,14 +22,14 @@ const u = require('./fix_u');
         const job = {
             dryRun: false,
             payload: {
-                strategy: "fossil",
+                strategy: "audemarspiguet",
                 command: "extraction",
                 context: {
                     entry: u[i],
                     lang: "en",
                     source: "official",
-                    brand: "Fossil",
-                    brandID: 350,
+                    brand: "Audemars Piguet",
+                    brandID: 18,
                 }
             }
         };
