@@ -8,10 +8,12 @@ const indexing = async context => {
   const result = [];
   let payload = { source, lang, collections: ['all'], items: { 'all': [], } };
   let next = entry;
+  // const cfg = { headers: { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9' } };
+  const cfg = { headers: { "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" } }
 
   do {
     console.log(next);
-    const { data } = await client.get(next);
+    const { data } = await client.get(next, cfg);
     const $ = cheerio.load(data);
     $(".item.product.product-item").each((idx, el) => {
       const url = $(el).find('a').attr('href');
@@ -26,6 +28,8 @@ const indexing = async context => {
       })
     })
     next = $('.pages-item-next').find('a').attr('href');
+    console.log("next : ", next);
+    await new Promise(r => setTimeout(r, 5000));
   } while (next);
 };
 
