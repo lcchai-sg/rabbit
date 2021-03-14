@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongodb": "^3.6.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
