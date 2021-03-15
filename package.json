@@ -32,6 +32,7 @@
     "mighty-pdf-parser": "^1.0.0",
     "mongodb": "^3.5.3",
     "node-fetch": "^2.6.1",
+    "node-libcurl": "^2.3.1",
     "node-seaweedfs": "^1.4.0",
     "nodemailer": "^6.4.17",
     "pdf-parse": "^1.1.1",
