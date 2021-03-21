@@ -10,7 +10,7 @@ const { MongoClient } = require('mongodb');
       user: "synopsis",
       pass: "synopsis",
       name: "synopsis",
-      coll: "p1_reference_product",
+      coll: "p_reference_product",
     }
     const ldb = {
       host: "127.0.0.1",
