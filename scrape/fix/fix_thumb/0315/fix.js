@@ -1,6 +1,6 @@
 const { MessageStation } = require("@cosmos/utils");
 const shortid = require('shortid');
-const u = require('./up_wmax');
+const u = require('./u_citizen');
 
 (async function () {
     const mqHost = process.env.MESSAGE_HOST;
@@ -22,14 +22,10 @@ const u = require('./up_wmax');
         const job = {
             dryRun: false,
             payload: {
-                strategy: "watchmaxx",
+                strategy: "citizen",
                 command: "extraction",
                 context: {
                     entry: u[i],
-                    lang: "en",
-                    source: "watchmaxx",
-                    brand: null,
-                    brandID: null,
                 }
             }
         };

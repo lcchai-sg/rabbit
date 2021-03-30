@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const sitemapper = require('sitemapper');
 
 const indexing = async context => {
   const source = "watchesofmayfair";
@@ -33,11 +34,28 @@ const indexing = async context => {
   } while (next);
 };
 
+const xmlIndexing = async context => {
+  const { entry, } = context;
+  const sitemap = new sitemapper({
+    url: entry,
+    timeout: 300000,
+  });
+  const sm = await sitemap.fetch();
+  sm.sites.sort();
+  sm.sites.forEach(u => console.log(u));
+  return {};
+}
+
 (async () => {
-  const r = await indexing({
-    client: axios,
-    // entry: "https://watchesofmayfair.com/watches",
-    entry: "https://watchesofmayfair.com/watches?product_list_limit=59",
+  // const r = await indexing({
+  //   client: axios,
+  //   // entry: "https://watchesofmayfair.com/watches",
+  //   entry: "https://watchesofmayfair.com/watches?product_list_limit=59",
+  // });
+  // console.log(r);
+
+  const r = await xmlIndexing({
+    entry: "https://watchesofmayfair.com/sitemap.xml",
   });
   console.log(r);
 })();
