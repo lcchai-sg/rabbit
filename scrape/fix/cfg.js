@@ -1,1 +1,0 @@
-/Users/lcchai/Work/projects/synopsis/synopsis-scraper/jobs/cfg.js

@@ -27,8 +27,8 @@ const { MongoClient } = require('mongodb');
     const l_conn = await MongoClient.connect(ldb_url, { useUnifiedTopology: true, useNewUrlParser: true, });
     const l_db = l_conn.db(ldb.name);
 
-    const limit = 10000;
-    for (let i = 0; i < 30; i++) {
+    const limit = 100000;
+    for (let i = 0; i < 4; i++) {
       console.log('reading DB..........................')
       const r = await d_db.collection(ddb.coll).find().skip(i * limit).limit(limit).toArray();
       console.log('number of records : ', r.length, i)

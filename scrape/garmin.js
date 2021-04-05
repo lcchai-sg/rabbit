@@ -8,23 +8,34 @@ const indexing = async context => {
   const brand = "Garmin";
   const brandID = 352;
   const result = { source, lang, brand, brandID, collections: ['all'], items: { 'all': [] } };
+  const urls = [
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10002/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10660/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10662/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10664/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10668/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/10921/products?currentPage=1&itemsPerPage=50",
+    "https://buy.garmin.com/categoryServices/en-US/US/categories/11040/products?currentPage=1&itemsPerPage=50",
+  ];
+  const uniq = [];
   try {
-    const { data } = await client.get(entry);
-    const p = data.replace(/\n/g, "").match(/"products":\[.*\],"meta"/ig);
-    if (p) {
-      const d = p[0].replace("\"products\":", "").replace(",\"meta\"", "");
-      const j = JSON.parse(d);
-      for (let i = 1; i < j.length; i++) {
-        const v = j[i];
-        result.items['all'].push({
-          source, lang, brand, brandID, url: v.url, name: v.name, reference: v.id,
-          description: v.description && v.description.longText ? v.description.longText.replace(/\s+/g, '') :
-            v.description && v.description.shortText ? v.description.shortText.replace(/\s+/g, '') : null,
-          thumbnail: v.image && v.image.imageUrl && v.image.imageUrl.large ?
-            v.image.imageUrl.large : null,
-          retail: v.price && v.price.listPrice && v.price.listPrice.formattedAmount ?
-            v.price.listPrice.formattedAmount : null,
-        })
+    for (const url of urls) {
+      const {data} = await client.get(url);
+      const p = data.products;
+      for (let i = 1; i < p.length; i++) {
+        const reference = p[i].id;
+        const name = p[i].name;
+        const url = p[i].url;
+        const thumbnail = p[i].image?.imageUrl?.highResolution ? p[i].image?.imageUrl?.highResolution :
+          p[i].image?.imageUrl?.large ? p[i].image?.imageUrl?.large : null;
+        const retail = p[i].price?.listPrice?.formattedAmount;
+        if (uniq.indexOf(url) < 0) {
+          result.items['all'].push({
+            source, lang, brand, brandID, url, name, reference,
+            thumbnail, retail,
+          })
+          uniq.push(url);
+        }
       }
     }
     return result;
@@ -36,12 +47,12 @@ const indexing = async context => {
 
 const extraction = async context => {
   const { client, entry, base, ...rest } = context;
-  if (!rest || !rest.source) rest.source = "official";
-  if (!rest || !rest.lang) rest.lang = "en";
-  if (!rest || !rest.brand) rest.brand = "Garmin";
-  if (!rest || !rest.brandID) rest.brandID = 352;
   const baseURL = base ? base : "https://buy.garmin.com";
   const result = { ...rest, url: entry, spec: [], variations: [], }
+  rest.source = "official";
+  rest.lang = "en";
+  rest.brand = "Garmin";
+  rest.brandID = 352;
   const results = [];
   console.log('entry >>> ', entry);
   if (entry.match(/\/pn\//i)) {
@@ -81,12 +92,12 @@ const extraction = async context => {
 const extractUrl = async context => {
   const { client, entry, base, ...rest } = context;
   console.log('          >>> ', entry);
-  if (!rest || !rest.source) rest.source = "official";
-  if (!rest || !rest.lang) rest.lang = "en";
-  if (!rest || !rest.brand) rest.brand = "Garmin";
-  if (!rest || !rest.brandID) rest.brandID = 352;
   const baseURL = base ? base : "https://buy.garmin.com";
   const result = { ...rest, url: entry, spec: [], variations: [], }
+  result.source = "official";
+  result.lang = "en";
+  result.brand = "Garmin";
+  result.brandID = 352;
   try {
     const { data } = await client.get(entry);
     const $ = cheerio.load(data);
@@ -142,7 +153,7 @@ const extractUrl = async context => {
     base: "",
   })
   r.items['all'].forEach(w => {
-    console.log(w.url)
+    console.log(w)
   })
   console.log(r.items['all'].length)
 
@@ -184,21 +195,20 @@ const extractUrl = async context => {
   //     retail: '$649.99 USD'
   //   }
   // ];
-  // for (let i = 0; i < r.items['all'].length; i++) {
-  //   const ex = await extraction({
-  //     ...r.items['all'][i],
-  //     client: axios,
-  //     entry: r.items['all'][i].url,
-  //     base: "https://buy.garmin.com",
-  //   });
-  //   console.log()
-  //   console.log()
-  //   for (let i = 0; i < ex.length; i++) {
-  //     console.log(ex[i].url);
-  //     // ex[i].spec.forEach(s => console.log('    ' + s.key + ' | ' + s.value));
-  //     // console.log()
-  //   }
-  //   console.log()
-
-  // }
+  for (let i = 0; i < r.items['all'].length; i++) {
+    const ex = await extraction({
+      ...r.items['all'][i],
+      client: axios,
+      entry: r.items['all'][i].url,
+      base: "https://buy.garmin.com",
+    });
+    console.log()
+    console.log()
+    for (let i = 0; i < ex.length; i++) {
+      console.log(ex[i].url);
+      ex[i].spec.forEach(s => console.log('    ' + s.key + ' | ' + s.value));
+      console.log()
+    }
+    console.log()
+  }
 })();
