@@ -20,7 +20,7 @@ const indexing = async context => {
   const uniq = [];
   try {
     for (const url of urls) {
-      const {data} = await client.get(url);
+      const { data } = await client.get(url);
       const p = data.products;
       for (let i = 1; i < p.length; i++) {
         const reference = p[i].id;
@@ -101,12 +101,15 @@ const extractUrl = async context => {
   try {
     const { data } = await client.get(entry);
     const $ = cheerio.load(data);
-    // result.name = $('meta[name="product_name"]').attr('content');
-    result.description = $('meta[name="description"]').attr('content');
+    result.name = $('meta[property="og:title"]').attr('content');
+    result.description = $('meta[property="og:description"]').attr('content');
+    result.thumbnail = $('meta[property="og:image"]').attr('content');
     result.retail = $('meta[name="price_currency"]').attr('content') + ' ' + $('meta[name="product_price"]').attr('content');
-    result.thumbnail = $('meta[name="product_image"]').attr('content');
-    result.name = $(".app__product__info__name").text() + "   " + $(".app__product__info__variation").text();
     result.reference = $("#js__product__info__sku").text();
+    // result.name = $('meta[name="product_name"]').attr('content');
+    // result.description = $('meta[name="description"]').attr('content');
+    // result.thumbnail = $('meta[name="product_image"]').attr('content');
+    // result.name = $(".app__product__info__name").text() + "   " + $(".app__product__info__variation").text();
     $(".app__product__filters__group").each((idx, el) => {
       const v = $(el).find(".g__tooltip__summary").text();
       if (!v) {
@@ -124,14 +127,14 @@ const extractUrl = async context => {
       if (id === "overview") {
         $(el).find("pc-feature-card").each((idx, el) => {
           const key = $(el).attr("title");
-          const value = $(el).attr("description");
+          const value = $(el).attr("description").replace(/<\/?[^>]+(>|$)/g, "").trim();
           if (key && value) result.spec.push({ key, value });
           else if (value) result.spec.push({ key: "overview", value });
         })
       } else if (id === "specs") {
         $(el).find("tr").each((idx, el) => {
           const key = $(el).find("th").text();
-          const v = $(el).find("td").text();
+          const v = $(el).find("td").text().replace(/<\/?[^>]+(>|$)/g, "").trim();
           const value = v ? v.replace(/\n/g, "   ") : $(el).find("td").attr("class");
           if (key && value) result.spec.push({ key, value });
         })
@@ -147,68 +150,84 @@ const extractUrl = async context => {
 }
 
 (async () => {
-  const r = await indexing({
-    entry: "https://buy.garmin.com/en-US/US/c10002-p0.html",
-    client: axios,
-    base: "",
-  })
-  r.items['all'].forEach(w => {
-    console.log(w)
-  })
-  console.log(r.items['all'].length)
+  // const r = await indexing({
+  //   entry: "https://buy.garmin.com/en-US/US/c10002-p0.html",
+  //   client: axios,
+  //   base: "",
+  // })
+  // r.items['all'].forEach(w => {
+  //   console.log(w)
+  // })
+  // console.log(r.items['all'].length)
 
-  // const r = [
-  //   {
-  //     source: 'official',
-  //     lang: 'en',
-  //     brand: 'Garmin',
-  //     brandID: 352,
-  //     url: 'https://buy.garmin.com/en-US/US/p/702902',
-  //     name: 'fēnix® 6 Series',
-  //     reference: '16600',
-  //     description: '<p>Youwanttheultimateinoutdoorperformance.Thefaceofadventure.Themultisportmessiah.ThisGPSsmartwatchseriesisatthepinnacleofexplorationandathleticism.</p>',
-  //     thumbnail: 'https://static.garmincdn.com/en/products/010-02410-14/v/cf-lg-8beb21e8-4285-4569-ab2b-0b6dfbb47e84.jpg',
-  //     retail: '$549.99 USD'
-  //   },
-  //   {
-  //     source: 'official',
-  //     lang: 'en',
-  //     brand: 'Garmin',
-  //     brandID: 352,
-  //     url: 'https://buy.garmin.com/en-US/US/p/702902',
-  //     name: 'fēnix® 6 - Pro Solar Edition',
-  //     reference: '702902',
-  //     description: '<p>Harnessthepowerofthesunwiththefēnix®6ProSolarpremiummultisportGPSwatch.FeaturingaPowerGlass™solarcharginglensandcustomizablepowermanagermodes,thissmartwatchcanstayonandremainperformance-readyforweeks.</p>',
-  //     thumbnail: 'https://static.garmincdn.com/en/products/010-02410-14/v/cf-lg-8beb21e8-4285-4569-ab2b-0b6dfbb47e84.jpg',
-  //     retail: '$799.99 USD'
-  //   },
-  //   {
-  //     source: 'official',
-  //     lang: 'en',
-  //     brand: 'Garmin',
-  //     brandID: 352,
-  //     url: 'https://buy.garmin.com/en-US/US/p/641479',
-  //     name: 'fēnix® 6 - Pro and Sapphire Editions',
-  //     reference: '641479',
-  //     description: 'YouwanttheultimateinoutdoorperformancefromyourGPSsmartwatch.Atthepinnacleofexplorationandathleticism,thisoneaddsmusicandmapping.',
-  //     thumbnail: 'https://static.garmincdn.com/en/products/010-02158-13/v/cf-lg-a836df96-628f-4aa8-8bc0-3d6ecaf0e1f4.jpg',
-  //     retail: '$649.99 USD'
-  //   }
-  // ];
-  for (let i = 0; i < r.items['all'].length; i++) {
+  const r = [
+    {
+      source: 'official',
+      lang: 'en',
+      brand: 'Garmin',
+      brandID: 352,
+      url: 'https://buy.garmin.com/en-US/US/p/702902',
+      name: 'fēnix® 6 Series',
+      reference: '16600',
+      description: '<p>Youwanttheultimateinoutdoorperformance.Thefaceofadventure.Themultisportmessiah.ThisGPSsmartwatchseriesisatthepinnacleofexplorationandathleticism.</p>',
+      thumbnail: 'https://static.garmincdn.com/en/products/010-02410-14/v/cf-lg-8beb21e8-4285-4569-ab2b-0b6dfbb47e84.jpg',
+      retail: '$549.99 USD'
+    },
+    // {
+    //   source: 'official',
+    //   lang: 'en',
+    //   brand: 'Garmin',
+    //   brandID: 352,
+    //   url: 'https://buy.garmin.com/en-US/US/p/702902',
+    //   name: 'fēnix® 6 - Pro Solar Edition',
+    //   reference: '702902',
+    //   description: '<p>Harnessthepowerofthesunwiththefēnix®6ProSolarpremiummultisportGPSwatch.FeaturingaPowerGlass™solarcharginglensandcustomizablepowermanagermodes,thissmartwatchcanstayonandremainperformance-readyforweeks.</p>',
+    //   thumbnail: 'https://static.garmincdn.com/en/products/010-02410-14/v/cf-lg-8beb21e8-4285-4569-ab2b-0b6dfbb47e84.jpg',
+    //   retail: '$799.99 USD'
+    // },
+    // {
+    //   source: 'official',
+    //   lang: 'en',
+    //   brand: 'Garmin',
+    //   brandID: 352,
+    //   url: 'https://buy.garmin.com/en-US/US/p/641479',
+    //   name: 'fēnix® 6 - Pro and Sapphire Editions',
+    //   reference: '641479',
+    //   description: 'YouwanttheultimateinoutdoorperformancefromyourGPSsmartwatch.Atthepinnacleofexplorationandathleticism,thisoneaddsmusicandmapping.',
+    //   thumbnail: 'https://static.garmincdn.com/en/products/010-02158-13/v/cf-lg-a836df96-628f-4aa8-8bc0-3d6ecaf0e1f4.jpg',
+    //   retail: '$649.99 USD'
+    // }
+  ];
+  for (let i = 0; i < r.length; i++) {
     const ex = await extraction({
-      ...r.items['all'][i],
+      ...r[i],
       client: axios,
-      entry: r.items['all'][i].url,
+      entry: r[i].url,
       base: "https://buy.garmin.com",
     });
-    console.log()
-    console.log()
     for (let i = 0; i < ex.length; i++) {
-      console.log(ex[i].url);
+      console.log();
+      console.log();
+      console.log(ex[i]);
+      console.log();
       ex[i].spec.forEach(s => console.log('    ' + s.key + ' | ' + s.value));
       console.log()
     }
-    console.log()
-  }
+  };
+  // for (let i = 0; i < r.items['all'].length; i++) {
+  //   const ex = await extraction({
+  //     ...r.items['all'][i],
+  //     client: axios,
+  //     entry: r.items['all'][i].url,
+  //     base: "https://buy.garmin.com",
+  //   });
+  //   console.log()
+  //   console.log()
+  //   for (let i = 0; i < ex.length; i++) {
+  //     console.log(ex[i].url);
+  //     ex[i].spec.forEach(s => console.log('    ' + s.key + ' | ' + s.value));
+  //     console.log()
+  //   }
+  //   console.log()
+  // }
 })();

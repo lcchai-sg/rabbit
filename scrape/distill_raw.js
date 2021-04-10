@@ -22,8 +22,8 @@ const shortid = require('shortid');
 
   // update data here
   const source = 'official';
-  const brandID = 98;
-  const strategy = 'girardperregaux';
+  const brandID = 352;
+  const strategy = 'garmin';
 
   const db_url = `mongodb://${mdb.user}:${mdb.pass}@${mdb.host}:${mdb.port}/${mdb.name}`;
   const conn = await MongoClient.connect(db_url, {
