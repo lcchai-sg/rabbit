@@ -1,6 +1,6 @@
 const { MessageStation } = require("@cosmos/utils");
 const shortid = require('shortid');
-const u = require('./u_jlc');
+const u = require('./u_joma_0414');
 
 (async function () {
     const mqHost = process.env.MESSAGE_HOST;
@@ -22,7 +22,7 @@ const u = require('./u_jlc');
         const job = {
             dryRun: false,
             payload: {
-                strategy: "jaegerlecoultre",
+                strategy: "jomashop",
                 command: "extraction",
                 context: {
                     entry: u[i],
