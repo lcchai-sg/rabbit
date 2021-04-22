@@ -1,33 +1,49 @@
 const fs = require('fs');
 const axios = require('axios');
-const u = require('./u_official_no_assets');
+const cheerio = require('cheerio');
+const u = require('./u_kechiq_no_assets');
+
 
 (async () => {
-    const fp = '/Users/lcchai/Work/assets/official/';
+    const fp = '/Users/lcchai/Work/assets/kechiq/';
     for (let i = 0; i < u.length; i++) {
         console.log(u.length, i, u[i]);
-        const uu = u[i].split('/');
-        const fn = uu[uu.length - 1].split('?')[0];
-        const fname = fp + fn;
         try {
-            const resp = await axios.get(u[i], { responseType: 'stream' });
-            resp.data.pipe(fs.createWriteStream(fname));
-            const out = `${u[i]} ||| ${fname}`;
-            console.log('     ', out);
-            fs.appendFile('official_no_assets.out', out + '\n', (err) => { if (err) throw err; });
-        } catch (error) {
-            if (error.response && error.response.status === 404) {
-                const out = `${u[i]}`;
-                console.log('     404 : ', out)
-                fs.appendFile('official_no_assets.err', out + '\n', (err) => { if (err) throw err; });
+            await new Promise(r => setTimeout(r, 5000));
+            const $ = cheerio.load((await axios.get(u[i])).data);
+            let th = $('.main-product-image').attr('src');
+            if (!th.match(/placeholder|coming|unavailable/i)) {
+                if (th) {
+                    th = th.split('?')[0];
+                    const uu = th.split('/');
+                    const fn = uu[uu.length - 1].split('?')[0];
+                    const fname = fp + fn;
+                    const resp = await axios.get(th, { responseType: 'stream', });
+                    resp.data.pipe(fs.createWriteStream(fname));
+                    const out = `${u[i]} ||| ${th} ||| ${fname}`;
+                    console.log('     ', out);
+                    fs.appendFile('kechiq_no_assets.out', out + '\n', (err) => { if (err) throw err; });
+                } else {
+                    const out = `${u[i]} ||| no thumbnail\n`;
+                    console.log(`     NO THUMBNAIL : ${u[i]}`);
+                    fs.appendFile('kechiq_no_assets.err', out, (err) => { if (err) throw err; });
+                }
             } else {
-                const out = `UNKNOWN : ${u[i]}`;
-                console.log('     ', out)
-                fs.appendFile('official_no_assets.err', out + '\n', (err) => { if (err) throw err; });
+                const out = `${u[i]} ||| no thumbnail\n`;
+                console.log(`     NO THUMBNAIL : ${u[i]}`);
+                fs.appendFile('kechiq_no_assets.err', out, (err) => { if (err) throw err; });
+            }
+        } catch (err) {
+            if (err.response && err.response.status === 404) {
+                const out = `${u[i]} ||| 404\n`;
+                console.log(`     404 : ${u[i]}`);
+                fs.appendFile('kechiq_no_assets.err', out, (err) => { if (err) throw err; });
+            } else {
+                console.log(err);
+                const out = `${u[i]} ||| error\n`;
+                console.log(`     ERROR : ${u[i]}`);
+                fs.appendFile('kechiq_no_assets.err', out, (err) => { if (err) throw err; });
             }
         }
     }
-    console.log();
-    console.log('done.');
-    process.exit(0);
 })()
