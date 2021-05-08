@@ -1,0 +1,143 @@
+Additional Info | Additional Info
+Additional Info | Additional Info :
+Additional Info | Category
+Additional Info | Category :
+Additional Info | Department
+Additional Info | Department :
+Additional Info | Internal ID
+Additional Info | Internal ID :
+Additional Info | Item Variation
+Additional Info | Item Variation :
+Additional Info | Style
+Additional Info | Style :
+Additional Info | UPC Code
+Additional Info | UPC Code :
+Additional Info | Warranty
+Additional Info | Warranty :
+Additional Info | Watch Style
+
+
+Band | Band Color
+Band | Band Color :
+Band | Band Length
+Band | Band Length :
+Band | Band Material
+Band | Band Material :
+Band | Band Type
+Band | Band Type :
+Band | Band Width
+Band | Band Width :
+Band | Clasp
+Band | Clasp :
+
+
+Case | Case Back
+Case | Case Back :
+Case | Case Color
+Case | Case Color :
+Case | Case Material
+Case | Case Material :
+Case | Case Shape
+Case | Case Shape :
+Case | Case Size
+Case | Case Size :
+Case | Case Thickness
+Case | Case Thickness :
+
+
+Condition Information | Box
+Condition Information | Box :
+Condition Information | Comments
+Condition Information | Comments :
+Condition Information | Condition Description
+Condition Information | Item Condition
+Condition Information | Item Condition :
+Condition Information | Papers
+Condition Information | Papers :
+Condition Information | Year
+Condition Information | Year :
+
+
+Details | Apparel Type :
+Details | Category :
+Details | Closure :
+Details | Color :
+Details | Features :
+Details | Material :
+Details | Size :
+Details | Style :
+
+
+Dial | Bezel
+Dial | Bezel :
+Dial | Bezel Color
+Dial | Bezel Color :
+Dial | Bezel Material
+Dial | Bezel Material :
+Dial | Crown
+Dial | Crown :
+Dial | Crystal
+Dial | Crystal :
+Dial | Dial Color
+Dial | Dial Color :
+Dial | Dial Markers
+Dial | Dial Markers :
+Dial | Dial Type
+Dial | Dial Type :
+Dial | Hands
+Dial | Hands :
+Dial | Luminiscence
+Dial | Luminiscence :
+Dial | Second Markers
+Dial | Second Markers :
+Dial | Sub Dials
+Dial | Sub Dials :
+Dial | Type
+
+
+Features | Calendar
+Features | Calendar :
+Features | Features
+Features | Features :
+Features | Functions
+Features | Functions :
+Features | Watch Features
+Features | Water Resistance
+Features | Water Resistance :
+
+
+General | Band Color
+General | Closure Type
+General | Color
+General | Comments
+General | Condition Description
+General | Frame Shape
+General | Item Condition
+General | Launch Year
+General | UV Protection
+General | Year
+
+
+Information | Brand
+Information | Brand :
+Information | Engine
+Information | Engine :
+Information | Gender
+Information | Gender :
+Information | Made In :
+Information | Model
+Information | Model :
+Information | Movement
+Information | Movement :
+Information | Power Reserve
+Information | Power Reserve :
+Information | Series
+Information | Series :
+Information | Watch Label
+Information | Watch Label :
+
+
+
+{ let kk=[]; db.p_reference_raw.find({source:"jomashop"}).forEach(r=>{ if (r.spec) for (let s of r.spec) { if (typeof s === 'object') { let cat = Object.keys(s)[0]; let key = Object.keys(s)[1]; let val = Object.keys(s)[2]; let oo = s[cat] + ' | ' + s[key] + ' | ' + s[val]; if (kk.indexOf(oo) < 0) kk.push(oo); } } }); kk.sort().forEach(r => { print(r); }); }
+
+{ print(); let uniq = []; db.reference_raw.find({"spec.key":/case back/i}).forEach(r => { for (let s of r.spec) { if (s.key.match(/case back/i)) { if (uniq.indexOf(s.value) < 0) uniq.push(s.value); }} }); uniq.sort(); uniq.forEach(c => { print(c); }); print();}

@@ -22,7 +22,7 @@ const u = require('./u_fix_urls');
         const job = {
             dryRun: false,
             payload: {
-                strategy: "jaegerlecoultre",
+                strategy: "jomashop",
                 command: "extraction",
                 context: {
                     entry: u[i],
