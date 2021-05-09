@@ -140,4 +140,16 @@ Information | Watch Label :
 
 { let kk=[]; db.p_reference_raw.find({source:"jomashop"}).forEach(r=>{ if (r.spec) for (let s of r.spec) { if (typeof s === 'object') { let cat = Object.keys(s)[0]; let key = Object.keys(s)[1]; let val = Object.keys(s)[2]; let oo = s[cat] + ' | ' + s[key] + ' | ' + s[val]; if (kk.indexOf(oo) < 0) kk.push(oo); } } }); kk.sort().forEach(r => { print(r); }); }
 
-{ print(); let uniq = []; db.reference_raw.find({"spec.key":/case back/i}).forEach(r => { for (let s of r.spec) { if (s.key.match(/case back/i)) { if (uniq.indexOf(s.value) < 0) uniq.push(s.value); }} }); uniq.sort(); uniq.forEach(c => { print(c); }); print();}
+
+
+
+{ print(); let m = new RegExp("case material","i"); let uniq = []; db.reference_raw.find({source:"jomashop","spec.key": m}).forEach(r => { for (let s of r.spec) { if (s.key.match(m)) { if (uniq.indexOf(s.value) < 0) uniq.push(s.value); }} }); uniq.sort(); uniq.forEach(c => { print(c); }); print();}
+
+
+{ let uniq = []; let m = new RegExp("bezel color","i"); let v = new RegExp("18kt","i"); db.reference_raw.find({source:"jomashop","spec.key": m}).forEach(r => { for (let s of r.spec) { if (s.key.match(m) && s.value.match==='18kt') { if (uniq.indexOf(r.url) < 0) uniq.push(r.url); } } }); uniq.sort().forEach(v => { print(v); }); }
+
+
+
+{ let uniq = []; db.reference_product.find({source:"jomashop",code:{$nin:[404,'not product']},band:{$exists:true}}).forEach(r=>{if (r.band.color) if (uniq.indexOf(r.band.color) < 0) uniq.push(r.band.color); }); uniq.sort().forEach(m => { print(m); }); print(); }
+
+
