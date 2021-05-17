@@ -1,41 +1,41 @@
 (Five-Row Twisted Cable) || 
 (Glossy) Red || Red / 
-(Gold-tone and Black) || Black-Tone / Gold-Tone / 
-(Interchangeable) Black || Black / 
+(Gold-tone and Black) || Black / Gold / 
 (Green and Red Stripe) || Green / Red / 
+(Interchangeable) Black || Black / 
 (Pink with Exotic Flowers) || Pink / 
-(Silver-tone and Dark Blue Ion-plated) || Blue / Silver-Tone / 
+(Silver-tone and Dark Blue Ion-plated) || Blue / Silver / 
 1 || 
-18k Rose Gold-Plated || Rose Gold-Plated / Red / Gold-Plated / 
-18k Yellow Gold Plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-18kt Everose || Rose Gold / Red / 
-18kt Gold PVD || Gold PVD / 
-18kt Gold Ion-plated || Gold-Plated / 
-18kt Gold Plated || Gold-Plated / 
-18kt Gold-plated || Gold-Plated / 
-18kt Gold-plated PVD || Gold PVD / 
-18kt Gold-tone || Gold-Tone / 
-18kt Pink || Rose Gold / Pink / 
-18kt Rose || Rose Gold / Red / 
-18kt Rose Gold || Rose Gold / Red / Gold / 
-18kt Rose Gold Ion-plated || Rose Gold-Plated / Red / Gold-Plated / 
-18kt Rose Gold PVD || Rose Gold PVD / Red / Gold PVD / 
-18kt Rose Gold-plated || Rose Gold-Plated / Red / Gold-Plated / 
-18kt Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
+18k Rose Gold-Plated || Rose Gold / 
+18k Yellow Gold Plated || Yellow Gold / 
+18kt Everose || Rose Gold / 
+18kt Gold Ion-plated || Gold / 
+18kt Gold PVD || Gold / 
+18kt Gold Plated || Gold / 
+18kt Gold-plated || Gold / 
+18kt Gold-plated PVD || Gold / 
+18kt Gold-tone || Gold / 
+18kt Pink || Rose Gold / 
+18kt Rose || Rose Gold / 
+18kt Rose Gold || Rose Gold / 
+18kt Rose Gold Ion-plated || Rose Gold / 
+18kt Rose Gold PVD || Rose Gold / 
+18kt Rose Gold-plated || Rose Gold / 
+18kt Rose Gold-tone || Rose Gold / 
 18kt Sedna || 
-18kt White Gold || White Gold / White / Gold / 
-18kt Yellow Gold || Yellow Gold / Yellow / Gold / 
-18kt Yellow || Yellow Gold / Yellow / 
-18kt Yellow Gold Ion-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-18kt Yellow Gold-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-18kt Yellow Gold-tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-2 Tone Grey and Gold || Grey / Gold-Tone / 
-2- Tone Yellow Gold and Stainless Steel || Grey / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-23k Gold-tone || Gold-Tone / 
+18kt White Gold || White Gold / 
+18kt Yellow || Yellow Gold / 
+18kt Yellow Gold || Yellow Gold / 
+18kt Yellow Gold Ion-plated || Yellow Gold / 
+18kt Yellow Gold-plated || Yellow Gold / 
+18kt Yellow Gold-tone || Yellow Gold / 
+2 Tone Grey and Gold || Two-tone / Grey / Gold / 
+2- Tone Yellow Gold and Stainless Steel || Grey / Yellow Gold / 
+23k Gold-tone || Gold / 
 23kt Gold Plating || Gold / 
-23kt Gold-plated || Gold-Plated / 
-23kt Gold-tone || Gold-Tone / 
-23kt Yellow Gold-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
+23kt Gold-plated || Gold / 
+23kt Gold-tone || Gold / 
+23kt Yellow Gold-plated || Yellow Gold / 
 282 baguette-cut diamonds (~8.49 carats) and 254 brilliant-cut diamonds (~6.68 carats) || Diamond-paved / 
 Alligator Grey || Grey / 
 Aluminium and Black || Black / 
@@ -64,26 +64,26 @@ Beige (Floral Embossed) || Beige /
 Beige (Flower Print) || Beige / 
 Beige / Brown || Beige / Brown / 
 Beige Camoflauge || Beige / 
-Beige Camouflage || Beige / Green / 
+Beige Camouflage || Beige / 
 Beige Coach Signature || Beige / 
-Beige Gold || Beige Gold / Beige / Gold / 
-Beige Gold-tone || Beige Gold-Tone / Beige / Gold-Tone / 
-Beige Golden Tan || Beige Gold / Beige / Brown / Gold / 
+Beige Gold || Beige Gold / 
+Beige Gold-tone || Beige Gold / 
+Beige Golden Tan || Beige Gold / Brown / 
 Beige Marbel || Beige / 
 Beige PVD || Beige / 
 Beige Sand || Beige / 
 Beige and Brown || Beige / Brown / 
-Beige and Silver-tone || Beige / Silver-Tone / 
+Beige and Silver-tone || Beige / Silver / 
 Beige and Tan || Beige / Brown / 
 Beige and Teal || Beige / Blue / 
 Beige and Yellow || Beige / Yellow / 
 Beige, Green, Red || Beige / Green / Red / 
+Beige, Orange and Black || Beige / Black / Orange / 
 Berry Red || Red / 
-Black || Black / 
 Black  with purple lining || Black / Purple / 
+Black || Black / 
 Black (AX Motif) || Black / 
 Black (Anthracite ) || Black / 
-Beige, Orange and Black || Beige / Black / Orange / 
 Black (Bee and Star Print) || Black / 
 Black (Blue Back) || Black / Blue / 
 Black (Blue Backed) || Black / Blue / 
@@ -105,48 +105,48 @@ Black (Polka Dot) || Black /
 Black (Python-pattern) || Black / 
 Black (Red Back) || Black / Red / 
 Black (Red Backed) || Black / Red / 
-Black (Red Stripe) || Black / Red / 
 Black (Red Stitching) || Black / Red / 
+Black (Red Stripe) || Black / Red / 
 Black (Snake Print) || Black / 
+Black (Tire Pattern) || Black / 
 Black (Transparent) || Transparent / Black / 
 Black (White Backed) || Black / White / 
 Black (White Dot) || Black / White / 
-Black (Tire Pattern) || Black / 
 Black (White Interior) || Black / White / 
 Black (White Stripe) || Black / White / 
+Black (Yellow Back) || Black / Yellow / 
 Black (Yellow Backed) || Black / Yellow / 
 Black (Yellow Stripe) || Black / Yellow / 
-Black (Yellow Back) || Black / Yellow / 
 Black / Blue || Black / Blue / 
 Black / Grey || Black / Grey / 
 Black Blue || Black / Blue / 
 Black Brown || Black / Brown / 
-Black Coated || Black / 
 Black Carbon Motif || Black / 
+Black Coated || Black / 
 Black Concrete || Black / 
+Black D.L.C. Coating || Black / 
 Black DLC || Black / 
+Black Enamel || Black / Multi-color / 
 Black Extreme || Black / 
+Black Floral || Black / 
 Black Graffiti-like || Black / 
 Black IP || Black / 
 Black Ice PVD || Black / 
 Black Ion || Black / 
 Black Ion-Plated || Black / 
 Black Ion-plate || Black / 
-Black Enamel || Black / Multi-color / 
 Black Ion-plated || Black / 
 Black Monogram || Black / 
 Black Multi-Colored Floral || Black / Multi-color / 
-Black Floral || Black / 
-Black D.L.C. Coating || Black / 
 Black Navy || Black / Navy / 
 Black Ocean Racer || Black / 
 Black PVD || Black / 
-Black PVD Coating || Black / 
 Black PVD Coated || Black / 
+Black PVD Coating || Black / 
 Black PVD Sandblasted || Black / 
 Black PVD with Carbon Fiber || Black / 
 Black Red and Grey || Black / Grey / Red / 
-Black Red and Silver Stripe || Black / Red / Silver-Plated / 
+Black Red and Silver Stripe || Black / Red / Silver / 
 Black Sandblasted PVD || Black / 
 Black Semi-Matt || Black / 
 Black Shimmer || Black / 
@@ -169,7 +169,7 @@ Black and Dark Green || Black / Green /
 Black and Dark Grey || Black / Grey / 
 Black and Gold || Black / Gold / 
 Black and Gold Swarovski || Black / Gold / 
-Black and Gold-tone || Black-Tone / Gold-Tone / 
+Black and Gold-tone || Black / Gold / 
 Black and Green || Black / Green / 
 Black and Green Stripe || Black / Green / 
 Black and Grey || Black / Grey / 
@@ -177,34 +177,37 @@ Black and Grey Coach Signature Print || Black / Grey /
 Black and Grey Stripe || Black / Grey / 
 Black and Grey Striped || Black / Grey / 
 Black and Grey and Orange Stripe || Black / Grey / Orange / 
-Black and Grey and Rose Gold || Black / Grey / Rose Gold / Red / Gold / 
+Black and Grey and Rose Gold || Black / Grey / Rose Gold / 
 Black and Gunmetal || Black / Grey / 
 Black and Ivory || Black / White / 
+Black and Khaki || Black / Khaki / 
 Black and Olive || Black / Green / 
 Black and Orange || Black / Orange / 
-Black and Khaki || Black / Khaki / 
 Black and Orange and Light Blue Stripe || Black / Blue / Orange / 
 Black and Pink || Black / Pink / 
-Black and Red || Black / Red / 
 Black and Purple || Black / Purple / 
+Black and Red || Black / Red / 
+Black and Red Check || Black / Red / 
 Black and Red Patterned || Black / Red / 
 Black and Red Stripe || Black / Red / 
 Black and Rose || Black / Red / 
-Black and Rose Gold || Black / Rose Gold / Red / Gold / 
-Black and Rose Gold PVD || Black / Rose Gold PVD / Red / Gold PVD / 
-Black and Rose Gold-tone || Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
+Black and Rose Gold || Black / Rose Gold / 
+Black and Rose Gold PVD || Black / Rose Gold / 
+Black and Rose Gold-tone || Black / Rose Gold / 
 Black and Silver || Black / Silver / 
-Black and Smoke-tone || Black-Tone / 
+Black and Silver-tone || Black / Silver / 
+Black and Smoke-tone || Black / 
 Black and Titanium || Black / Silver / 
 Black and Tortoise || Black / 
 Black and White || Black / White / 
+Black and White (Chevron Pattern) || Black / White / 
 Black and White (Logo-pressed) || Black / White / 
 Black and White Geometric Pattern || Black / White / 
 Black and White Polka Dot || Black / White / 
 Black and White-plated || Black / White / 
 Black and Yellow || Black / Yellow / 
 Black and Yellow (Python-pattern) || Black / Yellow / 
-Black and Yellow Gold PVD || Black / Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
+Black and Yellow Gold PVD || Black / Yellow Gold / 
 Black and Yellow Stripe || Black / Yellow / 
 Black and and green embroidery || Black / Green / 
 Black and blue embroidery || Black / Blue / 
@@ -216,7 +219,6 @@ Black with Burgundy || Black / Brown /
 Black with Grammy Logo || Black / 
 Black with Hublot Embossed || Black / 
 Black with Orange Dots || Black / Orange / 
-Black and Red Check || Black / Red / 
 Black with Orange Stitching || Black / Orange / 
 Black with Purple Leather Lining || Black / Purple / 
 Black with Red Lining || Black / Red / 
@@ -225,96 +227,94 @@ Black with White Netting || Black / White /
 Black with White Stitching || Black / White / 
 Black with red stitching || Black / Red / 
 Black with yellow stitching || Black / Yellow / 
+Black, Blue || Black / Blue / 
 Black, Blue and Orange || Black / Blue / Orange / 
 Black, Blue and Red || Black / Blue / Red / 
 Black, Dark Blue || Black / Blue / 
-Black and Silver-tone || Black-Tone / Silver-Tone / 
 Black, Dark Grey || Black / Grey / 
-Black and White (Chevron Pattern) || Black / White / 
-Black, Blue || Black / Blue / 
 Black, Gold || Black / Gold / 
-Black, Gold-tone and Silver-tone || Black-Tone / Silver-Tone / Gold-Tone / 
+Black, Gold-tone and Silver-tone || Black / Silver / Gold / 
 Black, Green, Red, White || Black / Green / Red / White / 
-Black, Green, and Red || Black / Green / Red / 
 Black, Green, White, and Blue || Black / Blue / Green / White / 
-Black, Grey and Orange Stripe || Black / Grey / Orange / 
+Black, Green, and Red || Black / Green / Red / 
 Black, Grey || Black / Grey / 
-Black, Light Blue, Orange || Black / Blue / Orange / 
-Black, Orange and Light Blue Stripe || Black / Blue / Orange / 
-Black, Red || Black / Red / 
+Black, Grey and Orange Stripe || Black / Grey / Orange / 
 Black, Grey and Red Striped || Black / Grey / Red / 
-Black, Red and Green Striped || Black / Green / Red / 
+Black, Light Blue, Orange || Black / Blue / Orange / 
 Black, Multi-Color Striped || Black / Multi-color / 
 Black, Multicolored || Black / Multi-color / 
-Black, Red and White || Black / Red / White / 
+Black, Orange and Light Blue Stripe || Black / Blue / Orange / 
+Black, Red || Black / Red / 
 Black, Red and Green || Black / Green / Red / 
+Black, Red and Green Striped || Black / Green / Red / 
+Black, Red and Silver Stripe || Black / Red / Silver / 
+Black, Red and White || Black / Red / White / 
 Black, Red and White Stripe || Black / Red / White / 
-Black, Red and Silver Stripe || Black / Red / Silver-Plated / 
-Black, Red, Silver-tone || Black-Tone / Red / Silver-Tone / 
 Black, Red, Green || Black / Green / Red / 
+Black, Red, Silver-tone || Black / Red / Silver / 
 Black, Red, and Green || Black / Green / Red / 
 Black, White || Black / White / 
 Black, White and Grey || Black / Grey / White / 
 Black, White, Blue || Black / Blue / White / 
 Black, White, and Red || Black / Red / White / 
-Black, Yellow, and Neon Blue || Black / Blue / Yellow / 
 Black, Yellow || Black / Yellow / 
+Black, Yellow, and Neon Blue || Black / Blue / Yellow / 
+Black, and Smoke-tone || Black / 
 Black,Green || Black / Green / 
-Black, and Smoke-tone || Black-Tone / 
 Black- Blue || Black / Blue / 
 Black- Gold || Black / Gold / 
 Black- Green || Black / Green / 
 Black- Orange Stitching || Black / Orange / 
-Black- Rose Gold PVD || Black / Rose Gold PVD / Red / Gold PVD / 
-Black- multicolored embroidery || Black / Multi-color / 
+Black- Rose Gold PVD || Black / Rose Gold / 
 Black- White || Black / White / 
-Black-Gunmetal || Black / Grey / 
+Black- multicolored embroidery || Black / Multi-color / 
 Black-Blue || Black / Blue / 
+Black-Gunmetal || Black / Grey / 
 Black-Orange || Black / Orange / 
 Black-Red || Black / Red / 
 Black-White || Black / White / 
 Black-Yellow || Black / Yellow / 
 Black-plated || Black / 
-Black-plated and Black Titanium || Black / Silver-Plated / 
-Black-tone || Black-Tone / 
+Black-plated and Black Titanium || Black / Silver / 
+Black-tone || Black / 
 Black/Blue || Black / Blue / 
-Black/Gold-tone || Black-Tone / Gold-Tone / 
+Black/Gold-tone || Black / Gold / 
 Black/Grey || Black / Grey / 
 Black/Grey/Orange || Black / Grey / Orange / 
 Black/Orange || Black / Orange / 
 Black/Pink || Black / Pink / 
 Black/Red || Black / Red / 
 Black/White || Black / White / 
-Blackand Rose Gold-tone || Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
+Blackand Rose Gold-tone || Black / Rose Gold / 
 Blackplated || Black / 
-Blond (Gold-tone) || Gold-Tone / 
+Blond (Gold-tone) || Gold / 
 Blossom || 
 Blue || Blue / 
+Blue (Black Backed) || Black / Blue / 
 Blue (Black Stripe) || Black / Blue / 
+Blue (Double G Design) || Blue / 
 Blue (Elaphe-pattern) || Blue / 
 Blue (Grey, White and Black Stripe) || Black / Blue / Grey / White / 
 Blue (Multi-Shade) || Blue / 
-Blue (Black Backed) || Black / Blue / 
-Blue (Double G Design) || Blue / 
-Blue (Paint Strokes) || Blue / 
-Blue (Orange backed) || Blue / Orange / 
-Blue (Pink Back) || Blue / Pink / 
 Blue (Orange Backed) || Blue / Orange / 
-Blue (Yellow Backed) || Blue / Yellow / 
+Blue (Orange backed) || Blue / Orange / 
+Blue (Paint Strokes) || Blue / 
+Blue (Pink Back) || Blue / Pink / 
 Blue (Red Backed) || Blue / Red / 
+Blue (Yellow Backed) || Blue / Yellow / 
 Blue (Yellow Stripe) || Blue / Yellow / 
 Blue / Black || Black / Blue / 
 Blue / Green Iridescent || Blue / Green / 
 Blue Black || Black / Blue / 
 Blue Camo || Blue / 
 Blue Camoflauge || Blue / 
-Blue Camouflage || Blue / Green / 
-Blue Camouflage-pattern || Blue / Green / 
+Blue Camouflage || Blue / 
+Blue Camouflage-pattern || Blue / 
+Blue Denim || Blue / 
 Blue Denim-look || Blue / 
 Blue Diver Pro III || Blue / 
 Blue Floral || Blue / 
 Blue Floral Pattern || Blue / 
-Blue Denim || Blue / 
 Blue Glitter || Blue / 
 Blue Grained || Blue / 
 Blue Grey || Blue / Grey / 
@@ -324,8 +324,8 @@ Blue Hand Stitched || Blue /
 Blue IP || Blue / 
 Blue Ion-plated || Blue / 
 Blue Jeans || Blue / 
-Blue Military || Blue / 
 Blue Matt || Blue / 
+Blue Military || Blue / 
 Blue Multicolor || Blue / Multi-color / 
 Blue Navy and Light Blue || Blue / Navy / 
 Blue Navy and Yellow || Blue / Navy / Yellow / 
@@ -336,8 +336,8 @@ Blue Polka Dot || Blue /
 Blue Red and White || Blue / Red / White / 
 Blue Tartan Imprint || Blue / 
 Blue Translucent || Blue / 
-Blue and Black || Black / Blue / 
 Blue and Beige || Beige / Blue / 
+Blue and Black || Black / Blue / 
 Blue and Black (Python-pattern) || Black / Blue / 
 Blue and Black Stripe || Black / Blue / 
 Blue and Cream Sriped || Blue / White / 
@@ -354,8 +354,8 @@ Blue and Red || Blue / Red /
 Blue and Red (Stripe) || Blue / Red / 
 Blue and Red Stripe || Blue / Red / 
 Blue and Red Striped || Blue / Red / 
-Blue and Rose Gold || Blue / Rose Gold / Red / Gold / 
-Blue and Silver-tone || Blue / Silver-Tone / 
+Blue and Rose Gold || Blue / Rose Gold / 
+Blue and Silver-tone || Blue / Silver / 
 Blue and Tan || Blue / Brown / 
 Blue and Titanium and Dark Blue || Blue / Silver / 
 Blue and White || Blue / White / 
@@ -363,8 +363,8 @@ Blue and White Polkadot || Blue / White /
 Blue and White Stripe || Blue / White / 
 Blue and White Striped || Blue / White / 
 Blue and Yellow || Blue / Yellow / 
-Blue with White Stitching || Blue / White / 
 Blue with Grey, White and Black Lines || Black / Blue / Grey / White / 
+Blue with White Stitching || Blue / White / 
 Blue with white stitching || Blue / White / 
 Blue, Beige || Beige / Blue / 
 Blue, Black, Red || Black / Blue / Red / 
@@ -378,8 +378,8 @@ Blue, Pink, White || Blue / Pink / White /
 Blue, Red and Grey || Blue / Grey / Red / 
 Blue, Red and White || Blue / Red / White / 
 Blue, Red and White Striped || Blue / Red / White / 
-Blue, Rose Gold-tone || Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Blue, Silver-tone and Red || Blue / Red / Silver-Tone / 
+Blue, Rose Gold-tone || Blue / Rose Gold / 
+Blue, Silver-tone and Red || Blue / Red / Silver / 
 Blue, Steel || Blue / Grey / 
 Blue, White || Blue / White / 
 Blue, White and Green Striped || Blue / Green / White / 
@@ -399,18 +399,18 @@ Blue-black || Black / Blue /
 Blue-plated || Blue / 
 Blue-plated 1 || Blue / 
 Blue-tone || Blue / 
-Blue/ Gold-tone Studs || Blue / Gold-Tone / 
+Blue/ Gold-tone Studs || Blue / Gold / 
 Blue/Black || Black / Blue / 
 Blue/Design || Blue / 
 Blue/Green || Blue / Green / 
 Blue/Orange || Blue / Orange / 
 Blue/Red/White || Blue / Red / White / 
-Blue/Silver-Tone || Blue / Silver-Tone / 
-Blue/Silver-tone || Blue / Silver-Tone / 
+Blue/Silver-Tone || Blue / Silver / 
+Blue/Silver-tone || Blue / Silver / 
 Blue/White || Blue / White / 
 Blue/Yellow/Green || Blue / Green / Yellow / 
-Bluff || 
 Blue/white || Blue / White / 
+Bluff || 
 Blush || Pink / 
 Blush Pink || Pink / 
 Bold Floral Print || 
@@ -419,30 +419,30 @@ Bordeaux ||
 Bown || 
 Brass-plated || Champagne / 
 Brick Red || Red / 
-Bright Coral || Orange / 
 Bright Blue || Blue / 
+Bright Coral || Orange / 
 Bright Red || Red / 
 Broiwn || 
 Bronze || Brown / 
 Bronze Ion-plated || Brown / 
 Bronze PVD || Brown / 
+Browm || 
 Brown || Brown / 
 Brown & Beige || Beige / Brown / 
-Browm || 
 Brown (Bordeaux) || Brown / 
 Brown (Floral Embossed) || Brown / 
 Brown (Hand Stiched) || Brown / 
 Brown (Pink Blooms Print) || Brown / Pink / 
+Brown (Red Backed) || Brown / Red / 
 Brown (Red, White and Blue Stripe) || Blue / Brown / Red / White / 
 Brown (Snakeskin Pattern) || Brown / 
-Brown (Red Backed) || Brown / Red / 
-Brown - Yellow || Brown / Yellow / 
 Brown (Stiped) || Brown / 
+Brown - Yellow || Brown / Yellow / 
 Brown / Teal || Blue / Brown / 
 Brown Aged || Brown / 
 Brown Alligator || Brown / 
-Brown Camouflage || Brown / Green / 
-Brown Camouflage Hydro-plated || Brown / Green / 
+Brown Camouflage Hydro-plated || Brown / 
+Brown Camouflage || Brown / 
 Brown Coach Signature Print || Brown / 
 Brown Cognac || Brown / 
 Brown Floral || Brown / 
@@ -466,8 +466,8 @@ Brown and Cream Sriped || Brown / White /
 Brown and Green || Brown / Green / 
 Brown and Ivory (Python-pattern) || Brown / White / 
 Brown and Khaki || Brown / Khaki / 
-Brown and Rose Gold-tone || Brown / Rose Gold-Tone / Red / Gold-Tone / 
-Brown and Silver-tone || Brown / Silver-Tone / 
+Brown and Rose Gold-tone || Brown / Rose Gold / 
+Brown and Silver-tone || Brown / Silver / 
 Brown and White || Brown / White / 
 Brown and Yellow || Brown / Yellow / 
 Brown with Blue Stitching || Blue / Brown / 
@@ -490,19 +490,19 @@ Camel ||
 Camel Brown || Brown / 
 Camo || 
 Camo (Geometric Designed) || 
-Camouflage || Green / 
-Camouflage Pattern || Green / 
-Camouflage-pattern || Green / 
-Camouflage-plated || Green / 
+Camouflage || 
+Camouflage Pattern || 
+Camouflage-pattern || 
+Camouflage-plated || 
 Candy Pink || Pink / 
 Caramel || 
 Caramel Brown || Brown / 
 Carmel Brown || Brown / 
-Carnaition Gold-tone || Gold-Tone / 
+Carnaition Gold-tone || Gold / 
 Carnaition gold || Gold / 
-Carnation Gold Ion-plated || Gold-Plated / 
-Carnation Gold-plated || Gold-Plated / 
-Carnation Gold-tone || Gold-Tone / 
+Carnation Gold Ion-plated || Gold / 
+Carnation Gold-plated || Gold / 
+Carnation Gold-tone || Gold / 
 Cement || 
 Cerulean || 
 Cerulean (Beige Back) || Beige / 
@@ -515,9 +515,9 @@ Chalk Blue Suede || Blue /
 Chalk blue || Blue / 
 Champagne || Champagne / 
 Champagne Gold || Champagne / Gold / 
-Champagne Gold-plated || Champagne / Gold-Plated / 
+Champagne Gold-plated || Champagne / Gold / 
 Champagne Ion-plated || Champagne / 
-Champagne and Rose Gold-tone || Champagne / Rose Gold-Tone / Red / Gold-Tone / 
+Champagne and Rose Gold-tone || Champagne / Rose Gold / 
 Chanpagne || 
 Charcoal || Black / 
 Charcoal Gray || Black / Grey / 
@@ -531,13 +531,16 @@ Chocolate || Brown /
 Chocolate  Brown || Brown / 
 Chocolate Brown || Brown / 
 Clear || 
+Clocktower Grey || Grey / 
 Coffee Brown || Black / Brown / 
 Cognac || Brown / 
+Cognac Brown || Brown / 
+Colorado Bull Hide || 
 Colour-Kilt || 
 Concrete || 
 Coral || Orange / 
 Coral (Red) || Orange / Red / 
-Colorado Bull Hide || 
+Coral Polka-Dot || Orange / 
 Coral Red || Orange / Red / 
 Coral and Purple || Orange / Purple / 
 Coral-tone || Orange / 
@@ -548,10 +551,10 @@ Cream, Blue, and Red Striped || Blue / Red / White /
 Creamy White || White / 
 Crimson || 
 Dark Blue || Blue / 
-Clocktower Grey || Grey / 
 Dark Blue Semi-Matt || Blue / 
+Dark Blue and Silver-tone || Blue / Silver / 
 Dark Blue, Red || Blue / Red / 
-Dark Blue and Silver-tone || Blue / Silver-Tone / 
+Dark Blue-plated || Blue / 
 Dark Brown || Brown / 
 Dark Brown Crocodile || Brown / 
 Dark Brown with Orange Stitching || Brown / Orange / 
@@ -564,18 +567,15 @@ Dark Green (Khaki) || Green / Khaki /
 Dark Green Camouflage || Green / 
 Dark Green, Red and Beige Stripe || Beige / Green / Red / 
 Dark Grey || Grey / 
-Cognac Brown || Brown / 
-Coral Polka-Dot || Orange / 
+Dark Grey (Transparent) || Transparent / Grey / 
+Dark Grey Ion Plasted || Grey / 
 Dark Grey Ion-plated || Grey / 
 Dark Grey Sfumato || Grey / 
-Dark Grey Ion Plasted || Grey / 
-Dark Blue-plated || Blue / 
-Dark Grey (Transparent) || Transparent / Grey / 
-Dark Navy || Navy / 
-Dark Matte Brown || Brown / 
 Dark Khaki Green || Green / Khaki / 
-Dark Nut Brown || Brown / 
+Dark Matte Brown || Brown / 
+Dark Navy || Navy / 
 Dark Navy Blue || Blue / Navy / 
+Dark Nut Brown || Brown / 
 Dark Nut Brown Aniline Latigo || Brown / 
 Dark Pink || Pink / 
 Dark Plum || Purple / 
@@ -600,7 +600,7 @@ Ember ||
 Emerald Green || Green / 
 Engraved with a Cashmere pattern || 
 Espresso Ion-plated || 
-Ever Rose Gold || Rose Gold / Red / Gold / 
+Ever Rose Gold || Rose Gold / 
 Expresso PVD || 
 Fawn || 
 Ferragamo Logomania Pattern || 
@@ -614,9 +614,9 @@ Forest Green || Green /
 Fuchsia || Red / 
 Fuchsia Pink || Pink / Red / 
 Fucshia || 
-Fushia || 
-Fuschia Pink || Pink / 
 Fuschia || 
+Fuschia Pink || Pink / 
+Fushia || 
 GG Motif Hologram || 
 GG Supreme || 
 GG supreme || 
@@ -626,14 +626,14 @@ Glossy Blue || Blue /
 Gold || Gold / 
 Gold CVD || Gold / 
 Gold Foil Flecked || Gold / 
-Gold Ion-Plated || Gold-Plated / 
-Gold Plated || Gold-Plated / 
-Gold PVD || Gold PVD / 
-Gold Tone and Pink || Pink / Gold-Tone / 
-Gold Tone and Blue || Blue / Gold-Tone / 
-Gold Ion-plated || Gold-Plated / 
-Gold Tone and Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
-Gold Tone and White || White / Gold-Tone / 
+Gold Ion-Plated || Gold / 
+Gold Ion-plated || Gold / 
+Gold PVD || Gold / 
+Gold Plated || Gold / 
+Gold Tone and Blue || Blue / Gold / 
+Gold Tone and Pink || Pink / Gold / 
+Gold Tone and Rose Gold-tone || Rose Gold / Gold / 
+Gold Tone and White || White / Gold / 
 Gold Transparent (Glitter) || Transparent / Gold / 
 Gold and Black || Black / Gold / 
 Gold and Blue || Blue / Gold / 
@@ -642,37 +642,36 @@ Gold and Dark Blue || Blue / Gold /
 Gold and Green || Green / Gold / 
 Gold and Gunmetal || Grey / Gold / 
 Gold and Red || Red / Gold / 
-Gold and Rose Gold || Rose Gold / Red / Gold / 
-Gold and Rose Gold and Black || Black / Rose Gold / Red / Gold / 
-Gold and Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
+Gold and Rose Gold || Rose Gold / Gold / 
+Gold and Rose Gold and Black || Black / Rose Gold / Gold / 
+Gold and Rose Gold-tone || Rose Gold / Gold / 
 Gold and Titanium || Silver / Gold / 
 Gold and White || White / Gold / 
-Gold ion-plated || Gold-Plated / 
+Gold ion-plated || Gold / 
 Gold, Red, Green, Dark Grey || Green / Grey / Red / Gold / 
 Gold, Steel || Grey / Gold / 
 Gold, White || White / Gold / 
 Gold-Colored Glitter || Gold / 
-Gold-Plated || Gold-Plated / 
-Gold-Tone || Gold-Tone / 
-Gold-Tone PVD || Gold-Tone / 
-Gold-plated || Gold-Plated / 
-Gold-tone || Gold-Tone / 
-Gold-tone 1 || Gold-Tone / 
-Gold-tone IP || Gold-Tone / 
-Gold-tone Ion Plated || Gold-Tone / 
-Gold-tone PVD || Gold-Tone / 
-Gold-tone Plated || Gold-Tone / 
-Gold-tone Trim || Gold-Tone / 
-Gold-tone and Brown and Red || Brown / Red / Gold-Tone / 
-Gold-tone and Pink Acetate || Pink / Gold-Tone / 
-Gold-tone and Silve-tone || Silver-Tone / Gold-Tone / 
-Gold-tone with White Silicone || White / Gold-Tone / 
-Gold-tone, Black, Purple and Light Blue || Black-Tone / Blue / Purple / Gold-Tone / 
-Gold-tone, Blue, White and Red || Blue / Red / White / Gold-Tone / 
-Gold-tone, White and Red || Red / White / Gold-Tone / 
-Gold-tone/Red || Red / Gold-Tone / 
-Gold-tone/White || White / Gold-Tone / 
-Gold-toneGold-tone || Gold-Tone / 
+Gold-Plated || Gold / 
+Gold-Tone || Gold / 
+Gold-Tone PVD || Gold / 
+Gold-plated || Gold / 
+Gold-tone || Gold / 
+Gold-tone 1 || Gold / 
+Gold-tone IP || Gold / 
+Gold-tone Ion Plated || Gold / 
+Gold-tone PVD || Gold / 
+Gold-tone Plated || Gold / 
+Gold-tone Trim || Gold / 
+Gold-tone and Brown and Red || Brown / Red / Gold / 
+Gold-tone and Pink Acetate || Pink / Gold / 
+Gold-tone and Silve-tone || Silver / Gold / 
+Gold-tone with White Silicone || White / Gold / 
+Gold-tone, Black, Purple and Light Blue || Black / Blue / Purple / Gold / 
+Gold-tone, Blue, White and Red || Blue / Red / White / Gold / 
+Gold-tone, White and Red || Red / White / Gold / 
+Gold-tone/White || White / Gold / 
+Gold-toneGold-tone || Gold / 
 Golden Sparkle || Gold / 
 Graffiti || 
 Graffiti (Aqua-plated) || Blue / 
@@ -684,30 +683,31 @@ Graffiti-like images ||
 Graffiti-pattern || 
 Graffiti-plated || 
 Granite Ion-plated || 
-Gray || Grey / 
 Graphite || Black / 
+Gray || Grey / 
 Gray (Semi-Matte) || Grey / 
-Gray Sfumato || Grey / 
-Gray-Blue || Blue / Grey / 
 Gray Ion-plated || Grey / 
+Gray Sfumato || Grey / 
+Gold-tone/Red || Red / Gold / 
+Gray-Blue || Blue / Grey / 
 Gray-plated || Grey / 
 Green || Green / 
-Green (Black Backed) || Black / Green / 
-Green (Beige Back) || Beige / Green / 
 Green  and Black || Black / Green / 
-Green (Grey Backed) || Green / Grey / 
-Green (Pink Backed) || Green / Pink / 
-Green (Polyurethane-covered) || Green / 
+Green (Beige Back) || Beige / Green / 
+Green (Black Backed) || Black / Green / 
 Green (Butterfly Camouflage Motif) || Green / 
 Green (Floral-print) || Green / 
+Green (Grey Backed) || Green / Grey / 
 Green (Grid Pattern) || Green / 
+Green (Pink Backed) || Green / Pink / 
 Green (White Back) || Green / White / 
+Green / Blue || Blue / Green / 
+Green (Polyurethane-covered) || Green / 
+Green / Grey || Green / Grey / 
 Green /Carbon Fiber Texture Decor || Black / Green / 
 Green Aqua-Plated || Blue / Green / 
-Green / Blue || Blue / Green / 
-Green / Grey || Green / Grey / 
-Green Camo || Green / 
 Green Brown || Brown / Green / 
+Green Camo || Green / 
 Green Camo-Print || Green / 
 Green Camouflage || Green / 
 Green Camouflage-pattern || Green / 
@@ -727,17 +727,16 @@ Green and Blue || Blue / Green /
 Green and Blue Striped || Blue / Green / 
 Green and Brown || Brown / Green / 
 Green and Cream Sriped || Green / White / 
-Green and Gold-tone || Green / Gold-Tone / 
+Green and Gold-tone || Green / Gold / 
 Green and Gunmetal || Green / Grey / 
-Green and Orange Camouflage || Green / Orange / 
 Green and Orange || Green / Orange / 
 Green and Purple || Green / Purple / 
 Green and Red || Green / Red / 
 Green and Red Stripe || Green / Red / 
 Green and Red Striped || Green / Red / 
 Green and White Stripe || Green / White / 
-Green and Yellow Camouflage || Green / Yellow / 
 Green and Yellow || Green / Yellow / 
+Green and Yellow Camouflage || Green / Yellow / 
 Green with Flower Pattern || Green / 
 Green, Black and Yellow || Black / Green / Yellow / 
 Green, Black, Brown Camouflage || Black / Brown / Green / 
@@ -760,8 +759,8 @@ Green/ Black || Black / Green /
 Grey || Grey / 
 Grey (Blue Back) || Blue / Grey / 
 Grey (Blue Backed) || Blue / Grey / 
-Grey (Floral Embossed) || Grey / 
 Grey (Brown Stripe) || Brown / Grey / 
+Grey (Floral Embossed) || Grey / 
 Grey (Orange Trim) || Grey / Orange / 
 Grey (Python-pattern) || Grey / 
 Grey (Red Stripe) || Grey / Red / 
@@ -771,13 +770,14 @@ Grey 1 || Grey /
 Grey Accent || Grey / 
 Grey Brown || Brown / Grey / 
 Grey Camo-Print || Grey / 
-Grey Camouflage || Green / Grey / 
+Grey Camouflage || Grey / 
+Green and Orange Camouflage || Green / Orange / 
+Grey Croco-Print Calf with Contrasting Edges || Grey / 
 Grey Green || Green / Grey / 
 Grey Ion Plated || Grey / 
-Grey Croco-Print Calf with Contrasting Edges || Grey / 
-Grey Ion-plated || Grey / 
 Grey Ion-Plated || Grey / 
-Grey Ion-plated and Rose Gold-tone || Grey / Rose Gold-Tone / Red / Gold-Tone / 
+Grey Ion-plated || Grey / 
+Grey Ion-plated and Rose Gold-tone || Grey / Rose Gold / 
 Grey Ion-tone || Grey / 
 Grey Lilac || Grey / Purple / 
 Grey Liliac || Grey / 
@@ -787,38 +787,38 @@ Grey Patterned || Grey /
 Grey Pink and Black || Black / Grey / Pink / 
 Grey Plasma || Grey / 
 Grey Putty || Grey / 
-Grey Satin || Grey / 
-Grey Semi-matte || Grey / 
 Grey Sfumato || Grey / 
+Grey Semi-matte || Grey / 
 Grey Striped || Grey / 
+Grey Satin || Grey / 
 Grey Textured || Grey / 
-Grey Transparent || Transparent / Grey / 
 Grey With Anthracite Matte Back Lining || Black / Grey / 
+Grey Transparent || Transparent / Grey / 
 Grey and  Orange Striped || Grey / Orange / 
 Grey and Beige || Beige / Grey / 
 Grey and Beige Stripe || Beige / Grey / 
 Grey and Black Camoflauge || Black / Grey / 
-Grey and Black Strip || Black / Grey / 
 Grey and Blue || Blue / Grey / 
+Grey and Black Strip || Black / Grey / 
 Grey and Green || Green / Grey / 
 Grey and Hot Pink || Grey / Pink / 
-Grey and Orange || Grey / Orange / 
 Grey and Orange Stripe || Grey / Orange / 
+Grey and Orange || Grey / Orange / 
 Grey and Orange Striped || Grey / Orange / 
-Grey and Rose Gold || Grey / Rose Gold / Red / Gold / 
-Grey and Rose Gold-tone || Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Grey and Silver-tone || Grey / Silver-Tone / 
+Grey and Rose Gold || Grey / Rose Gold / 
+Grey and Silver-tone || Grey / Silver / 
 Grey and Tan || Brown / Grey / 
 Grey and White || Grey / White / 
+Grey and Rose Gold-tone || Grey / Rose Gold / 
 Grey and Yellow || Grey / Yellow / 
 Grey with Pink Stitching || Grey / Pink / 
-Grey, Black, White Camouflage || Black / Green / Grey / White / 
+Grey, Black, White Camouflage || Black / Grey / White / 
 Grey, Black, Yellow || Black / Grey / Yellow / 
 Grey, Blue || Blue / Grey / 
-Grey, Green, Red || Green / Grey / Red / 
 Grey, Rainbow Plating || Grey / Multi-color / 
+Grey, Green, Red || Green / Grey / Red / 
+Grey, White, Black Camouflage || Black / Grey / White / 
 Grey, White, Black Camoflauge || Black / Grey / White / 
-Grey, White, Black Camouflage || Black / Green / Grey / White / 
 Grey, White, Blue and Red || Blue / Grey / Red / White / 
 Grey, green and blue pattern || Blue / Green / Grey / 
 Grey-Brown || Brown / Grey / 
@@ -828,7 +828,7 @@ Grey-Yellow || Grey / Yellow /
 Grey-pated || Grey / 
 Grey-plated || Grey / 
 Grey/Black || Black / Grey / 
-Grey/Gold-tone || Grey / Gold-Tone / 
+Grey/Gold-tone || Grey / Gold / 
 Grey/Silver || Grey / Silver / 
 Greyish Blue || Blue / Grey / 
 Greyish Blue, Gunmetal || Blue / Grey / 
@@ -844,7 +844,7 @@ Gunmetal Grey Ion-plated || Grey /
 Gunmetal Ion Plated || Grey / 
 Gunmetal Ion-Plated || Grey / 
 Gunmetal Ion-plated || Grey / 
-Gunmetal Ion-plated with Rose Gold Ion-plated || Grey / Rose Gold-Plated / Red / Gold-Plated / 
+Gunmetal Ion-plated with Rose Gold Ion-plated || Grey / Rose Gold / 
 Gunmetal PVD || Grey / 
 Gunmetal ion-plated || Grey / 
 Gunmetal-plated || Grey / 
@@ -854,16 +854,16 @@ Honey ||
 Honey Brown || Brown / 
 Horn || 
 Horne || 
-Hounds-tooth || 
 Hot Pink || Pink / 
+Hounds-tooth || 
 Hunter Green || Green / 
 Hydroplated || 
-IP Gold || Gold-Plated / 
+IP Gold || Gold / 
 IP GunMetal || Grey / 
-IP Yellow Gold || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
+IP Yellow Gold || Yellow Gold / 
 IP black || Black / 
-IPRG Gold-plated || Gold-Plated / 
-IPRG Gold-tone || Gold-Tone / 
+IPRG Gold-plated || Gold / 
+IPRG Gold-tone || Gold / 
 IPRG bracelet with black strap || Black / 
 IPYG bracelet with white strap || White / 
 Ice Blue || Blue / 
@@ -871,11 +871,11 @@ Ice Pink || Pink /
 Indigo || 
 Indigo Blue || Blue / 
 Ink Blue || Blue / 
-Interchangable Silver-tone || Silver-Tone / 
+Interchangable Silver-tone || Silver / 
 Interchangeable || 
 Interchangeable (White, Black and Red) || Black / Red / White / 
 Interchangeable - White, Black, Orange, Pink || Black / Orange / Pink / White / 
-Ion-plated Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
+Ion-plated Rose Gold-tone || Rose Gold / 
 Ionic Plating - Black || Black / 
 Iridescent || 
 Iridescent (Hydroplated) || 
@@ -910,30 +910,30 @@ Light Blue and Dark Blue || Blue /
 Light Bronze || Brown / 
 Light Brown || Brown / 
 Light Brown, Green, Red and White || Brown / Green / Red / White / 
-Light Coral Pink || Orange / Pink / 
 Light Carnation Pink || Pink / 
-Light Gold ion-plated || Gold-Plated / 
-Light Gold-Ion Plated || Gold-Plated / 
-Light Gold-tone || Gold-Tone / 
+Light Coral Pink || Orange / Pink / 
+Light Gold ion-plated || Gold / 
+Light Gold-Ion Plated || Gold / 
+Light Gold-tone || Gold / 
 Light Green || Green / 
 Light Green and White || Green / White / 
 Light Green, Red, Blue and Yellow || Blue / Green / Red / Yellow / 
 Light Green, Red, White and Yellow || Green / Red / White / Yellow / 
 Light Grey || Grey / 
-Light Grey (Gold-tone Stripe) || Grey / Gold-Tone / 
+Light Grey (Gold-tone Stripe) || Grey / Gold / 
 Light Gunmetal-tone || Grey / 
+Light Orange || Orange / 
 Light PInk || Pink / 
 Light Pink || Pink / 
 Light Pink (Hami Melon) || Pink / 
 Light Pink Design || Pink / 
 Light Pink Moonstone || Pink / 
-Light Orange || Orange / 
-Light Pink and Silver-tone || Pink / Silver-Tone / 
+Light Pink and Silver-tone || Pink / Silver / 
 Light Purple || Purple / 
 Light Rose || Red / 
-Light Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
+Light Rose Gold-tone || Rose Gold / 
 Light Yellow || Yellow / 
-Light Yellow Gold PVD || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
+Light Yellow Gold PVD || Yellow Gold / 
 Light and Dark Blue Jagged Streaks || Blue / 
 Light blue || Blue / 
 Light brown || Brown / 
@@ -968,37 +968,37 @@ Matt Blue || Blue /
 Matt Brown || Brown / 
 Matt Powder Pink || Pink / 
 Matte Black || Black / 
-Matte Black Ion-plated || Black / 
 Matte Black Ion Plated || Black / 
+Matte Black Ion-plated || Black / 
+Matte Black and Camo || Black / 
 Matte Blue || Blue / 
 Matte Blush || Pink / 
 Matte Brown || Brown / 
-Matte Black and Camo || Black / 
 Matte Burgundy || Brown / 
 Matte Dark Brown || Brown / 
 Matte Dark Purple || Purple / 
 Matte Light Blue || Blue / 
 Matte Light Grey || Grey / 
 Matte Light Pink || Pink / 
-Matte Olive Green || Green / 
 Matte Light Rose || Red / 
+Matte Olive Green || Green / 
 Matte Pink || Pink / 
+Matte Red || Red / 
 Matte White || White / 
 Matte blush || Pink / 
-Matte Red || Red / 
 Mauve || 
 Merlot || 
 Merlot-colored || 
 Metallic Blue || Blue / 
 Metallic Blush || Pink / 
+Metallic Fuchsia || Red / 
 Metallic Gold || Gold / 
 Metallic Green || Green / 
-Metallic Fuchsia || Red / 
-Metallic Red || Red / 
 Metallic Grey and Blush (Stripe) || Grey / Pink / 
+Metallic Red || Red / 
 Metallic Rose || Red / 
 Metallic Silver || Silver / 
-Metallic Yellow Gold || Yellow Gold / Yellow / Gold / 
+Metallic Yellow Gold || Yellow Gold / 
 Midnight Blue || Blue / 
 Midnight-Blue || Blue / 
 Military Black || Black / 
@@ -1014,7 +1014,7 @@ Mocha ||
 Mocha Brown || Brown / 
 Moon Stone || 
 Moro || 
-Mother of Pearl and Gold-tone || Gold-Tone / Mother Of Pearl / 
+Mother of Pearl and Gold-tone || Gold / Mother Of Pearl / 
 Mulberry Brass || Champagne / 
 Mulitcolor || 
 Mulitcolored || 
@@ -1038,58 +1038,59 @@ Multi-Colored Stripe || Multi-color /
 Multi-Colored Striped || Multi-color / 
 Multi-color || Multi-color / 
 Multi-color (Dark Grey, Green, Red, Steel) || Green / Grey / Multi-color / Red / 
-Multi-color (Silver-tone and Gold-tone, Rose Gold-tone) || Multi-color / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Multi-colored Stripe || Multi-color / 
+Multi-color (Silver-tone and Gold-tone, Rose Gold-tone) || Multi-color / Rose Gold / Silver / Gold / 
 Multi-colored Floral || Multi-color / 
-Multi-tone (Black, Blue, Orange) || Black-Tone / Blue / Multi-color / Orange / 
+Multi-colored Stripe || Multi-color / 
 Multi-coloured || Multi-color / 
-Multi-tone (Black, Grey and White) || Black-Tone / Grey / Multi-color / White / 
-Multi-tone (Black, Red, Silver-tone) || Black-Tone / Multi-color / Red / Silver-Tone / 
-Multicolor || Multi-color / 
+Multi-tone (Black, Blue, Orange) || Black / Blue / Multi-color / Orange / 
+Multi-tone (Black, Grey and White) || Black / Grey / Multi-color / White / 
+Multi-tone (Black, Red, Silver-tone) || Black / Multi-color / Red / Silver / 
 Multicolor (Blue and Orange) || Blue / Multi-color / Orange / 
+Multicolor || Multi-color / 
 Multicolor Grey || Grey / Multi-color / 
-Multicolor (Silver-tone, Red, Yellow and Green) || Green / Multi-color / Red / Silver-Tone / Yellow-Tone / 
+Multicolor (Silver-tone, Red, Yellow and Green) || Green / Multi-color / Red / Silver / Yellow / 
+Multicolor Stripe || Multi-color / 
+Multicolor Stripe (orange, green, grey and white) || Green / Grey / Multi-color / Orange / White / 
+Multicolor Striped || Multi-color / 
 Multicolor Stripes (Blue, Brown, White, and Grey) || Blue / Brown / Grey / Multi-color / White / 
 Multicolor Stripes (Red, White, Black,and Grey) || Black / Grey / Multi-color / Red / White / 
 Multicolored || Multi-color / 
 Multicolored Floral || Multi-color / 
 Multicolored Patchwork || Multi-color / 
-Multicolor Stripe (orange, green, grey and white) || Green / Grey / Multi-color / Orange / White / 
-Multicolour || Multi-color / 
-Multiple || 
-Mustard || 
-Multicolor Striped || Multi-color / 
 Multicolored Stripe || Multi-color / 
-Multicolor Stripe || Multi-color / 
+Multiple || 
+Multicolour || Multi-color / 
+Mustard || 
+Mustard Yellow || Yellow / 
 Natural || 
 Navy || Navy / 
-Navy Blue (Yellow Back) || Blue / Navy / Yellow / 
-Mustard Yellow || Yellow / 
 Navy Blue || Blue / Navy / 
+Navy Blue (Yellow Back) || Blue / Navy / Yellow / 
 Navy Blue Ion Plated || Blue / Navy / 
-Navy Blue and Carbon Fiber || Black / Blue / Navy / 
 Navy Blue Ion-plated || Blue / Navy / 
+Navy Blue and Carbon Fiber || Black / Blue / Navy / 
 Navy Blue, Orange and Grey || Blue / Grey / Navy / Orange / 
-Navy Blue, Red and Beige || Beige / Blue / Navy / Red / 
 Navy Blue, and Pink || Blue / Navy / Pink / 
+Navy Blue, Red and Beige || Beige / Blue / Navy / Red / 
 Navy Blue- Black || Black / Blue / Navy / 
 Navy Brass || Champagne / Navy / 
 Navy Bue || Blue / Navy / 
 Navy Green || Green / Navy / 
+Navy Grey and Blue || Blue / Grey / Navy / 
 Navy Grey and Yellow || Grey / Navy / Yellow / 
 Navy Khaki and Red || Khaki / Navy / Red / 
-Navy Grey and Blue || Blue / Grey / Navy / 
 Navy Racing || Navy / 
 Navy and Beige || Beige / Navy / 
 Navy and Burgundy || Brown / Navy / 
-Navy and Orange Stripe || Navy / Orange / 
+Navy and Green Stripe || Green / Navy / 
 Navy and Maroon || Brown / Navy / 
+Navy and Orange Stripe || Navy / Orange / 
+Navy and Pink || Navy / Pink / 
 Navy and Red || Navy / Red / 
 Navy and White || Navy / White / 
-Navy and Pink || Navy / Pink / 
-Navy and Green Stripe || Green / Navy / 
-Navy and White Stripes || Navy / White / 
 Navy and White Stripe || Navy / White / 
+Navy and White Striped || Navy / White / 
+Navy and White Stripes || Navy / White / 
 Navy and Yellow || Navy / Yellow / 
 Navy and red || Navy / Red / 
 Navy and white || Navy / White / 
@@ -1106,7 +1107,6 @@ Nude ||
 Nude Peach || 
 Nude Pink || Pink / 
 Nude Vegan || 
-Navy and White Striped || Navy / White / 
 Nude Vegan PU || 
 Ocean || 
 Off White || White / 
@@ -1145,18 +1145,18 @@ Orange-tone || Orange /
 Ostrich || 
 Oxblood || 
 PVD || 
-PVD Gold || Gold PVD / 
-PVD Gold-tone || Gold-Tone / 
+PVD Gold || Gold / 
+PVD Gold-tone || Gold / 
 Pale Carnation-tone || 
-Pale Gold Ion-plated || Gold-Plated / 
+Pale Gold Ion-plated || Gold / 
 Pale Grey || Grey / 
 Pale Pink || Pink / 
-Pale Rose Gold || Rose Gold / Red / Gold / 
-Pale Rose Gold Ion-plated || Rose Gold-Plated / Red / Gold-Plated / 
-Pale Rose Gold PVD || Rose Gold PVD / Red / Gold PVD / 
-Pale Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
-Pale Yellow Gold and Beige || Beige / Yellow Gold / Yellow / Gold / 
-Pale Yellow Gold-tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+Pale Rose Gold || Rose Gold / 
+Pale Rose Gold Ion-plated || Rose Gold / 
+Pale Rose Gold PVD || Rose Gold / 
+Pale Rose Gold-tone || Rose Gold / 
+Pale Yellow Gold and Beige || Beige / Yellow Gold / 
+Pale Yellow Gold-tone || Yellow Gold / 
 Panther Pattern || 
 Parma Violet || Purple / 
 Pastel Blue || Blue / 
@@ -1171,60 +1171,59 @@ Pastel Soft Green with Kingsnake Body Print || Green /
 Peach || 
 Peanut || 
 Pearl Grey || Grey / 
+Pearl Pink || Pink / 
 Pearly Beige || Beige / 
 Pearly Pink || Pink / 
-Perforated  Black || Black / 
 Pearly white brushed || White / 
+Perforated  Black || Black / 
+Perforated Black || Black / 
 Perforated Blue || Blue / 
 Periwinkle || 
-Pearl Pink || Pink / 
 Pesca || 
 Petrol Blue || Blue / 
-Perforated Black || Black / 
 Petrol blue || Blue / 
+Pewter || Grey / 
 Pink || Pink / 
 Pink (Elaphe-pattern) || Pink / 
+Pink (Floral Embossed) || Pink / 
 Pink (Hummingbird) || Pink / 
 Pink (Paint Strokes) || Pink / 
-Pewter || Grey / 
-Pink (Shaded Stripe) || Pink / 
 Pink (Reptile Pattern) || Pink / 
+Pink (Shaded Stripe) || Pink / 
+Pink (Snakeskin Pattern) || Pink / 
+Pink (what else) || Pink / 
 Pink Apple || Pink / 
 Pink Blossoms || Pink / 
 Pink Blush || Pink / 
-Pink (Floral Embossed) || Pink / 
+Pink Brown Blue || Blue / Brown / Pink / 
 Pink Coated || Pink / 
 Pink Floral || Pink / 
 Pink Glitter || Pink / 
-Pink Gold || Rose Gold / Pink / Gold / 
-Pink (what else) || Pink / 
-Pink Gold ABS || Rose Gold / Pink / Gold / 
-Pink (Snakeskin Pattern) || Pink / 
-Pink Gold PVD || Rose Gold PVD / Pink / Gold PVD / 
-Pink Gold and Silver || Rose Gold / Pink / Silver / Gold / 
-Pink Brown Blue || Blue / Brown / Pink / 
-Pink Gold-tone || Rose Gold-Tone / Pink / Gold-Tone / 
+Pink Gold || Rose Gold / 
+Pink Gold ABS || Rose Gold / 
+Pink Gold PVD || Rose Gold / 
+Pink Gold and Silver || Rose Gold / Silver / 
+Pink Gold-tone || Rose Gold / 
 Pink Patterend || Pink / 
-Pink Translucent || Pink / 
 Pink Shimmer || Pink / 
+Pink Translucent || Pink / 
 Pink Transparent || Transparent / Pink / 
 Pink and Beige || Beige / Pink / 
+Pink and Blue || Blue / Pink / 
 Pink and Blue Stripe || Blue / Pink / 
 Pink and Brown Patterned || Brown / Pink / 
 Pink and Green || Green / Pink / 
-Pink and Blue || Blue / Pink / 
 Pink and Grey || Grey / Pink / 
 Pink and Navy Stripe || Navy / Pink / 
-Pink and Red || Pink / Red / 
 Pink and Silver || Pink / Silver / 
-Pink and Silver-tone || Pink / Silver-Tone / 
+Pink and Silver-tone || Pink / Silver / 
 Pink and White || Pink / White / 
 Pink and White Polka Dot || Pink / White / 
 Pink and White Stripe || Pink / White / 
 Pink and Yellow || Pink / Yellow / 
 Pink, Pink and Blue Stripe || Blue / Pink / 
 Pink, Red and White || Pink / Red / White / 
-Pink, Rose Gold tone || Rose Gold-Tone / Pink / Red / Gold-Tone / 
+Pink, Rose Gold tone || Rose Gold / Pink / 
 Pink, White || Pink / White / 
 Pink, white, and navy blue || Blue / Navy / Pink / White / 
 Pink-tone || Pink / 
@@ -1234,8 +1233,8 @@ Plasma Treated ||
 Plasma Treatment || 
 Platinum || Silver / 
 Platinum Plasma || Silver / 
-Platinum-tone || Silver-Tone / 
-Platinum-tone 1 || Silver-Tone / 
+Platinum-tone || Silver / 
+Platinum-tone 1 || Silver / 
 Plum || Purple / 
 Plum Ion Plated || Purple / 
 Plum Ion-plated || Purple / 
@@ -1249,69 +1248,70 @@ Purple || Purple /
 Purple (Pink Back) || Pink / Purple / 
 Purple (White Back) || Purple / White / 
 Purple Aqua Blue and White || Blue / Purple / White / 
+Pink and Red || Pink / Red / 
 Purple Camoflage || Purple / 
 Purple Flower Pattern || Purple / 
 Purple Ion-plated || Purple / 
 Purple Glitter || Purple / 
-Purple and Black || Black / Purple / 
 Purple Patent || Purple / 
+Purple and Black || Black / Purple / 
 Purple Satin-look || Purple / 
-Purple-plated || Purple / 
-Purple and Silver-tone || Purple / Silver-Tone / 
 Purple and Pink || Pink / Purple / 
-Purple-tone || Purple / 
+Purple and Silver-tone || Purple / Silver / 
+Purple-plated || Purple / 
 Purple/White/Pink || Pink / Purple / White / 
+Purple-tone || Purple / 
 Putty Grey || Grey / 
 Putty-Colored || 
-Rainbow (Red, Blue, Green, Yellow) || Blue / Green / Multi-color / Red / Yellow / 
 Rainbow || Multi-color / 
+Rainbow (Red, Blue, Green, Yellow) || Blue / Green / Multi-color / Red / Yellow / 
 Rainbow (Red, Blue, Yellow) || Blue / Multi-color / Red / Yellow / 
-Rainbow Ion-plated || Multi-color / 
 Rainbow - Yellow, Red, Blue || Blue / Multi-color / Red / Yellow / 
+Rainbow Ion-plated || Multi-color / 
 Rainbow Plating || Multi-color / 
+Rainbow Python Pattern || Multi-color / 
 Raspberry || 
 Re || 
-Rainbow Python Pattern || Multi-color / 
 Red || Red / 
-Red (Blue Back) || Blue / Red / 
-Red (Butterfly Camouflage Motif) || Green / Red / 
 Red (Beige Back) || Beige / Red / 
+Red (Blue Back) || Blue / Red / 
+Red (Butterfly Camouflage Motif) || Red / 
+Red (Distressed) || Red / 
 Red (Floral Embossed) || Red / 
 Red Apple || Red / 
-Red (Distressed) || Red / 
 Red Blue and Yellow || Blue / Red / Yellow / 
 Red Brown || Brown / Red / 
-Red PVD || Red / 
 Red Camo || Red / 
+Red PVD || Red / 
 Red Polka Dot || Red / 
-Red Tartan Imprint || Red / 
 Red Silicone || Red / 
+Red Tartan Imprint || Red / 
 Red White and Navy || Navy / Red / White / 
+Red Wine || Champagne / Red / 
 Red Transparent, Black || Transparent / Black / Red / 
 Red and Black || Black / Red / 
-Red Wine || Champagne / Red / 
+Red and Blue || Blue / Red / 
 Red and Black Check || Black / Red / 
 Red and Navy Blue || Blue / Navy / Red / 
+Red and Green || Green / Red / 
 Red and Blue Striped || Blue / Red / 
 Red and Orange || Orange / Red / 
-Red and Orange (Blue Backed) || Blue / Orange / Red / 
-Red and Pink || Pink / Red / 
-Red and Silver-tone || Red / Silver-Tone / 
-Red and Blue || Blue / Red / 
 Red and Navy Stripe || Navy / Red / 
-Red and Green || Green / Red / 
+Red and Pink || Pink / Red / 
+Red and Orange (Blue Backed) || Blue / Orange / Red / 
+Red and Silver-tone || Red / Silver / 
 Red and White || Red / White / 
 Red and White Tomato Print || Red / White / 
 Red and Yellow || Red / Yellow / 
 Red and Yellow and Dark Grey and Aqua Plating || Blue / Grey / Red / Yellow / 
 Red, Black || Black / Red / 
-Red, Black and Silver-tone || Black-Tone / Red / Silver-Tone / 
+Red, Black and Silver-tone || Black / Red / Silver / 
 Red, Black and Yellow || Black / Red / Yellow / 
 Red, Blue and White || Blue / Red / White / 
 Red, Blue and White Striped || Blue / Red / White / 
 Red, Blue and Yellow || Blue / Red / Yellow / 
 Red, Blue, and Yellow || Blue / Red / Yellow / 
-Red, Green and Silver-tone || Green / Red / Silver-Tone / 
+Red, Green and Silver-tone || Green / Red / Silver / 
 Red, Green and White || Green / Red / White / 
 Red, White and Black || Black / Red / White / 
 Red, White and Blue || Blue / Red / White / 
@@ -1325,73 +1325,73 @@ Red- Black || Black / Red /
 Red- Blue || Blue / Red / 
 Red- Gold Studs || Red / Gold / 
 Red-Coated || Red / 
-Red/Orange || Orange / Red / 
 Red-plated || Red / 
+Red/Orange || Orange / Red / 
 RedRed || 
 Reddish Brown || Brown / 
 Reverisble || 
 Reverisble Multicolor || Multi-color / 
 Reversible Khaki / Orange || Khaki / Orange / 
 Rose || Red / 
-Rose Gold || Rose Gold / Red / Gold / 
-Rose Gold 5N || Rose Gold / Red / Gold / 
-Rose Gold IP || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold Ion-plate || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold PVD || Rose Gold PVD / Red / Gold PVD / 
-Rose Gold Ion-plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold Plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold and || Rose Gold / Red / Gold / 
-Rose Gold and Black || Black / Rose Gold / Red / Gold / 
-Rose Gold and Black and Brown || Black / Brown / Rose Gold / Red / Gold / 
-Rose Gold and Blue || Blue / Rose Gold / Red / Gold / 
-Rose Gold and Brown || Brown / Rose Gold / Red / Gold / 
-Rose Gold and Light Blue || Blue / Rose Gold / Red / Gold / 
-Rose Gold and Shot-blast || Rose Gold / Red / Gold / 
-Rose Gold and Titanium || Rose Gold / Red / Silver / Gold / 
-Rose Gold and Titanium and Black || Black / Rose Gold / Red / Silver / Gold / 
-Rose Gold-Ion Plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold, Steel || Grey / Rose Gold / Red / Gold / 
-Rose Gold-Plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold ion-plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold-Tone PVD || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-Tone and Blue || Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-Tone || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-Tone and Gunmetal || Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-coated || Rose Gold / Red / Gold / 
-Rose Gold-plated || Rose Gold-Plated / Red / Gold-Plated / 
-Rose Gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone Ion Plated || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone Ion-plated || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone PVD and Mother of Pearl || Rose Gold-Tone / Red / Gold-Tone / Mother Of Pearl / 
-Rose Gold-tone and Blue Acetate || Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone PVD || Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone and Champagne || Champagne / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone and Champagne Acetate || Champagne / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Gold-tone and Silver-tone || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Rose Gold-tone with White Silicone || Rose Gold-Tone / Red / White / Gold-Tone / 
-Rose Gold-tone, Black and White || Black-Tone / Rose Gold-Tone / Red / White / Gold-Tone / 
+Rose Gold || Rose Gold / 
+Rose Gold 5N || Rose Gold / 
+Rose Gold IP || Rose Gold / 
+Rose Gold Ion-plate || Rose Gold / 
+Rose Gold Ion-plated || Rose Gold / 
+Rose Gold PVD || Rose Gold / 
+Rose Gold Plated || Rose Gold / 
+Rose Gold and || Rose Gold / 
+Rose Gold and Black || Black / Rose Gold / 
+Rose Gold and Blue || Blue / Rose Gold / 
+Rose Gold and Brown || Brown / Rose Gold / 
+Rose Gold and Black and Brown || Black / Brown / Rose Gold / 
+Rose Gold and Light Blue || Blue / Rose Gold / 
+Rose Gold and Shot-blast || Rose Gold / 
+Rose Gold and Titanium || Rose Gold / Silver / 
+Rose Gold and Titanium and Black || Black / Rose Gold / Silver / 
+Rose Gold ion-plated || Rose Gold / 
+Rose Gold, Steel || Grey / Rose Gold / 
+Rose Gold-Ion Plated || Rose Gold / 
+Rose Gold-Plated || Rose Gold / 
+Rose Gold-Tone || Rose Gold / 
+Rose Gold-Tone PVD || Rose Gold / 
+Rose Gold-Tone and Gunmetal || Grey / Rose Gold / 
+Rose Gold-Tone and Blue || Blue / Rose Gold / 
+Rose Gold-coated || Rose Gold / 
+Rose Gold-plated || Rose Gold / 
+Rose Gold-tone || Rose Gold / 
+Rose Gold-tone Ion Plated || Rose Gold / 
+Rose Gold-tone Ion-plated || Rose Gold / 
+Rose Gold-tone PVD || Rose Gold / 
+Rose Gold-tone PVD and Mother of Pearl || Rose Gold / Mother Of Pearl / 
+Rose Gold-tone and Blue Acetate || Blue / Rose Gold / 
+Rose Gold-tone and Champagne || Champagne / Rose Gold / 
+Rose Gold-tone and Champagne Acetate || Champagne / Rose Gold / 
+Rose Gold-tone and Gunmetal || Grey / Rose Gold / 
+Rose Gold-tone and Silver-tone || Rose Gold / Silver / 
+Rose Gold-tone and White || Rose Gold / White / 
+Rose Gold-tone, Black and White || Black / Rose Gold / White / 
+Rose Gold-tone, White || Rose Gold / White / 
+Rose Gold-tone with White Silicone || Rose Gold / White / 
 Rose Gols-tone || Red / 
 Rose Ion-plated || Red / 
 Rose Pink || Pink / Red / 
-Rose Gold-tone, White || Rose Gold-Tone / Red / White / Gold-Tone / 
-Rose Gold-tone and Gunmetal || Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Rose Silver-tone || Red / Silver-Tone / 
+Rose Rubber and Mixed Colored (Green, Red) || Green / Red / 
+Rose Sand Vegan || Red / 
+Rose Silver-tone || Red / Silver / 
 Rose Suede || Red / 
-Rose gold tone and pink || Rose Gold-Tone / Pink / Red / Gold-Tone / 
-Rose gold-tone || Rose Gold-Tone / Red / Gold-Tone / 
+Rose gold tone and pink || Rose Gold / Pink / 
+Rose gold-tone || Rose Gold / 
 Rubber || 
 Ruby || 
 Ruby Red || Red / 
 Sable Ion Plated || Black / 
 Sable Ion-plated || Black / 
-Rose Gold-tone and White || Rose Gold-Tone / Red / White / Gold-Tone / 
-Rose Sand Vegan || Red / 
-Sable-tone || Black-Tone / 
+Sable-plated || Black / 
+Sable-tone || Black / 
 Sage || 
 Salmon || Orange / 
-Sable-plated || Black / 
 Sand || 
-Rose Rubber and Mixed Colored (Green, Red) || Green / Red / 
 Sand Beige || Beige / 
 Sand Hued || 
 Sand Military || 
@@ -1407,119 +1407,119 @@ Semi-Matt Black || Black /
 Semi-Matte Blue || Blue / 
 Semi-Matte Brown || Brown / 
 Semi-Matte Navy Blue || Blue / Navy / 
-Semi-transparent Green || Transparent / Green / 
 Semi-matte Grey || Grey / 
+Semi-transparent Green || Transparent / Green / 
 Senape || 
 Sesame || 
 Shiny Beige || Beige / 
-Shiny Blue || Blue / 
 Shiny Black || Black / 
+Shiny Blue || Blue / 
+Shiny Brown || Brown / 
 Shiny Burgundy || Brown / 
 Shiny Chocolate Brown || Brown / 
-Shiny Brown || Brown / 
 Shiny Pink || Pink / 
 Shiny Red || Red / 
 Shiny Taupe || Grey / 
 Shiny purple || Purple / 
 Shot Blast - Rainbow Plating || Multi-color / 
-Silicone || 
 Signature Brown and White || Brown / White / 
+Silicone || 
 Silky White || White / 
 Silver || Silver / 
 Silver Metallic/Pink || Pink / Silver / 
 Silver Swarovski || Silver / 
 Silver and Black and Gold || Black / Silver / Gold / 
-Silver and Gold-tone PVD || Silver-Tone / Gold-Tone / 
+Silver and Black and Rose Gold || Black / Rose Gold / Silver / 
+Silver and Gold-tone PVD || Silver / Gold / 
 Silver and Grey || Grey / Silver / 
 Silver and Red || Red / Silver / 
-Silver and Rose Gold || Rose Gold / Red / Silver / Gold / 
-Silver and Black and Rose Gold || Black / Rose Gold / Red / Silver / Gold / 
-Silver and Rose Gold-tone PVD || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Silver and Rose Gold PVD || Rose Gold PVD / Red / Silver PVD / Gold PVD / 
-Silver and Rose gold-tone PVD || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
+Silver and Rose Gold || Rose Gold / Silver / 
+Silver and Rose Gold PVD || Rose Gold / Silver / 
+Silver and Rose Gold-tone PVD || Rose Gold / Silver / 
+Silver and Rose gold-tone PVD || Rose Gold / Silver / 
 Silver and Turquoise || Blue / Silver / 
-Silver and Yellow Gold || Silver / Yellow Gold / Yellow / Gold / 
+Silver and Yellow Gold || Silver / Yellow Gold / 
+Silver and Yellow Gold PVD || Silver / Yellow Gold / 
+Silver, Black, and Rose Gold-tone PVD || Black / Rose Gold / Silver / 
 Silver, Purple and Black || Black / Purple / Silver / 
-Silver-Tone || Silver-Tone / 
-Silver and Yellow Gold PVD || Silver PVD / Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-Silver, Black, and Rose Gold-tone PVD || Black-Tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
+Silver-Tone || Silver / 
+Silver-Tone and Rose Gold PVD || Rose Gold / Silver / 
 Silver-White || Silver / White / 
-Silver-Tone and Rose Gold PVD || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
 Silver-ton || Silver / 
-Silver-tone || Silver-Tone / 
-Silver-tone  and Yellow Gold-plated || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Silver-tone (Tweed Motif) || Silver-Tone / 
-Silver-tone Graffiti-like || Silver-Tone / 
-Silver-tone Graffiti-pattern || Silver-Tone / 
-Silver-tone Transluscent Rainbow || Multi-color / Silver-Tone / 
-Silver-tone 1 || Silver-Tone / 
-Silver-tone (Tubogas ) || Silver-Tone / 
-Silver-tone Two-tone || Two-tone / Silver-Tone / 
-Silver-tone and Aqua Plating || Blue / Silver-Tone / 
-Silver-tone and Black || Black-Tone / Silver-Tone / 
-Silver-tone and Black Ion-plated || Black-Tone / Silver-Tone / 
-Silver-tone and Black and Blue and Red || Black-Tone / Blue / Red / Silver-Tone / 
-Silver-tone and Black and Dark Blue || Black-Tone / Blue / Silver-Tone / 
-Silver-tone and Black and Red || Black-Tone / Red / Silver-Tone / 
-Silver-tone and Black and Blue and Red and Yellow || Black-Tone / Blue / Red / Silver-Tone / Yellow-Tone / 
-Silver-tone and Blue || Blue / Silver-Tone / 
-Silver-tone and Blue and Orange || Blue / Orange / Silver-Tone / 
-Silver-tone and Blue and Red || Blue / Red / Silver-Tone / 
-Silver-tone and Burgundy || Brown / Silver-Tone / 
-Silver-tone and Dark Blue || Blue / Silver-Tone / 
-Silver-tone and Gold and Purple || Purple / Silver-Tone / Gold-Tone / 
-Silver-tone and Gold-tone || Silver-Tone / Gold-Tone / 
-Silver-tone and Grey || Grey / Silver-Tone / 
-Silver-tone and Green || Green / Silver-Tone / 
-Silver-tone and Gunmetal || Grey / Silver-Tone / 
-Silver-tone and Light Blue || Blue / Silver-Tone / 
-Silver-tone and Navy Blue || Blue / Navy / Silver-Tone / 
-Silver-tone and Ivory || Silver-Tone / White / 
-Silver-tone and Pink || Pink / Silver-Tone / 
-Silver-tone and Orange and Red || Orange / Red / Silver-Tone / 
-Silver-tone and Rose Gold-tone || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Silver-tone and Shot-blast || Silver-Tone / 
-Silver-tone and Titanium || Silver-Tone / 
-Silver-tone and White || Silver-Tone / White / 
-Silver-tone and White and Aqua Plating || Blue / Silver-Tone / White / 
-Silver-tone and Yellow || Silver-Tone / Yellow-Tone / 
-Silver-tone and Yellow Gold Ion-Plated || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Silver-tone and Yellow Gold PVD || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Silver-tone and Rose Gold || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Silver-tone and Yellow Gold-tone || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Silver-tone and Red || Red / Silver-Tone / 
-Silver-tone and Yellow and Green || Green / Silver-Tone / Yellow-Tone / 
-Silver-tone and Purple || Purple / Silver-Tone / 
-Silver-tone and Yellow Gold-plated || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Silver-tone and blacl || Silver-Tone / 
-Silver-tone, Blue and Silver-tone || Blue / Silver-Tone / 
-Silver-tone, Gold-tone || Silver-Tone / Gold-Tone / 
-Silver-tone, Gold-tone and Dark Blue || Blue / Silver-Tone / Gold-Tone / 
-Silver-tone, Grey and Yellow || Grey / Silver-Tone / Yellow-Tone / 
-Silver-tone, White and Black || Black-Tone / Silver-Tone / White / 
-Silver-tone/ Rose Gold || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Silver-tone1 || Silver-Tone / 
-Silver-tonel and Red || Red / Silver-Tone / 
+Silver-tone  and Yellow Gold-plated || Silver / Yellow Gold / 
+Silver-tone || Silver / 
+Silver-tone (Tubogas ) || Silver / 
+Silver-tone (Tweed Motif) || Silver / 
+Silver-tone 1 || Silver / 
+Silver-tone Graffiti-like || Silver / 
+Silver-tone Graffiti-pattern || Silver / 
+Silver-tone Transluscent Rainbow || Multi-color / Silver / 
+Silver-tone Two-tone || Two-tone / Silver / 
+Silver-tone and Aqua Plating || Blue / Silver / 
+Silver-tone and Black || Black / Silver / 
+Silver-tone and Black Ion-plated || Black / Silver / 
+Silver-tone and Black and Blue and Red || Black / Blue / Red / Silver / 
+Silver-tone and Black and Blue and Red and Yellow || Black / Blue / Red / Silver / Yellow / 
+Silver-tone and Black and Dark Blue || Black / Blue / Silver / 
+Silver-tone and Black and Red || Black / Red / Silver / 
+Silver-tone and Blue || Blue / Silver / 
+Silver-tone and Blue and Orange || Blue / Orange / Silver / 
+Silver-tone and Blue and Red || Blue / Red / Silver / 
+Silver-tone and Burgundy || Brown / Silver / 
+Silver-tone and Dark Blue || Blue / Silver / 
+Silver-tone and Gold and Purple || Purple / Silver / Gold / 
+Silver-tone and Gold-tone || Silver / Gold / 
+Silver-tone and Green || Green / Silver / 
+Silver-tone and Grey || Grey / Silver / 
+Silver-tone and Gunmetal || Grey / Silver / 
+Silver-tone and Ivory || Silver / White / 
+Silver-tone and Light Blue || Blue / Silver / 
+Silver-tone and Navy Blue || Blue / Navy / Silver / 
+Silver-tone and Orange and Red || Orange / Red / Silver / 
+Silver-tone and Pink || Pink / Silver / 
+Silver-tone and Purple || Purple / Silver / 
+Silver-tone and Red || Red / Silver / 
+Silver-tone and Rose Gold || Rose Gold / Silver / 
+Silver-tone and Rose Gold-tone || Rose Gold / Silver / 
+Silver-tone and Shot-blast || Silver / 
+Silver-tone and Titanium || Silver / 
+Silver-tone and White || Silver / White / 
+Silver-tone and White and Aqua Plating || Blue / Silver / White / 
+Silver-tone and Yellow || Silver / Yellow / 
+Silver-tone and Yellow Gold Ion-Plated || Silver / Yellow Gold / 
+Silver-tone and Yellow Gold PVD || Silver / Yellow Gold / 
+Silver-tone and Yellow Gold-plated || Silver / Yellow Gold / 
+Silver-tone and Yellow Gold-tone || Silver / Yellow Gold / 
+Silver-tone and Yellow and Green || Green / Silver / Yellow / 
+Silver-tone and blacl || Silver / 
+Silver-tone, Blue and Silver-tone || Blue / Silver / 
+Silver-tone, Gold-tone || Silver / Gold / 
+Silver-tone, Gold-tone and Dark Blue || Blue / Silver / Gold / 
+Silver-tone, Grey and Yellow || Grey / Silver / Yellow / 
+Silver-tone, White and Black || Black / Silver / White / 
+Silver-tone/ Rose Gold || Rose Gold / Silver / 
+Silver-tone/Orange || Orange / Silver / 
+Silver-tone/Red || Red / Silver / 
+Silver-tone/White || Silver / White / 
+Silver-tone1 || Silver / 
+Silver-tonel and Red || Red / Silver / 
 Silvery Grey || Grey / Silver / 
-Silver-tone/Red || Red / Silver-Tone / 
+Silvre bracelet with burgundy strap || Brown / Silver / 
 Sky Blue || Blue / 
-Silver-tone/White || Silver-Tone / White / 
+Slate || Grey / 
 Slate Grey || Grey / 
 Smoke || 
 Smoke Grey || Grey / 
-Smoke Grey-plated || Grey / 
-Slate || Grey / 
-Smoke-plated || 
-Silvre bracelet with burgundy strap || Brown / Silver / 
-Smoke-tone || 
 Smoke Ion-plated || 
+Smoke Grey-plated || Grey / 
+Smoke-plated || 
+Smoke-tone || 
 Smoked || 
-Silver-tone/Orange || Orange / Silver-Tone / 
 Snadstone || 
 Snake Print || 
+Soft Grey || Grey / 
 Soft Pearl || 
 Soft Pink || Pink / 
-Soft Grey || Grey / 
 Soft Rose || Red / 
 Soft Taupe || Grey / 
 Stainless Steel and 18kt Gold || Grey / Gold / 
@@ -1527,77 +1527,77 @@ Stainless Steel/Gold || Grey / Gold /
 Stainless steel || Grey / 
 Steel Grey || Grey / 
 Steel and Black || Black / Grey / 
-Steel, Black || Black / Grey / 
 Steel and Gold and Black || Black / Grey / Gold / 
-Steel, Gold || Grey / Gold / 
+Steel, Black || Black / Grey / 
 Steel, Blue || Blue / Grey / 
-Steel, Rose Gold || Grey / Rose Gold / Red / Gold / 
+Steel, Gold || Grey / Gold / 
+Steel, Rose Gold || Grey / Rose Gold / 
 Stone || 
 Stone Grey || Grey / 
 Striped || 
 Striped Beige || Beige / 
 Striped Black || Black / 
-Suede || 
+Striped Blue and Black || Black / Blue / 
 Striped Green, Blue, Purple and Pink || Blue / Green / Pink / Purple / 
+Suede || 
+Sunflower || Yellow / 
 TAN || Brown / 
 TR90 Resin || 
-Sunflower || Yellow / 
 Tan || Brown / 
-Tangerine || Orange / 
 Tan, Print || Brown / 
-Striped Blue and Black || Black / Blue / 
-Taupe Brown || Brown / Grey / 
-Tea || 
+Tangerine || Orange / 
 Taupe || Grey / 
+Tea || 
+Taupe Brown || Brown / Grey / 
 Teal || Blue / 
 Teal (Elaphe-pattern) || Blue / 
 Teal Blue || Blue / 
 Teal Blue and Lilac || Blue / Purple / 
-Teal Green (Orange Back) || Blue / Green / Orange / 
-Teal-tone || Blue / 
 Teal Coated || Blue / 
-Teo-tone (Silver-tone and Rose Gold-tone) || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
+Teal-tone || Blue / 
+Teal Green (Orange Back) || Blue / Green / Orange / 
+Teo-tone (Silver-tone and Rose Gold-tone) || Rose Gold / Silver / 
 Terracotta || 
 Textured Black || Black / 
-Three-tone (Blue, Black and Red) || Black-Tone / Blue / Red / 
+Three-tone (Blue, Black and Red) || Black / Blue / Red / 
 Titanium || Silver / 
-Titanium Blue-plated || Blue / Silver-Plated / 
+Titanium Blue-plated || Blue / Silver / 
 Titanium Carbide Coated || Silver / 
-Titanium PVD || Silver PVD / 
+Titanium PVD || Silver / 
 Titanium and Black || Black / Silver / 
 Titanium and Purple || Purple / Silver / 
-Titanium-tone || Silver-Tone / 
+Titanium-tone || Silver / 
 Tobacco || Brown / 
 Tortoise || 
-Tortoise and Gold-tone || Gold-Tone / 
+Tortoise and Gold-tone || Gold / 
 Tortoise-shell || 
-Tow-tone (Silver and Yellow Gold-plated) || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+Tow-tone (Silver and Yellow Gold-plated) || Silver / Yellow Gold / 
 Translucent || 
 Translucent Blue || Blue / 
-Translucent Light Blue || Blue / 
 Translucent Coral || Orange / 
+Translucent Light Blue || Blue / 
 Translucent White || White / 
 Translucent and Green || Green / 
-Transparent || Transparent / 
 Transparent Blue || Transparent / Blue / 
-Transparent Gold-tone || Transparent / Gold-Tone / 
+Transparent || Transparent / 
+Transparent Gold-tone || Transparent / Gold / 
 Transparent Mint || Transparent / Green / 
 Transparent Red || Transparent / Red / 
 Transparent Shimmer || Transparent / 
-Tri-Color || Two-tone / 
-Tri-Color (Silver-tone, Gold-tone, Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Tri-Color (Silver-tone, Yellow Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Tri-Colored (Silver-tone, Rose Gold-tone and Yellow Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Tri-Tone (Silver-tone, Gold tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Tri-color (Yellow Gold-tone, Rose Gold-tone, Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Tri-colored || Two-tone / 
-Tri-color (Black, Green and Red) || Two-tone / Black / Green / Red / 
-Tri-color (Silver-tone and Yellow Gold-tone, Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Tri-tone (Silver, Gold and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Tri-tone (Silver, Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Tri-tone (Rose, Yellow gold-tone and Silver-tone) || Two-tone / Red / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Tri-tone (Silver-tone, Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Tricolored || Two-tone / 
+Tri-Color || Tri-tone / 
+Tri-Color (Silver-tone, Gold-tone, Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Gold / 
+Tri-Color (Silver-tone, Yellow Gold-tone and Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Yellow Gold / 
+Tri-Colored (Silver-tone, Rose Gold-tone and Yellow Gold-tone) || Tri-tone / Rose Gold / Silver / Yellow Gold / 
+Tri-color (Black, Green and Red) || Tri-tone / Black / Green / Red / 
+Tri-Tone (Silver-tone, Gold tone and Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Gold / 
+Tri-color (Silver-tone and Yellow Gold-tone, Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Yellow Gold / 
+Tri-color (Yellow Gold-tone, Rose Gold-tone, Silver-tone) || Tri-tone / Rose Gold / Silver / Yellow Gold / 
+Tri-colored || Tri-tone / 
+Tri-tone (Rose, Yellow gold-tone and Silver-tone) || Tri-tone / Red / Silver / Yellow Gold / 
+Tri-tone (Silver, Gold and Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Gold / 
+Tri-tone (Silver, Gold-tone and Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Gold / 
+Tri-tone (Silver-tone, Gold-tone and Rose Gold-tone) || Tri-tone / Rose Gold / Silver / Gold / 
+Tricolored || Tri-tone / 
 Tropical || 
 Turquoise || Blue / 
 Turquoise  Blue / Green || Blue / Green / 
@@ -1605,608 +1605,608 @@ Turquoise (Floral Print) || Blue /
 Turquoise Blue || Blue / 
 Turtledove || 
 Tuscan || 
-Two (Silver and Rose Gold PVD) || Rose Gold PVD / Red / Silver PVD / Gold PVD / 
-Two (Silver and Rose Gold-plated) || Rose Gold-Plated / Red / Silver-Plated / Gold-Plated / 
-Two (Silver-tone and Rose Gold-tone) || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two (Silver-tone and Yellow Gold-tone) || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two Tone (Black Ion-plated and Gold Ion-plated) || Two-tone / Black-Tone / Gold-Tone / 
-Two Tone (Silver-tone and Rose Gold-Plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two Tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two Tone (Yellow Gold-tone and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two tone (Rose-gold tone and Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two tone (Silver and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two tone (Silver tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two tone (Silver-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two- Tone Yellow Gold and Stainless Steel || Grey / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two tone (Gold-tone & Silver-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two- tone (Silver and 18kt Gold-plated) || Silver-Tone / Gold-Tone / 
-Two- tone (Silver and Yellow Gold Ion-plated) || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+Two (Silver and Rose Gold PVD) || Rose Gold / Silver / 
+Two (Silver and Rose Gold-plated) || Rose Gold / Silver / 
+Two (Silver-tone and Rose Gold-tone) || Rose Gold / Silver / 
+Two (Silver-tone and Yellow Gold-tone) || Silver / Yellow Gold / 
+Two Tone (Black Ion-plated and Gold Ion-plated) || Two-tone / Black / Gold / 
+Two Tone (Silver-tone and Rose Gold-Plated) || Two-tone / Rose Gold / Silver / 
+Two Tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two Tone (Yellow Gold-tone and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two tone (Gold-tone & Silver-tone) || Two-tone / Silver / Gold / 
+Two tone (Rose-gold tone and Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two tone (Silver and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two tone (Silver tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two- Tone Yellow Gold and Stainless Steel || Grey / Yellow Gold / 
+Two- tone (Silver and 18kt Gold-plated) || Silver / Gold / 
+Two- tone (Silver and Yellow Gold Ion-plated) || Silver / Yellow Gold / 
+Two tone (Silver-tone and Gold-tone) || Two-tone / Silver / Gold / 
 Two-Tone || Two-tone / 
-Two-Tone (Black and Yellow Gold-plated) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (Black/Gold-Tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-Tone (Black/Gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-Tone (Black/Red) || Two-tone / Black-Tone / Red / 
-Two-Tone (Blue & Black) || Two-tone / Black-Tone / Blue / 
-Two-Tone (Burgundy/Rose Gold-tone) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
-Two-Tone (Gold PVD and Silver) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-Tone (Gold-tone/Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-Tone (Rose Gold-plated and Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Rose Gold, Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Silver-Tone/Rose Gold) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Rose-Gold PVD/Silver-Tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Silver-Tone/Yellow Gold PVD Coated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (Silver-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-Tone (Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-Tone (Silver-tone and Yellow Gold PVD || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (Silver-tone/18kt Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (Silver-tone and Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (Silver/Yellow Gold-Plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-Tone (White and Gold-Tone) || Two-tone / White / Gold-Tone / 
-Two-Tone (White and Gold-tone) || Two-tone / White / Gold-Tone / 
-Two-Tone( Silver-tone/18kt Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-rone (Silver and Yellow Gold-tone) || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-textured (Black Ion-plated and Black Textured) || Black / 
-Two-tne (Silver-tone and Rose Gold-tone) || Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
+Two-Tone (Black and Yellow Gold-plated) || Two-tone / Black / Yellow Gold / 
+Two-Tone (Black/Gold-Tone) || Two-tone / Black / Gold / 
+Two-Tone (Black/Gold-tone) || Two-tone / Black / Gold / 
+Two-Tone (Black/Red) || Two-tone / Black / Red / 
+Two-Tone (Blue & Black) || Two-tone / Black / Blue / 
+Two-Tone (Burgundy/Rose Gold-tone) || Two-tone / Brown / Rose Gold / 
+Two-Tone (Gold PVD and Silver) || Two-tone / Silver / Gold / 
+Two-Tone (Gold-tone/Black) || Two-tone / Black / Gold / 
+Two-Tone (Rose Gold, Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Rose Gold-plated and Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Rose-Gold PVD/Silver-Tone) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Silver-Tone/Rose Gold) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Silver-Tone/Yellow Gold PVD Coated) || Two-tone / Silver / Yellow Gold / 
+Two-Tone (Silver-tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two-Tone (Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-Tone (Silver-tone and Yellow Gold PVD || Two-tone / Silver / Yellow Gold / 
+Two-Tone (Silver-tone and Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-Tone (Silver-tone/18kt Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-Tone (Silver/Yellow Gold-Plated) || Two-tone / Silver / Yellow Gold / 
+Two-Tone (White and Gold-Tone) || Two-tone / White / Gold / 
+Two-Tone (White and Gold-tone) || Two-tone / White / Gold / 
+Two-Tone( Silver-tone/18kt Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-rone (Silver and Yellow Gold-tone) || Silver / Yellow Gold / 
+Two-textured (Black Ion-plated and Black Textured) || Two-tone / Black / 
+Two-tne (Silver-tone and Rose Gold-tone) || Rose Gold / Silver / 
 Two-tone || Two-tone / 
-Two-tone ( 23kt Yellow Gold-plated) || Two-tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone ( Blue and Black Ion-plated) || Two-tone / Black-Tone / Blue / 
-Two-tone ( Gold-tone and White) || Two-tone / White / Gold-Tone / 
-Two-tone ( Rose Gold-tone, Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone ( Silver-tone and Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone ( Silver-tone, Rose gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (18kt Gold and Silver-tone ) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (18kt Gold and Silver-tonel) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (18kt Gold-plated and Silver-tone) || Two-tone / Silver-Tone / Gold-Tone / 
+Two-tone ( 23kt Yellow Gold-plated) || Two-tone / Yellow Gold / 
+Two-tone ( Blue and Black Ion-plated) || Two-tone / Black / Blue / 
+Two-tone ( Gold-tone and White) || Two-tone / White / Gold / 
+Two-tone ( Rose Gold-tone, Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone ( Silver-tone and Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone ( Silver-tone, Rose gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (18kt Gold and Silver-tone ) || Two-tone / Silver / Gold / 
+Two-tone (18kt Gold and Silver-tonel) || Two-tone / Silver / Gold / 
+Two-tone (18kt Gold-plated and Silver-tone) || Two-tone / Silver / Gold / 
 Two-tone (Beige and Blue) || Two-tone / Beige / Blue / 
-Two-tone (Beige and Gold-tone) || Two-tone / Beige Gold-Tone / Beige / Gold-Tone / 
+Two-tone (Beige and Gold-tone) || Two-tone / Beige / Gold / 
 Two-tone (Beige and Light Grey) || Two-tone / Beige / Grey / 
 Two-tone (Beige and Pink) || Two-tone / Beige / Pink / 
 Two-tone (Beige and Red) || Two-tone / Beige / Red / 
-Two-tone (Black Ion-plated and Blue Ion-plated) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black Ion-plated and Blue) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black Ion-plated and Blue-plated ) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black Ion-plated and Gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black Ion-plated and Rose Gold Ion-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black Ion-plated and Rose Gold-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black Ion-plated and Red) || Two-tone / Black-Tone / Red / 
-Two-tone (Black Ion-plated and Rose Gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black Ion-plated and Rose gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black Ion-plated and Yellow Gold-tone) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black Ion-plated and Silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black PVD and Gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black PVD and Silver-tone ) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black PVD and Silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black PVD and Yellow Gold PVD) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black PVD and Yellow Gold-tone) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black and 18kt Rose Gold-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Blue Ion-plated ) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black and Blue Ion-plated) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black and Blue) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black and Brown Ion-plated) || Two-tone / Black-Tone / Brown / 
-Two-tone (Black and Brown) || Two-tone / Black-Tone / Brown / 
-Two-tone (Black and Burgundy Ion-plated ) || Two-tone / Black-Tone / Brown / 
-Two-tone (Black and Burgundy) || Two-tone / Black-Tone / Brown / 
-Two-tone (Black and Dark Grey) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black and Gol-plated Ion-plated) || Two-tone / Black-Tone / 
-Two-tone (Black and Gold--tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Gold Ion-plated) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Gold-Tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Goldr-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Goldtone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Gold-plated) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and Green) || Two-tone / Black-Tone / Green / 
-Two-tone (Black and Gray) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black and Grey) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black and Gunmetal Ion-plated) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black and Gunmetal) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black and Metalic Blue) || Two-tone / Black-Tone / Blue / 
-Two-tone (Black and Multicolred Ion-plated) || Two-tone / Black-Tone / 
-Two-tone (Black and Orange) || Two-tone / Black-Tone / Orange / 
-Two-tone (Black and Pink Gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Pink / Gold-Tone / 
-Two-tone (Black and Purple) || Two-tone / Black-Tone / Purple / 
-Two-tone (Black and Pink) || Two-tone / Black-Tone / Pink / 
-Two-tone (Black and Red ) || Two-tone / Black-Tone / Red / 
-Two-tone (Black and Red) || Two-tone / Black-Tone / Red / 
-Two-tone (Black and Rose Gold Ion-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Gold PVD) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Gold tone PVD) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Gold-tone ) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Gold-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose Goldr-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and Rose) || Two-tone / Black-Tone / Red / 
-Two-tone (Black and Silver-plated) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black and Silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black and White) || Two-tone / Black-Tone / White / 
-Two-tone (Black and White Python Pattern) || Two-tone / Black-Tone / White / 
-Two-tone (Black and Rose Gold-plated ) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black and White)Black || Two-tone / Black-Tone / White / 
-Two-tone (Black and Yellow Gold-plated ) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black and Yellow Gold-plated) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black and Yellow Gold-tone) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black and Yellow Gold-tonePVD) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black and Yellow) || Two-tone / Black-Tone / Yellow-Tone / 
-Two-tone (Black and gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black and silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black andGrey) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black-plated and Gunmetal-plated) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black-plated and Rose Gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black-plated and Rose gold-tone) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Black-plated and Silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Black-plated and Yellow Gold-tone) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black/Gold) PVD || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black/Gold-Tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Black/Grey) || Two-tone / Black-Tone / Grey / 
-Two-tone (Black/Yellow Gold-Tone) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Black/Yellow) || Two-tone / Black-Tone / Yellow-Tone / 
-Two-tone (Blue Ion-plated and Black ) || Two-tone / Black-Tone / Blue / 
-Two-tone (Blue Ion-plated and Silver-tone) || Two-tone / Blue / Silver-Tone / 
+Two-tone (Black Ion-plated and Blue Ion-plated) || Two-tone / Black / Blue / 
+Two-tone (Black Ion-plated and Blue) || Two-tone / Black / Blue / 
+Two-tone (Black Ion-plated and Blue-plated ) || Two-tone / Black / Blue / 
+Two-tone (Black Ion-plated and Gold-tone) || Two-tone / Black / Gold / 
+Two-tone (Black Ion-plated and Red) || Two-tone / Black / Red / 
+Two-tone (Black Ion-plated and Rose Gold Ion-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Black Ion-plated and Rose Gold-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Black Ion-plated and Rose Gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black Ion-plated and Rose gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black Ion-plated and Silver-tone) || Two-tone / Black / Silver / 
+Two-tone (Black Ion-plated and Yellow Gold-tone) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black PVD and Gold-tone) || Two-tone / Black / Gold / 
+Two-tone (Black PVD and Silver-tone ) || Two-tone / Black / Silver / 
+Two-tone (Black PVD and Silver-tone) || Two-tone / Black / Silver / 
+Two-tone (Black PVD and Yellow Gold PVD) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black PVD and Yellow Gold-tone) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black and 18kt Rose Gold-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Blue Ion-plated ) || Two-tone / Black / Blue / 
+Two-tone (Black and Blue Ion-plated) || Two-tone / Black / Blue / 
+Two-tone (Black and Blue) || Two-tone / Black / Blue / 
+Two-tone (Black and Brown Ion-plated) || Two-tone / Black / Brown / 
+Two-tone (Black and Brown) || Two-tone / Black / Brown / 
+Two-tone (Black and Burgundy Ion-plated ) || Two-tone / Black / Brown / 
+Two-tone (Black and Burgundy) || Two-tone / Black / Brown / 
+Two-tone (Black and Dark Grey) || Two-tone / Black / Grey / 
+Two-tone (Black and Gol-plated Ion-plated) || Two-tone / Black / 
+Two-tone (Black and Gold Ion-plated) || Two-tone / Black / Gold / 
+Two-tone (Black and Gold--tone) || Two-tone / Black / Gold / 
+Two-tone (Black and Gold-Tone) || Two-tone / Black / Gold / 
+Two-tone (Black and Gold-plated) || Two-tone / Black / Gold / 
+Two-tone (Black and Gold-tone) || Two-tone / Black / Gold / 
+Two-tone (Black and Goldr-tone) || Two-tone / Black / Gold / 
+Two-tone (Black and Goldtone) || Two-tone / Black / Gold / 
+Two-tone (Black and Gray) || Two-tone / Black / Grey / 
+Two-tone (Black and Green) || Two-tone / Black / Green / 
+Two-tone (Black and Grey) || Two-tone / Black / Grey / 
+Two-tone (Black and Gunmetal Ion-plated) || Two-tone / Black / Grey / 
+Two-tone (Black and Gunmetal) || Two-tone / Black / Grey / 
+Two-tone (Black and Metalic Blue) || Two-tone / Black / Blue / 
+Two-tone (Black and Multicolred Ion-plated) || Two-tone / Black / 
+Two-tone (Black and Orange) || Two-tone / Black / Orange / 
+Two-tone (Black and Pink Gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Pink) || Two-tone / Black / Pink / 
+Two-tone (Black and Purple) || Two-tone / Black / Purple / 
+Two-tone (Black and Red ) || Two-tone / Black / Red / 
+Two-tone (Black and Red) || Two-tone / Black / Red / 
+Two-tone (Black and Rose Gold Ion-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold PVD) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold tone PVD) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold-plated ) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold-tone ) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose Goldr-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black and Rose) || Two-tone / Black / Red / 
+Two-tone (Black and Silver-plated) || Two-tone / Black / Silver / 
+Two-tone (Black and Silver-tone) || Two-tone / Black / Silver / 
+Two-tone (Black and White Python Pattern) || Two-tone / Black / White / 
+Two-tone (Black and White) || Two-tone / Black / White / 
+Two-tone (Black and White)Black || Two-tone / Black / White / 
+Two-tone (Black and Yellow Gold-plated ) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black and Yellow Gold-plated) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black and Yellow Gold-tone) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black and Yellow Gold-tonePVD) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black and Yellow) || Two-tone / Black / Yellow / 
+Two-tone (Black and gold-tone) || Two-tone / Black / Gold / 
+Two-tone (Black and silver-tone) || Two-tone / Black / Silver / 
+Two-tone (Black andGrey) || Two-tone / Black / Grey / 
+Two-tone (Black-plated and Gunmetal-plated) || Two-tone / Black / Grey / 
+Two-tone (Black-plated and Rose Gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black-plated and Rose gold-tone) || Two-tone / Black / Rose Gold / 
+Two-tone (Black-plated and Silver-tone) || Two-tone / Black / Silver / 
+Two-tone (Black-plated and Yellow Gold-tone) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black/Gold) PVD || Two-tone / Black / Gold / 
+Two-tone (Black/Gold-Tone) || Two-tone / Black / Gold / 
+Two-tone (Black/Grey) || Two-tone / Black / Grey / 
+Two-tone (Black/Yellow Gold-Tone) || Two-tone / Black / Yellow Gold / 
+Two-tone (Black/Yellow) || Two-tone / Black / Yellow / 
+Two-tone (Blue Ion-plated and Black ) || Two-tone / Black / Blue / 
+Two-tone (Blue Ion-plated and Silver-tone) || Two-tone / Blue / Silver / 
 Two-tone (Blue and || Two-tone / Blue / 
-Two-tone (Blue and Black Ion-plated ) || Two-tone / Black-Tone / Blue / 
-Two-tone (Blue and Black) || Two-tone / Black-Tone / Blue / 
-Two-tone (Blue and Gold PVD) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Blue and Gold-plated) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Blue and Gold-tone) || Two-tone / Blue / Gold-Tone / 
+Two-tone (Blue and Black Ion-plated ) || Two-tone / Black / Blue / 
+Two-tone (Blue and Black) || Two-tone / Black / Blue / 
+Two-tone (Blue and Gold PVD) || Two-tone / Blue / Gold / 
+Two-tone (Blue and Gold-plated) || Two-tone / Blue / Gold / 
+Two-tone (Blue and Gold-tone) || Two-tone / Blue / Gold / 
 Two-tone (Blue and Green) || Two-tone / Blue / Green / 
+Two-tone (Blue and Grey) || Two-tone / Blue / Grey / 
 Two-tone (Blue and Ivory) || Two-tone / Blue / White / 
 Two-tone (Blue and Orange) || Two-tone / Blue / Orange / 
 Two-tone (Blue and Pink) || Two-tone / Blue / Pink / 
 Two-tone (Blue and Purple) || Two-tone / Blue / Purple / 
 Two-tone (Blue and Red) || Two-tone / Blue / Red / 
-Two-tone (Blue and Rose Gold-tone) || Two-tone / Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Blue and Silver -tone) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Blue and Silver-tone) || Two-tone / Blue / Silver-Tone / 
+Two-tone (Blue and Rose Gold-tone) || Two-tone / Blue / Rose Gold / 
+Two-tone (Blue and Silver -tone) || Two-tone / Blue / Silver / 
+Two-tone (Blue and Silver-tone) || Two-tone / Blue / Silver / 
 Two-tone (Blue and White) || Two-tone / Blue / White / 
-Two-tone (Blue and Yellow) || Two-tone / Blue / Yellow-Tone / 
-Two-tone (Blue and Grey) || Two-tone / Blue / Grey / 
-Two-tone (Blue ans Silver-tone) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Blue/Gold-Tone) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Blue/Yellow Gold-tone) || Two-tone / Blue / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+Two-tone (Blue and Yellow) || Two-tone / Blue / Yellow / 
+Two-tone (Blue ans Silver-tone) || Two-tone / Blue / Silver / 
+Two-tone (Blue/Gold-Tone) || Two-tone / Blue / Gold / 
+Two-tone (Blue/Yellow Gold-tone) || Two-tone / Blue / Yellow Gold / 
 Two-tone (Bronze-tone and Green) || Two-tone / Brown / Green / 
 Two-tone (Brown and || Two-tone / Brown / 
-Two-tone (Brown and Black) || Two-tone / Black-Tone / Brown / 
-Two-tone (Brown and Gold) || Two-tone / Brown / Gold-Tone / 
-Two-tone (Brown and Gold-tone) || Two-tone / Brown / Gold-Tone / 
+Two-tone (Brown and Black) || Two-tone / Black / Brown / 
+Two-tone (Brown and Gold) || Two-tone / Brown / Gold / 
+Two-tone (Brown and Gold-tone) || Two-tone / Brown / Gold / 
 Two-tone (Brown and Grey) || Two-tone / Brown / Grey / 
-Two-tone (Brown and Rose Gold PVD) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Brown and Rose Gold-tone) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
+Two-tone (Brown and Rose Gold PVD) || Two-tone / Brown / Rose Gold / 
+Two-tone (Brown and Rose Gold-tone) || Two-tone / Brown / Rose Gold / 
 Two-tone (Brown and Rose-tone) || Two-tone / Brown / Red / 
-Two-tone (Brown and Silver-tone) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Brown and Yellow) || Two-tone / Brown / Yellow-Tone / 
-Two-tone (Burgundy and Black Ion-plated) || Two-tone / Black-Tone / Brown / 
+Two-tone (Brown and Silver-tone) || Two-tone / Brown / Silver / 
+Two-tone (Brown and Yellow) || Two-tone / Brown / Yellow / 
+Two-tone (Burgundy and Black Ion-plated) || Two-tone / Black / Brown / 
 Two-tone (Burgundy and Dark Blue) || Two-tone / Blue / Brown / 
-Two-tone (Charcoal and Grey) || Two-tone / Black-Tone / Grey / 
-Two-tone (Chocolate and Rose Gold-tone) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
+Two-tone (Charcoal and Grey) || Two-tone / Black / Grey / 
+Two-tone (Chocolate and Rose Gold-tone) || Two-tone / Brown / Rose Gold / 
 Two-tone (Cream and White) || Two-tone / White / 
 Two-tone (Dark Blue and Burgundy) || Two-tone / Blue / Brown / 
-Two-tone (Dark Blue and Gold-tone) || Two-tone / Blue / Gold-Tone / 
+Two-tone (Dark Blue and Gold-tone) || Two-tone / Blue / Gold / 
 Two-tone (Dark Blue and Green Ion-plated ) || Two-tone / Blue / Green / 
 Two-tone (Dark Blue and Red || Two-tone / Blue / Red / 
 Two-tone (Dark Blue and Red) || Two-tone / Blue / Red / 
-Two-tone (Dark Blue-plated and Black-plated) || Two-tone / Black-Tone / Blue / 
+Two-tone (Dark Blue-plated and Black-plated) || Two-tone / Black / Blue / 
 Two-tone (Glossy Clear and Smoke) || Two-tone / 
-Two-tone (Gold Ion-plated and Silver) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Gold and Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Gold and Platinum-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Gold-plated and Black Ion-plated) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold-plated and Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold-plated and Blue) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Gold-tone PVD and Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold-tone and Beige) || Two-tone / Beige / Gold-Tone / 
-Two-tone (Gold-tone and Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold-tone and Blue) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Gold-tone and Brown) || Two-tone / Brown / Gold-Tone / 
-Two-tone (Gold-tone and Green) || Two-tone / Green / Gold-Tone / 
-Two-tone (Gold-tone and Green-plated) || Two-tone / Green / Gold-Tone / 
-Two-tone (Gold-tone and Grey) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gold-tone and Gunmetal-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gold-tone and Ivory) || Two-tone / White / Gold-Tone / 
-Two-tone (Gold-tone and Pink) || Two-tone / Pink / Gold-Tone / 
-Two-tone (Gold-tone and Red) || Two-tone / Red / Gold-Tone / 
-Two-tone (Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Gold-tone and Silver-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Gold-tone and Solver-tone) || Two-tone / Gold-Tone / 
-Two-tone (Gold-tone and White) || Two-tone / White / Gold-Tone / 
-Two-tone (Gold-tone and Yellow Silver-tone) || Two-tone / Silver-Tone / Yellow-Tone / Gold-Tone / 
-Two-tone (Gold-tone and and Blue) || Two-tone / Blue / Gold-Tone / 
-Two-tone (Gold-tone, Silver-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Gold-tone/Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (Gold/Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Green and Black) || Two-tone / Black-Tone / Green / 
-Two-tone (Green and Black Ion-plated) || Two-tone / Black-Tone / Green / 
+Two-tone (Gold Ion-plated and Silver) || Two-tone / Silver / Gold / 
+Two-tone (Gold and Black) || Two-tone / Black / Gold / 
+Two-tone (Gold and Platinum-tone) || Two-tone / Silver / Gold / 
+Two-tone (Gold and Rose Gold-tone) || Two-tone / Rose Gold / Gold / 
+Two-tone (Gold-plated and Black Ion-plated) || Two-tone / Black / Gold / 
+Two-tone (Gold-plated and Black) || Two-tone / Black / Gold / 
+Two-tone (Gold-plated and Blue) || Two-tone / Blue / Gold / 
+Two-tone (Gold-tone PVD and Black) || Two-tone / Black / Gold / 
+Two-tone (Gold-tone and Beige) || Two-tone / Beige / Gold / 
+Two-tone (Gold-tone and Black) || Two-tone / Black / Gold / 
+Two-tone (Gold-tone and Blue) || Two-tone / Blue / Gold / 
+Two-tone (Gold-tone and Brown) || Two-tone / Brown / Gold / 
+Two-tone (Gold-tone and Green) || Two-tone / Green / Gold / 
+Two-tone (Gold-tone and Green-plated) || Two-tone / Green / Gold / 
+Two-tone (Gold-tone and Grey) || Two-tone / Grey / Gold / 
+Two-tone (Gold-tone and Gunmetal-tone) || Two-tone / Grey / Gold / 
+Two-tone (Gold-tone and Ivory) || Two-tone / White / Gold / 
+Two-tone (Gold-tone and Pink) || Two-tone / Pink / Gold / 
+Two-tone (Gold-tone and Red) || Two-tone / Red / Gold / 
+Two-tone (Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold / Gold / 
+Two-tone (Gold-tone and Silver-tone) || Two-tone / Silver / Gold / 
+Two-tone (Gold-tone and Solver-tone) || Two-tone / Gold / 
+Two-tone (Gold-tone and White) || Two-tone / White / Gold / 
+Two-tone (Gold-tone and Yellow Silver-tone) || Two-tone / Silver / Yellow / Gold / 
+Two-tone (Gold-tone and and Blue) || Two-tone / Blue / Gold / 
+Two-tone (Gold-tone, Silver-tone) || Two-tone / Silver / Gold / 
+Two-tone (Gold-tone/Black) || Two-tone / Black / Gold / 
+Two-tone (Gold/Rose Gold-tone) || Two-tone / Rose Gold / Gold / 
+Two-tone (Green and Black Ion-plated) || Two-tone / Black / Green / 
+Two-tone (Green and Black) || Two-tone / Black / Green / 
 Two-tone (Green and Burgundy) || Two-tone / Brown / Green / 
 Two-tone (Green and Cream) || Two-tone / Green / White / 
-Two-tone (Green and Gold-tone) || Two-tone / Green / Gold-Tone / 
+Two-tone (Green and Gold-tone) || Two-tone / Green / Gold / 
 Two-tone (Green and Red) || Two-tone / Green / Red / 
-Two-tone (Green and Silver-tone) || Two-tone / Green / Silver-Tone / 
+Two-tone (Green and Silver-tone) || Two-tone / Green / Silver / 
 Two-tone (Green and White) || Two-tone / Green / White / 
-Two-tone (Green and Yellow ) || Two-tone / Green / Yellow-Tone / 
-Two-tone (Green and Yellow Gold-tone) || Two-tone / Green / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Green/Yellow Gold-tone) || Two-tone / Green / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Grey Ion-plated and Black) || Two-tone / Black-Tone / Grey / 
-Two-tone (Grey and Black) || Two-tone / Black-Tone / Grey / 
+Two-tone (Green and Yellow ) || Two-tone / Green / Yellow / 
+Two-tone (Green and Yellow Gold-tone) || Two-tone / Green / Yellow Gold / 
+Two-tone (Green/Yellow Gold-tone) || Two-tone / Green / Yellow Gold / 
+Two-tone (Grey Ion-plated and Black) || Two-tone / Black / Grey / 
+Two-tone (Grey and Black) || Two-tone / Black / Grey / 
 Two-tone (Grey and Blue) || Two-tone / Blue / Grey / 
-Two-tone (Grey and Gold-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Grey and Gold PVD) || Two-tone / Grey / Gold-Tone / 
+Two-tone (Grey and Gold PVD) || Two-tone / Grey / Gold / 
+Two-tone (Grey and Gold-tone) || Two-tone / Grey / Gold / 
 Two-tone (Grey and Green) || Two-tone / Green / Grey / 
 Two-tone (Grey and Pink) || Two-tone / Grey / Pink / 
 Two-tone (Grey and Purple) || Two-tone / Grey / Purple / 
-Two-tone (Grey and Rose Gold-tone) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
+Two-tone (Grey and Rose Gold-tone) || Two-tone / Grey / Rose Gold / 
 Two-tone (Grey and Rose PVD) || Two-tone / Grey / Red / 
-Two-tone (Grey and Silve-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Grey and Silver-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Grey and Titanium) || Two-tone / Grey / Silver-Tone / 
+Two-tone (Grey and Silve-tone) || Two-tone / Grey / Silver / 
+Two-tone (Grey and Silver-tone) || Two-tone / Grey / Silver / 
+Two-tone (Grey and Titanium) || Two-tone / Grey / Silver / 
 Two-tone (Grey and White) || Two-tone / Grey / White / 
-Two-tone (Grey and Yellow) || Two-tone / Grey / Yellow-Tone / 
-Two-tone (Grey, Rose Gold-tone) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Grey-plated and Antique Silver-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Grey-plated and Silver-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Gumetal and Gold-plated) || Two-tone / Gold-Tone / 
-Two-tone (Gumnetal and Gold-plated) || Two-tone / Gold-Tone / 
-Two-tone (Gunmetal PVD and Silver-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Gunmetal and Black) || Two-tone / Black-Tone / Grey / 
+Two-tone (Grey and Yellow) || Two-tone / Grey / Yellow / 
+Two-tone (Grey, Rose Gold-tone) || Two-tone / Grey / Rose Gold / 
+Two-tone (Grey-plated and Antique Silver-tone) || Two-tone / Grey / Silver / 
+Two-tone (Grey-plated and Silver-tone) || Two-tone / Grey / Silver / 
+Two-tone (Gumetal and Gold-plated) || Two-tone / Gold / 
+Two-tone (Gumnetal and Gold-plated) || Two-tone / Gold / 
+Two-tone (Gunmetal PVD and Silver-tone) || Two-tone / Grey / Silver / 
+Two-tone (Gunmetal and Black) || Two-tone / Black / Grey / 
 Two-tone (Gunmetal and Blue) || Two-tone / Blue / Grey / 
-Two-tone (Gunmetal and Gold-plated) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gunmetal and Gold-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gunmetal and Rose Gold-tone) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Gunmetal and Silver-tone) || Two-tone / Grey / Silver-Tone / 
+Two-tone (Gunmetal and Gold-plated) || Two-tone / Grey / Gold / 
+Two-tone (Gunmetal and Gold-tone) || Two-tone / Grey / Gold / 
+Two-tone (Gunmetal and Roes Gold-tone) || Two-tone / Grey / Gold / 
+Two-tone (Gunmetal and Rose Gold-tone) || Two-tone / Grey / Rose Gold / 
+Two-tone (Gunmetal and Silver-tone) || Two-tone / Grey / Silver / 
+Two-tone (Gunmetal and gold-tone) || Two-tone / Grey / Gold / 
 Two-tone (Gunmetal-plated and Blue) || Two-tone / Blue / Grey / 
-Two-tone (Gunmetal and Roes Gold-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gunmetal-tone And Gold-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gunmetal and gold-tone) || Two-tone / Grey / Gold-Tone / 
-Two-tone (Gunmetal-tone and silver-tone) || Two-tone / Grey / Silver-Tone / 
+Two-tone (Gunmetal-tone And Gold-tone) || Two-tone / Grey / Gold / 
+Two-tone (Gunmetal-tone and silver-tone) || Two-tone / Grey / Silver / 
 Two-tone (Hot Pink and Blue) || Two-tone / Blue / Pink / 
 Two-tone (Hot Pink and White) || Two-tone / Pink / White / 
-Two-tone (Hot pink and Yellow) || Two-tone / Pink / Yellow-Tone / 
-Two-tone (Iridescent and Gold-tone) || Two-tone / Gold-Tone / 
-Two-tone (Khaki-tone and Rose Gold-tone) || Two-tone / Khaki / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Iridescent and Silver--tone) || Two-tone / Silver-Tone / 
-Two-tone (Light Grey and Rose Gold-tone) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Navy Blue and Black ) || Two-tone / Black-Tone / Blue / Navy / 
+Two-tone (Hot pink and Yellow) || Two-tone / Pink / Yellow / 
+Two-tone (Iridescent and Gold-tone) || Two-tone / Gold / 
+Two-tone (Iridescent and Silver--tone) || Two-tone / Silver / 
+Two-tone (Khaki-tone and Rose Gold-tone) || Two-tone / Khaki / Rose Gold / 
+Two-tone (Light Grey and Rose Gold-tone) || Two-tone / Grey / Rose Gold / 
+Two-tone (Navy Blue and Black ) || Two-tone / Black / Blue / Navy / 
 Two-tone (Navy and Maroon) || Two-tone / Brown / Navy / 
-Two-tone (Olive Green and Black) || Two-tone / Black-Tone / Green / 
-Two-tone (Olive and Black) || Two-tone / Black-Tone / Green / 
+Two-tone (Olive Green and Black) || Two-tone / Black / Green / 
+Two-tone (Olive and Black) || Two-tone / Black / Green / 
 Two-tone (Olive and Teal) || Two-tone / Blue / Green / 
-Two-tone (Orange  and Gold-tone) || Two-tone / Orange / Gold-Tone / 
+Two-tone (Orange  and Gold-tone) || Two-tone / Orange / Gold / 
 Two-tone (Orange and Grey) || Two-tone / Grey / Orange / 
 Two-tone (Orange and Pink) || Two-tone / Orange / Pink / 
-Two-tone (Orange and Silver-tone) || Two-tone / Orange / Silver-Tone / 
-Two-tone (Pink and Black) || Two-tone / Black-Tone / Pink / 
-Two-tone (Pink and Gold-tone) || Two-tone / Pink / Gold-Tone / 
-Two-tone (Pink Gold-tone and Red) || Two-tone / Rose Gold-Tone / Pink / Red / Gold-Tone / 
+Two-tone (Orange and Silver-tone) || Two-tone / Orange / Silver / 
+Two-tone (Pink Gold-tone and  Black) || Two-tone / Black / Rose Gold / 
+Two-tone (Pink Gold-tone and Red) || Two-tone / Rose Gold / Red / 
+Two-tone (Pink and Black) || Two-tone / Black / Pink / 
+Two-tone (Pink and Gold-tone) || Two-tone / Pink / Gold / 
 Two-tone (Pink and Green) || Two-tone / Green / Pink / 
-Two-tone (Pink Gold-tone and  Black) || Two-tone / Black-Tone / Rose Gold-Tone / Pink / Gold-Tone / 
 Two-tone (Pink and Grey) || Two-tone / Grey / Pink / 
 Two-tone (Pink and Gunmetal) || Two-tone / Grey / Pink / 
-Two-tone (Pink and Silver-tone) || Two-tone / Pink / Silver-Tone / 
+Two-tone (Pink and Silver-tone) || Two-tone / Pink / Silver / 
 Two-tone (Pink with White) || Two-tone / Pink / White / 
-Two-tone (Platinum-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
+Two-tone (Platinum-tone and Gold-tone) || Two-tone / Silver / Gold / 
 Two-tone (Powder Blue and Fuchsia) || Two-tone / Blue / Red / 
-Two-tone (Purple and Gold-tone) || Two-tone / Purple / Gold-Tone / 
+Two-tone (Purple and Gold-tone) || Two-tone / Purple / Gold / 
 Two-tone (Purple and Red) || Two-tone / Purple / Red / 
-Two-tone (Purple and Silver-tone) || Two-tone / Purple / Silver-Tone / 
-Two-tone (Purple and Yellow) || Two-tone / Purple / Yellow-Tone / 
-Two-tone (Red and Black) || Two-tone / Black-Tone / Red / 
+Two-tone (Purple and Silver-tone) || Two-tone / Purple / Silver / 
+Two-tone (Purple and Yellow) || Two-tone / Purple / Yellow / 
+Two-tone (Red and Black) || Two-tone / Black / Red / 
 Two-tone (Red and Blue) || Two-tone / Blue / Red / 
-Two-tone (Red and Gold-tone) || Two-tone / Red / Gold-Tone / 
-Two-tone (Red and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Red and Silver-tone) || Two-tone / Red / Silver-Tone / 
+Two-tone (Red and Gold-tone) || Two-tone / Red / Gold / 
+Two-tone (Red and Rose Gold-tone) || Two-tone / Rose Gold / Red / 
+Two-tone (Red and Silver-tone) || Two-tone / Red / Silver / 
 Two-tone (Red and White) || Two-tone / Red / White / 
-Two-tone (Red ans Silver-tone) || Two-tone / Red / Silver-Tone / 
-Two-tone (Rhodium-Plated) || Two-tone / Silver-Tone / 
-Two-tone (Rose Gold PVD and Grey-plated) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold PVD and Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Rose Gold and Black Ion-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold and Black PVD) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold and Pink) || Two-tone / Rose Gold-Tone / Pink / Red / Gold-Tone / 
-Two-tone (Rose Gold-Tone and Black) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-Tone and Gunmetal) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-plated and Black Textured) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Black) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Black-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Blue) || Two-tone / Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Brown) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Brown-plated) || Two-tone / Brown / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Gold-tone) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Gunmetal) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Olive) || Two-tone / Green / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Pink) || Two-tone / Rose Gold-Tone / Pink / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Rose) || Two-tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Rose Gold-tone and White) || Two-tone / Rose Gold-Tone / Red / White / Gold-Tone / 
-Two-tone (Rose Gold-tone ans Blue) || Two-tone / Blue / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone, Silver-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Rose and Silver-tone) || Two-tone / Red / Silver-Tone / 
-Two-tone (Siler and Black Ion-plated) || Two-tone / Black-Tone / 
-Two-tone (Silve and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silve-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silve-tone and Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver an d Rose gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Rose Gold-tone and Black Ion-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-tone and Beige) || Two-tone / Beige / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Rose Gold-plated and Black) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Silver and Yellow Gold PVD ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-Tone and Rose Gold-Tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver and Yellow Gold PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone  and Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-toe and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone  and Yellow Gold PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone & Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone & Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone & Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone  and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone Yellow Gold PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and  18k Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and  18kt Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and  23kt Yellow Gold-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and  Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and  Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 14k Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18K Gold-plated Stainless Steel & Swarvoski Crystal) || Two-tone / Grey / Silver-Tone / Gold-Tone / Crystal / 
-Two-tone (Silver-tone and 18k Yellow Gold || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18k Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold Ion-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold Ion-plated) St || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold CAP 200) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold Cap 200) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold Cap) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold-cap) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold-plated Stainless Stee) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold PVD ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold-plated ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 18kt Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 23k Rose-Gold) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 23kt Rose Gold-plated ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 23kt Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and 23kt Yellow Gold-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Beige) || Two-tone / Beige / Silver-Tone / 
-Two-tone (Silver-tone and 23kt Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Aqua Plating) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and 24kt Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Black IOn-plated) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black Ion-plated) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black Ion-plated ) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black PVD ) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black PVD) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black Spinel) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black Textured) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Black-plated) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and Blue Ion-plated ) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and Blue) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and Blue-plated) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and Bronze) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Silver-tone and Bronze-tone) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Silver-tone and Blue Ion-plated) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and Brown) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Silver-tone and Brwon) || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and Burgundy) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Silver-tone and Copper) || Two-tone / Brown / Silver-Tone / 
-Two-tone (Silver-tone and Cream) || Two-tone / Silver-Tone / White / 
-Two-tone (Silver-tone and Dark Blue-plated) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and Gold Ion-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Everose Gold) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold PVD ) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-Tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-plate) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-plated ) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-Tone PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-tone ) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-tone Crystal-set) || Two-tone / Silver-Tone / Gold-Tone / Crystal / 
-Two-tone (Silver-tone and Gold-tone PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Gold-tone) PVD || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Greay) || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and Gold-tone)n || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Grey Ion-plated) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Grey( || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Green) || Two-tone / Green / Silver-Tone / 
-Two-tone (Silver-tone and Grey-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Grey) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Grey PVD) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Gunmetal Ion-plated) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Gunmetal Ion-plated ) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Gunmetal) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Gunmetal-plated) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone and Orange) || Two-tone / Orange / Silver-Tone / 
-Two-tone (Silver-tone and PVD Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pale Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Perl) || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and Pink Gold PVD) || Two-tone / Rose Gold-Tone / Pink / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pink Gold) || Two-tone / Rose Gold-Tone / Pink / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pink Gold-tone ) || Two-tone / Rose Gold-Tone / Pink / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pink Gold-tone) || Two-tone / Rose Gold-Tone / Pink / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pink PVD) || Two-tone / Pink / Silver-Tone / 
-Two-tone (Silver-tone and Purple) || Two-tone / Purple / Silver-Tone / 
-Two-tone (Silver-tone and Rainbow Ion-plated) || Two-tone / Multi-color / Silver-Tone / 
-Two-tone (Silver-tone and Red) || Two-tone / Red / Silver-Tone / 
-Two-tone (Silver-tone and Roe Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Pink) || Two-tone / Pink / Silver-Tone / 
-Two-tone (Silver-tone and Rose  Gold PVD ) || Two-tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose  Gold-tone) || Two-tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Cap 200) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Cap 200 ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Cap) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Ion-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold PVD ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold PVD || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Plated 5N) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold Plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-Plated || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-Tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-cap) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-Tone PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-Plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-plated ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-tone || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-plated) ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-tone PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-tone ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose-Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rosegold-Tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rosr Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Titanium) || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and Titanium-tone) || Two-tone / Silver-Tone / 
-Two-tone (Silver-tone and White) || Two-tone / Silver-Tone / White / 
-Two-tone (Silver-tone and Yelliw Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yelllow Gold PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellopw Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold Ion-plated ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold Ion-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-tone Plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold Plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold PVD ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-Plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-plate) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-plated ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-plated) ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow PVD ) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (Silver-tone and Yellow PVD) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (Silver-tone and Rose gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow-Gold) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and black || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone and blue) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Silver-tone and gold-tone accents) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and with 23kt Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and yellow Gold-plated) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone and18kt Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and18kt Rose Gold Cap ) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone andGrey) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-tone andPink) || Two-tone / Pink / Silver-Tone / 
-Two-tone (Silver-tone andYellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Silver-tone or Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone with a Black-tone ) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Silver-tone) || Two-tone / Silver-Tone / 
-Two-tone (Silver-toner and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver-tone and Yellow) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (Silver-tone and Yellow old-plated) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (Silver-tone and Yellow Gold) ) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Siver and 18K Gold-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Siver and Gold Ion-plated) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Silver/Grey-tone) || Two-tone / Grey / Silver-Tone / 
-Two-tone (Silver-yone and Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Silver/Black Ion-plated) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Siver-tone and  Gold PVD) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Siver-tone and Black) || Two-tone / Black-Tone / Silver-Tone / 
-Two-tone (Siver-tone and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Stainless Steel with Rose Gold PVD plated) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Siver-tone and Yellow Gold-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Stainless Steel and 18kt Rose Gold PVD ) || Two-tone / Grey / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone (Siver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Stainless steel with Yellow Gold PVD) || Two-tone / Grey / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Titanium-tone  and Purple Ion-plated) || Two-tone / Purple / Silver-Tone / 
-Two-tone (Titanium-tone and Blue) || Two-tone / Blue / Silver-Tone / 
-Two-tone (Titanium-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (Titanium-tone and Purple Ion-plated) || Two-tone / Purple / Silver-Tone / 
-Two-tone (Titanium-tone and Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Titanium-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone (Titanium-tone and Shot-blast) || Two-tone / Silver-Tone / 
-Two-tone (Tortoise-shell and Gold-tone) || Two-tone / Gold-Tone / 
-Two-tone (Vlack and Gold-tone) || Two-tone / Gold-Tone / 
-Two-tone (White Gold-tone and Black) || Two-tone / Black-Tone / White Gold-Tone / White / Gold-Tone / 
-Two-tone (White and Black) || Two-tone / Black-Tone / White / 
+Two-tone (Red ans Silver-tone) || Two-tone / Red / Silver / 
+Two-tone (Rhodium-Plated) || Two-tone / Silver / 
+Two-tone (Rose Gold PVD and Grey-plated) || Two-tone / Grey / Rose Gold / 
+Two-tone (Rose Gold PVD and Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Rose Gold and Black Ion-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold and Black PVD) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold and Pink) || Two-tone / Rose Gold / Pink / 
+Two-tone (Rose Gold-Tone and Black) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-Tone and Gunmetal) || Two-tone / Grey / Rose Gold / 
+Two-tone (Rose Gold-plated and Black Textured) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-plated and Black) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-tone and Beige) || Two-tone / Beige / Rose Gold / 
+Two-tone (Rose Gold-tone and Black Ion-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-tone and Black) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-tone and Black-plated) || Two-tone / Black / Rose Gold / 
+Two-tone (Rose Gold-tone and Blue) || Two-tone / Blue / Rose Gold / 
+Two-tone (Rose Gold-tone and Brown) || Two-tone / Brown / Rose Gold / 
+Two-tone (Rose Gold-tone and Brown-plated) || Two-tone / Brown / Rose Gold / 
+Two-tone (Rose Gold-tone and Gold-tone) || Two-tone / Rose Gold / Gold / 
+Two-tone (Rose Gold-tone and Gunmetal) || Two-tone / Grey / Rose Gold / 
+Two-tone (Rose Gold-tone and Olive) || Two-tone / Green / Rose Gold / 
+Two-tone (Rose Gold-tone and Pink) || Two-tone / Rose Gold / Pink / 
+Two-tone (Rose Gold-tone and Rose) || Two-tone / Rose Gold / Red / 
+Two-tone (Rose Gold-tone and Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Rose Gold-tone and White) || Two-tone / Rose Gold / White / 
+Two-tone (Rose Gold-tone ans Blue) || Two-tone / Blue / Rose Gold / 
+Two-tone (Rose Gold-tone, Silver-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Rose and Silver-tone) || Two-tone / Red / Silver / 
+Two-tone (Siler and Black Ion-plated) || Two-tone / Black / 
+Two-tone (Silve and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silve-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silve-tone and Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver an d Rose gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver and Yellow Gold PVD ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver and Yellow Gold PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-Tone and Rose Gold-Tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-toe and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone  and Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone  and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone  and Yellow Gold PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone & Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone & Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone & Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone Yellow Gold PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and || Two-tone / Silver / 
+Two-tone (Silver-tone and  18k Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and  18kt Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and  23kt Yellow Gold-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and  Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and  Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 14k Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18K Gold-plated Stainless Steel & Swarvoski Crystal) || Two-tone / Grey / Silver / Gold / Crystal / 
+Two-tone (Silver-tone and 18k Yellow Gold || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18k Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Gold Ion-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Gold Ion-plated) St || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Gold PVD) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Gold) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 18kt Rose Gold CAP 200) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold Cap 200) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold Cap) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold-cap) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold-plated Stainless Stee) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 18kt Yellow Gold Gold-tone) || Two-tone / Silver / Yellow Gold / Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold PVD ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold-plated ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 18kt yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 23k Rose-Gold) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 23kt Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and 23kt Rose Gold-plated ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 23kt Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and 23kt Yellow Gold-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and 24kt Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Aqua Plating) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Beige) || Two-tone / Beige / Silver / 
+Two-tone (Silver-tone and Black IOn-plated) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black Ion-plated ) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black Ion-plated) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black PVD ) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black PVD) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black Spinel) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black Textured) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Black-plated) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and Blue Ion-plated ) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Blue Ion-plated) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Blue) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Blue-plated) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Bronze) || Two-tone / Brown / Silver / 
+Two-tone (Silver-tone and Bronze-tone) || Two-tone / Brown / Silver / 
+Two-tone (Silver-tone and Brown) || Two-tone / Brown / Silver / 
+Two-tone (Silver-tone and Brwon) || Two-tone / Silver / 
+Two-tone (Silver-tone and Burgundy) || Two-tone / Brown / Silver / 
+Two-tone (Silver-tone and Copper) || Two-tone / Brown / Silver / 
+Two-tone (Silver-tone and Cream) || Two-tone / Silver / White / 
+Two-tone (Silver-tone and Dark Blue-plated) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and Everose Gold) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Gold Ion-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold PVD ) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold PVD) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-Tone PVD) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-Tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-plate) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-plated ) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-tone ) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-tone Crystal-set) || Two-tone / Silver / Gold / Crystal / 
+Two-tone (Silver-tone and Gold-tone PVD) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-tone) PVD || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Gold-tone)n || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Greay) || Two-tone / Silver / 
+Two-tone (Silver-tone and Green) || Two-tone / Green / Silver / 
+Two-tone (Silver-tone and Grey Ion-plated) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Grey PVD) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Grey( || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Grey) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Grey-tone) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Gunmetal Ion-plated ) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Gunmetal Ion-plated) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Gunmetal) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Gunmetal-plated) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone and Orange) || Two-tone / Orange / Silver / 
+Two-tone (Silver-tone and PVD Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Pale Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Perl) || Two-tone / Silver / 
+Two-tone (Silver-tone and Pink Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Pink Gold) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Pink Gold-tone ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Pink Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Pink PVD) || Two-tone / Pink / Silver / 
+Two-tone (Silver-tone and Pink) || Two-tone / Pink / Silver / 
+Two-tone (Silver-tone and Purple) || Two-tone / Purple / Silver / 
+Two-tone (Silver-tone and Rainbow Ion-plated) || Two-tone / Multi-color / Silver / 
+Two-tone (Silver-tone and Red) || Two-tone / Red / Silver / 
+Two-tone (Silver-tone and Roe Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Rose  Gold PVD ) || Two-tone / Red / Silver / Gold / 
+Two-tone (Silver-tone and Rose  Gold-tone) || Two-tone / Red / Silver / Gold / 
+Two-tone (Silver-tone and Rose Gold Cap 200 ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold Cap 200) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold Cap) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold Ion-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold PVD || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold PVD ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold Plated 5N) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold Plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-Plated || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-Plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-Tone PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-Tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-cap) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-plated ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-plated) ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-tone || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-tone ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-tone PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-tone Plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rose-Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rosegold-Tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone and Rosr Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Titanium) || Two-tone / Silver / 
+Two-tone (Silver-tone and Titanium-tone) || Two-tone / Silver / 
+Two-tone (Silver-tone and White) || Two-tone / Silver / White / 
+Two-tone (Silver-tone and Yelliw Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Yelllow Gold PVD) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Yellopw Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and Yellow Gold Ion-plated ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold Ion-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold PVD ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold Plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold) ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-Plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-plate) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-plated ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-plated) ) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and Yellow PVD ) || Two-tone / Silver / Yellow / 
+Two-tone (Silver-tone and Yellow PVD) || Two-tone / Silver / Yellow / 
+Two-tone (Silver-tone and Yellow old-plated) || Two-tone / Silver / Yellow / 
+Two-tone (Silver-tone and Yellow) || Two-tone / Silver / Yellow / 
+Two-tone (Silver-tone and Yellow-Gold) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and black || Two-tone / Black / Silver / 
+Two-tone (Silver-tone and blue) || Two-tone / Blue / Silver / 
+Two-tone (Silver-tone and gold-tone accents) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and with 23kt Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and yellow Gold-plated) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone and18kt Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone and18kt Rose Gold Cap ) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver-tone andGrey) || Two-tone / Grey / Silver / 
+Two-tone (Silver-tone andPink) || Two-tone / Pink / Silver / 
+Two-tone (Silver-tone andYellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Silver-tone or Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-tone with a Black-tone ) || Two-tone / Black / Silver / 
+Two-tone (Silver-tone) || Two-tone / Silver / 
+Two-tone (Silver-toner and Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Silver-yone and Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Silver/Black Ion-plated) || Two-tone / Black / Silver / 
+Two-tone (Silver/Grey-tone) || Two-tone / Grey / Silver / 
+Two-tone (Siver and 18K Gold-plated) || Two-tone / Silver / Gold / 
+Two-tone (Siver and Gold Ion-plated) || Two-tone / Silver / Gold / 
+Two-tone (Siver-tone and  Gold PVD) || Two-tone / Silver / Gold / 
+Two-tone (Siver-tone and Black) || Two-tone / Black / Silver / 
+Two-tone (Siver-tone and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone (Siver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Siver-tone and Yellow Gold-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Stainless Steel and 18kt Rose Gold PVD ) || Two-tone / Grey / Rose Gold / 
+Two-tone (Stainless Steel with Rose Gold PVD plated) || Two-tone / Grey / Rose Gold / 
+Two-tone (Stainless steel with Yellow Gold PVD) || Two-tone / Grey / Yellow Gold / 
+Two-tone (Titanium-tone  and Purple Ion-plated) || Two-tone / Purple / Silver / 
+Two-tone (Titanium-tone and Blue) || Two-tone / Blue / Silver / 
+Two-tone (Titanium-tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (Titanium-tone and Purple Ion-plated) || Two-tone / Purple / Silver / 
+Two-tone (Titanium-tone and Rose Gold-plated) || Two-tone / Rose Gold / Silver / 
+Two-tone (Titanium-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone (Titanium-tone and Shot-blast) || Two-tone / Silver / 
+Two-tone (Tortoise-shell and Gold-tone) || Two-tone / Gold / 
+Two-tone (Vlack and Gold-tone) || Two-tone / Gold / 
+Two-tone (White Gold-tone and Black) || Two-tone / Black / White Gold / 
+Two-tone (White and Black) || Two-tone / Black / White / 
 Two-tone (White and Blue || Two-tone / Blue / White / 
-Two-tone (White and Gold-Plated) || Two-tone / White / Gold-Tone / 
-Two-tone (White and Brown) || Two-tone / Brown / White / 
-Two-tone (White and Gold Ion-plated) || Two-tone / White / Gold-Tone / 
 Two-tone (White and Blue) || Two-tone / Blue / White / 
-Two-tone (White and Gold-tone) || Two-tone / White / Gold-Tone / 
+Two-tone (White and Brown) || Two-tone / Brown / White / 
+Two-tone (White and Gold Ion-plated) || Two-tone / White / Gold / 
+Two-tone (White and Gold-Plated) || Two-tone / White / Gold / 
+Two-tone (White and Gold-tone) || Two-tone / White / Gold / 
 Two-tone (White and Green) || Two-tone / Green / White / 
 Two-tone (White and Grey) || Two-tone / Grey / White / 
-Two-tone (White and Iridescent) || Two-tone / White / 
 Two-tone (White and Gunmetal) || Two-tone / Grey / White / 
+Two-tone (White and Iridescent) || Two-tone / White / 
 Two-tone (White and Light Blue) || Two-tone / Blue / White / 
-Two-tone (White and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / White / Gold-Tone / 
-Two-tone (White and Silver-tone) || Two-tone / Silver-Tone / White / 
-Two-tone (White and Yellow) || Two-tone / White / Yellow-Tone / 
-Two-tone (White and Yellow Gold PVD) || Two-tone / White / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold PVD and Black) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold Ion-plated and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
 Two-tone (White and Purple) || Two-tone / Purple / White / 
-Two-tone (Yellow Gold PVD and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Black PVD) ) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold and Silver PVD) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Rose Gold-plated) || Two-tone / Rose Gold-Tone / Red / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Dark Blue) || Two-tone / Blue / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Rose-gold Plated) || Two-tone / Rose Gold-Tone / Red / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold Plated and Black Spinel) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and Silver) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated) || Two-tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-plated and White) || Two-tone / White / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Black) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Black-plated) || Two-tone / Black-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Blue) || Two-tone / Blue / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Gunmetal-plated) || Two-tone / Grey / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone and White Gold-tone) || Two-tone / White Gold-Tone / White / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow Gold-tone) and Silver-tone) || Two-tone / Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow and Black) || Two-tone / Black-Tone / Yellow-Tone / 
-Two-tone (Yellow Gold-tone and Blue-plated) || Two-tone / Blue / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Yellow-Tone / Gold-Tone / 
-Two-tone (Yellow and Silver-Tone) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (Yellow and Silver-tone) || Two-tone / Silver-Tone / Yellow-Tone / 
-Two-tone (black and gold-tone) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone (blue and black) || Two-tone / Black-Tone / Blue / 
-Two-tone (Yellow and White) || Two-tone / White / Yellow-Tone / 
-Two-tone (silver-tone and gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone (silver-tone and rose gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone Platinum-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-tone Rose Gold-Tone and Green) || Two-tone / Green / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone Silver-tone and Grrey || Two-tone / Silver-Tone / 
-Two-tone Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-tone(Black and Rose Gold-plated) || Two-tone / Black-Tone / Rose Gold-Tone / Red / Gold-Tone / 
-Two-tone(Gold and Black) || Two-tone / Black-Tone / Gold-Tone / 
-Two-tone(Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-toned  (Silver-tone and Gold-tone) || Two-tone / Silver-Tone / Gold-Tone / 
-Two-toned Gold and Silver || Two-tone / Silver-Tone / Gold-Tone / 
-Two-toner (Silver and Rose Gold PVD || Two-tone / Rose Gold-Tone / Red / Silver-Tone / Gold-Tone / 
-Two-toned(Gold-tone,Silver-tone) || Two-tone / Silver-Tone / Gold-Tone / 
+Two-tone (White and Rose Gold-tone) || Two-tone / Rose Gold / White / 
+Two-tone (White and Silver-tone) || Two-tone / Silver / White / 
+Two-tone (White and Yellow Gold PVD) || Two-tone / White / Yellow Gold / 
+Two-tone (White and Yellow) || Two-tone / White / Yellow / 
+Two-tone (Yellow Gold Ion-plated and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold PVD and Black) || Two-tone / Black / Yellow Gold / 
+Two-tone (Yellow Gold PVD and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold Plated and Black Spinel) || Two-tone / Black / Yellow Gold / 
+Two-tone (Yellow Gold and Silver PVD) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Black PVD) ) || Two-tone / Black / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Dark Blue) || Two-tone / Blue / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Rose Gold-plated) || Two-tone / Rose Gold / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Rose-gold Plated) || Two-tone / Rose Gold / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Silver) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold-plated and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold-plated and White) || Two-tone / White / Yellow Gold / 
+Two-tone (Yellow Gold-plated) || Two-tone / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Black) || Two-tone / Black / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Black-plated) || Two-tone / Black / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Blue) || Two-tone / Blue / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Blue-plated) || Two-tone / Blue / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Gunmetal-plated) || Two-tone / Grey / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Rose Gold-tone) || Two-tone / Rose Gold / Yellow Gold / 
+Two-tone (Yellow Gold-tone and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow Gold-tone and White Gold-tone) || Two-tone / White Gold / Yellow Gold / 
+Two-tone (Yellow Gold-tone) and Silver-tone) || Two-tone / Silver / Yellow Gold / 
+Two-tone (Yellow and Black) || Two-tone / Black / Yellow / 
+Two-tone (Yellow and Rose Gold-tone) || Two-tone / Rose Gold / Yellow / 
+Two-tone (Yellow and Silver-Tone) || Two-tone / Silver / Yellow / 
+Two-tone (Yellow and Silver-tone) || Two-tone / Silver / Yellow / 
+Two-tone (Yellow and White) || Two-tone / White / Yellow / 
+Two-tone (black and gold-tone) || Two-tone / Black / Gold / 
+Two-tone (blue and black) || Two-tone / Black / Blue / 
+Two-tone (silver-tone and gold-tone) || Two-tone / Silver / Gold / 
+Two-tone (silver-tone and rose gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-tone Platinum-tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two-tone Rose Gold-Tone and Green) || Two-tone / Green / Rose Gold / 
+Two-tone Silver-tone and Grrey || Two-tone / Silver / 
+Two-tone Silver-tone and Rose Gold PVD) || Two-tone / Rose Gold / Silver / 
+Two-tone(Black and Rose Gold-plated) || Two-tone / Black / Rose Gold / 
+Two-tone(Gold and Black) || Two-tone / Black / Gold / 
+Two-tone(Silver-tone and Rose Gold-tone) || Two-tone / Rose Gold / Silver / 
+Two-toned  (Silver-tone and Gold-tone) || Two-tone / Silver / Gold / 
+Two-toned Gold and Silver || Two-tone / Silver / Gold / 
+Two-toned(Gold-tone,Silver-tone) || Two-tone / Silver / Gold / 
+Two-toner (Silver and Rose Gold PVD || Two-tone / Rose Gold / Silver / 
 Two-tones || Two-tone / 
-Two-tonr (Silver-tone and Gold-tone) || Silver-Tone / Gold-Tone / 
+Two-tonr (Silver-tone and Gold-tone) || Silver / Gold / 
 Umber || 
 Vachetta || 
 Vanilla || White / 
 Vintage Brown || Brown / 
 Vintage Camel || 
-Volcano Black || Black / 
 Violet || Purple / 
+Volcano Black || Black / 
 Walsh Blue Ion-plated || Blue / 
 Warm Grey || Grey / 
 Warm Taupe || Grey / 
@@ -2217,21 +2217,21 @@ White (Black Back) || Black / White /
 White (Blue Backed) || Blue / White / 
 White (Dalmation Print) || White / 
 White (MK Logo Print) || White / 
-White (Multicolored Polka Dot) || Multi-color / White / 
 White (Multi-colored Hearts) || Multi-color / White / 
+White (Multicolored Polka Dot) || Multi-color / White / 
 White (Multicolored) || Multi-color / White / 
 White (Star Motif) || White / 
 White / Pink || Pink / White / 
 White 1 || White / 
 White Blue and Red || Blue / Red / White / 
-White Gold || White Gold / White / Gold / 
-White Gold-tone || White Gold-Tone / White / Gold-Tone / 
-White Gold-tone, Blue, Pink || Blue / Pink / White Gold-Tone / White / Gold-Tone / 
-White Gold-tone, Yellow, Pink || Pink / White Gold-Tone / White / Yellow-Tone / Gold-Tone / 
+White Gold || White Gold / 
+White Gold-tone || White Gold / 
+White Gold-tone, Blue, Pink || Blue / Pink / White Gold / 
+White Gold-tone, Yellow, Pink || Pink / White Gold / Yellow / 
 White Ocean Racer II || White / 
+White Pokka-Dot || White / 
 White TRanslucent || White / 
 White Translucent || White / 
-White Pokka-Dot || White / 
 White Transparent || Transparent / White / 
 White and Aqua Plating and Gold || Blue / White / Gold / 
 White and Beige || Beige / White / 
@@ -2239,11 +2239,11 @@ White and Black || Black / White /
 White and Black (Abstract Pint) || Black / White / 
 White and Blue || Blue / White / 
 White and Blue Floral || Blue / White / 
+White and Blue Stripe || Blue / White / 
 White and Blue Striped || Blue / White / 
 White and Fuchsia || Red / White / 
 White and Gold || White / Gold / 
-White and Blue Stripe || Blue / White / 
-White and Gold-tone || White / Gold-Tone / 
+White and Gold-tone || White / Gold / 
 White and Green || Green / White / 
 White and Green Leaves Pattern || Green / White / 
 White and Grey || Grey / White / 
@@ -2251,33 +2251,36 @@ White and Orange || Orange / White /
 White and Pink || Pink / White / 
 White and Pink Floral || Pink / White / 
 White and Red || Red / White / 
-White and Rose Gold and Silver-tone || Rose Gold-Tone / Red / Silver-Tone / White / Gold-Tone / 
-White and Rose Gold-tone || Rose Gold-Tone / Red / White / Gold-Tone / 
+White and Rose Gold and Silver-tone || Rose Gold / Silver / White / 
+White and Rose Gold-tone || Rose Gold / White / 
 White and Silver || Silver / White / 
-White and Silver-tone || Silver-Tone / White / 
+White and Silver-tone || Silver / White / 
 White and Turquoise || Blue / White / 
-White gold r || White Gold / White / Gold / 
 White and Yellow || White / Yellow / 
+White gold r || White Gold / 
 White with Blue Flowers || Blue / White / 
 White with Floral Design || White / 
 White with multi-color design || Multi-color / White / 
-White, Black, and Blue || Black / Blue / White / 
 White, Black and Yellow || Black / White / Yellow / 
+White, Black, and Blue || Black / Blue / White / 
+White, Blue || Blue / White / 
 White, Blue, Red || Blue / Red / White / 
 White, Blue, Yellow, Green || Blue / Green / White / Yellow / 
-White, Blue || Blue / White / 
 White, Blue, and Pink || Blue / Pink / White / 
 White, Dark Blue and Red || Blue / Red / White / 
 White, Green and Red || Green / Red / White / 
+White, Green, Red || Green / Red / White / 
 White, Grey || Grey / White / 
 White, Navy and Blue || Blue / Navy / White / 
-White, Green, Red || Green / Red / White / 
+White, Red and Blue || Blue / Red / White / 
 White, Red and Green || Green / Red / White / 
 White, Red and Navy Stripe || Navy / Red / White / 
-White, Red and Blue || Blue / Red / White / 
 White, Red and Pink || Pink / Red / White / 
 White, Red and Silver || Red / Silver / White / 
 White, Red, Blue || Blue / Red / White / 
+White, Red, and Green || Green / Red / White / 
+White, Red, and Navy || Navy / Red / White / 
+White, purple, and navy blue || Blue / Navy / Purple / White / 
 White- Purple || Purple / White / 
 White/Black || Black / White / 
 White/Floral Design || White / 
@@ -2285,73 +2288,70 @@ White/Grey || Grey / White /
 White/Magenta || White / 
 White/Red/Blue || Blue / Red / White / 
 Whtie || White / 
-White, Red, and Green || Green / Red / White / 
-White, Red, and Navy || Navy / Red / White / 
+Wine || Champagne / 
+Wine Ion-plated || Champagne / 
 Wine Red || Champagne / Red / 
 Yellow || Yellow / 
 Yellow (Transparent) || Transparent / Yellow / 
-Yellow Gold || Yellow Gold / Yellow / Gold / 
-Yellow Gold CVD || Yellow Gold / Yellow / Gold / 
-Yellow Gold CVD and Black CDV || Black / Yellow Gold / Yellow / Gold / 
-Wine || Champagne / 
-Yellow Gold PVD || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-Yellow Gold PVD (CVD) || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-Yellow Gold PVD Coated || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-Yellow Gold PVD Coated and Ceramos || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-White, purple, and navy blue || Blue / Navy / Purple / White / 
-Yellow Gold Ion-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Wine Ion-plated || Champagne / 
-Yellow Gold Tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold and Triple Diamond Set || Diamond-paved / Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Yellow Gold- tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold--plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Yellow Gold PVD coating || Yellow Gold PVD / Yellow Gold / Yellow / Gold PVD / 
-Yellow Gold-lated || Yellow Gold / Yellow / Gold / 
-Yellow Gold-Plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Yellow Gold-Tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold ion-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Yellow Gold-plated || Yellow Gold-Plated / Yellow Gold / Yellow / Gold-Plated / 
-Yellow Gold-tone Ion-Plated || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold-tone 1 || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold-tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold-tone with || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold-tone/Silver-tone || Silver-Tone / Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold-tone PVD || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
-Yellow Gold/Stainless Steel || Grey / Yellow Gold / Yellow / Gold / 
+Yellow Gold || Yellow Gold / 
+Yellow Gold CVD || Yellow Gold / 
+Yellow Gold CVD and Black CDV || Black / Yellow Gold / 
+Yellow Gold Ion-plated || Yellow Gold / 
+Yellow Gold PVD || Yellow Gold / 
+Yellow Gold PVD (CVD) || Yellow Gold / 
+Yellow Gold PVD Coated || Yellow Gold / 
+Yellow Gold PVD Coated and Ceramos || Yellow Gold / 
+Yellow Gold PVD coating || Yellow Gold / 
+Yellow Gold Tone || Yellow Gold / 
+Yellow Gold and Triple Diamond Set || Diamond-paved / Yellow Gold / 
+Yellow Gold ion-plated || Yellow Gold / 
+Yellow Gold- tone || Yellow Gold / 
+Yellow Gold--plated || Yellow Gold / 
+Yellow Gold-Plated || Yellow Gold / 
+Yellow Gold-Tone || Yellow Gold / 
+Yellow Gold-lated || Yellow Gold / 
+Yellow Gold-plated || Yellow Gold / 
+Yellow Gold-tone || Yellow Gold / 
+Yellow Gold-tone 1 || Yellow Gold / 
+Yellow Gold-tone Ion-Plated || Yellow Gold / 
+Yellow Gold-tone PVD || Yellow Gold / 
+Yellow Gold-tone with || Yellow Gold / 
+Yellow Gold-tone/Silver-tone || Silver / Yellow Gold / 
+Yellow Gold/Stainless Steel || Grey / Yellow Gold / 
 Yellow Gummy || Yellow / 
 Yellow Polka Dot || Yellow / 
 Yellow Translucent || Yellow / 
 Yellow and Black || Black / Yellow / 
 Yellow and Orange || Orange / Yellow / 
 Yellow and Purple || Purple / Yellow / 
-Yellow and White || White / Yellow / 
 Yellow and Red || Red / Yellow / 
-Yellow gold and silver || Silver / Yellow Gold / Yellow / Gold / 
-Yellow-gold tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+Yellow and White || White / Yellow / 
+Yellow gold and silver || Silver / Yellow Gold / 
 Yellow, Red, Blue, White, Green || Blue / Green / Red / White / Yellow / 
+Yellow-gold tone || Yellow Gold / 
 Yellwo Polka Dot || 
-Yeloow Gold-plated || Gold-Plated / 
-Yelow Gold PVD || Gold PVD / 
+Yeloow Gold-plated || Gold / 
+Yelow Gold PVD || Gold / 
 Zebra || 
-Zebra-Patterned || 
-Zebra Stripe || 
 Zebra Print || 
+Zebra Stripe || 
+Zebra-Patterned || 
 beige || Beige / 
 blue and pink || Blue / Pink / 
 cactus-green || Green / 
 d-tone || 
+green || Green / 
 green, red, orange, cream, black, purple or navy || Black / Green / Navy / Orange / Purple / Red / White / 
 ivory || White / 
-green || Green / 
 light pink || Pink / 
 light, blue, dark blue and black horizontal stripes || Black / Blue / 
 navy and purple || Navy / Purple / 
 navy and red || Navy / Red / 
 navy blue || Blue / Navy / 
 orange || Orange / 
-pink and orange || Orange / Pink / 
 pink || Pink / 
-two-tone (Black Ion-plated and Silver-tone) || Two-tone / Black-Tone / Silver-Tone / 
-white || White / 
-yellow Gold-tone || Yellow Gold-Tone / Yellow Gold / Yellow-Tone / Gold-Tone / 
+pink and orange || Orange / Pink / 
 tan || Brown / 
+two-tone (Black Ion-plated and Silver-tone) || Two-tone / Black / Silver / 
+white || White / 
+yellow Gold-tone || Yellow Gold / 

@@ -1,1 +1,1 @@
-/Users/lcchai/projects/WORK/synopsis-scraper/src/utils/mapper.ts
+/Users/lcchai/Work/projects/synopsis/synopsis-scraper/src/utils/mapper.ts
