@@ -1,6 +1,13 @@
 const { MessageStation } = require("@cosmos/utils");
 
 (async function () {
+    const mq = [
+	{ route: 'crawler',		queue: 'scraper-crawler',	skip: false },
+	{ route: 'collector',		queue: 'scraper-collector',	skip: true },
+	{ route: 'origin',		queue: 'scraper-origin',	skip: false },
+	{ route: 'scrape.data.raw',	queue: 'scraper-distiller',	skip: false },
+	{ route: 'scrape.data.raw',	queue: 'scraper-info',		skip: false },
+    ];
     const station = await MessageStation
         .connect({
             host: "mq.ieplsg.com",
@@ -11,8 +18,8 @@ const { MessageStation } = require("@cosmos/utils");
     const client = await station.createClient({
         exchange: 'scraper',
         exType: 'topic',
-        route: 'scrape.data.raw',
-        queue: 'scraper-distiller',
+        route: mq[0].route,
+        queue: mq[0].queue,
         timeout: 900000,
         handler: async message => {
             const { correlationId, replyTo } = message.properties;

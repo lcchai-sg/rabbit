@@ -119,6 +119,7 @@ Black (Yellow Backed)
 Black (Yellow Stripe)
 Black / Blue
 Black / Grey
+Black 1
 Black Blue
 Black Brown
 Black Carbon Motif
@@ -344,7 +345,6 @@ Blue and Cream Sriped
 Blue and Gold
 Blue and Green Stripe
 Blue and Green Striped
-Blue and Grey
 Blue and Light Blue
 Blue and Navy
 Blue and Pink
@@ -461,7 +461,6 @@ Brown Shimmer
 Brown Terracotta
 Brown White and Orange
 Brown Woven
-Brown and Black
 Brown and Cream Sriped
 Brown and Green
 Brown and Ivory (Python-pattern)
@@ -638,6 +637,7 @@ Gold Transparent (Glitter)
 Gold and Black
 Gold and Blue
 Gold and Bronze
+Gold and Charcoal
 Gold and Dark Blue
 Gold and Green
 Gold and Gunmetal
@@ -793,7 +793,6 @@ Grey Sfumato
 Grey Striped
 Grey Textured
 Grey Transparent
-Grey With Anthracite Matte Back Lining
 Grey and  Orange Striped
 Grey and Beige
 Grey and Beige Stripe
@@ -907,6 +906,7 @@ Light Beige
 Light Blue
 Light Blue Ion-plated
 Light Blue and Dark Blue
+Light Blue-plated
 Light Bronze
 Light Brown
 Light Brown, Green, Red and White
@@ -1014,6 +1014,7 @@ Mocha
 Mocha Brown
 Moon Stone
 Moro
+Mosaic Woven
 Mother of Pearl and Gold-tone
 Mulberry Brass
 Mulitcolor
@@ -1154,7 +1155,7 @@ Pale Pink
 Pale Rose Gold
 Pale Rose Gold Ion-plated
 Pale Rose Gold PVD
-Pale Rose Gold-tone
+Pale Rose Gold-plated
 Pale Yellow Gold and Beige
 Pale Yellow Gold-tone
 Panther Pattern
@@ -1345,6 +1346,7 @@ Rose Gold and Black
 Rose Gold and Black and Brown
 Rose Gold and Blue
 Rose Gold and Brown
+Rose Gold and Gunmetal
 Rose Gold and Light Blue
 Rose Gold and Shot-blast
 Rose Gold and Titanium
@@ -1459,7 +1461,6 @@ Silver-tone and Aqua Plating
 Silver-tone and Black
 Silver-tone and Black Ion-plated
 Silver-tone and Black and Blue and Red
-Silver-tone and Black and Blue and Red and Yellow
 Silver-tone and Black and Dark Blue
 Silver-tone and Black and Red
 Silver-tone and Blue
@@ -1588,6 +1589,7 @@ Tri-Color
 Tri-Color (Silver-tone, Gold-tone, Rose Gold-tone)
 Tri-Color (Silver-tone, Yellow Gold-tone and Rose Gold-tone)
 Tri-Colored (Silver-tone, Rose Gold-tone and Yellow Gold-tone)
+Tri-Colored Stripe
 Tri-Tone (Silver-tone, Gold tone and Rose Gold-tone)
 Tri-color (Black, Green and Red)
 Tri-color (Silver-tone and Yellow Gold-tone, Rose Gold-tone)
@@ -1821,6 +1823,7 @@ Two-tone (Green and Black)
 Two-tone (Green and Burgundy)
 Two-tone (Green and Cream)
 Two-tone (Green and Gold-tone)
+Two-tone (Green and Orange)
 Two-tone (Green and Red)
 Two-tone (Green and Silver-tone)
 Two-tone (Green and White)
@@ -1841,6 +1844,7 @@ Two-tone (Grey and Silve-tone)
 Two-tone (Grey and Silver-tone)
 Two-tone (Grey and Titanium)
 Two-tone (Grey and White)
+Two-tone (Grey and Yellow Gold-tone)
 Two-tone (Grey and Yellow)
 Two-tone (Grey, Rose Gold-tone)
 Two-tone (Grey-plated and Antique Silver-tone)
@@ -2101,7 +2105,6 @@ Two-tone (Silver-tone and Yellow PVD)
 Two-tone (Silver-tone and Yellow old-plated)
 Two-tone (Silver-tone and Yellow)
 Two-tone (Silver-tone and Yellow-Gold)
-Two-tone (Silver-tone and black
 Two-tone (Silver-tone and blue)
 Two-tone (Silver-tone and gold-tone accents)
 Two-tone (Silver-tone and gold-tone)
@@ -2210,6 +2213,7 @@ Volcano Black
 Walsh Blue Ion-plated
 Warm Grey
 Warm Taupe
+Watercolor
 Wheat
 Whire, Red and Blue
 White
