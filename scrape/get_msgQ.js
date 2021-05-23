@@ -18,8 +18,13 @@ const { MessageStation } = require("@cosmos/utils");
     const client = await station.createClient({
         exchange: 'scraper',
         exType: 'topic',
+<<<<<<< HEAD
         route: mq[0].route,
         queue: mq[0].queue,
+=======
+        route: 'crawler',
+        queue: 'scraper-crawler',
+>>>>>>> e3dc123aaa1f464a4fa8cefd7fb4a3a6a618df07
         timeout: 900000,
         handler: async message => {
             const { correlationId, replyTo } = message.properties;
