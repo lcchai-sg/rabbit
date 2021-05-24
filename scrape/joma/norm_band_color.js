@@ -2,7 +2,7 @@ const { Mappers } = require('./index');
 const fs = require('fs').promises;
 
 (async () => {
-    const inp = await fs.readFile("joma_band_color");
+    const inp = await fs.readFile("j_band_color");
     const u = inp.toString().split('\n');
     const no_match = [];
 
