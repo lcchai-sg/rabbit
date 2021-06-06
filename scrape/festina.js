@@ -31,7 +31,7 @@ const indexing = async (context) => {
         for (const cat of cats) {
             let next = cat.url;
             do {
-                logger.debug(next);
+                console.debug(next);
                 const { data } = await client.get(next);
                 const $ = cheerio.load(data);
                 $('script[type="application/ld+json"]').each((idx, el) => {
@@ -39,7 +39,7 @@ const indexing = async (context) => {
                     if (j['@type'] === 'ItemList') {
                         const il = j['itemListElement'];
                         for (let i = 0; i < il.length; i++) {
-                            const url = il[i].item.url.replace('https://festina.com', 'https://festina.com/en-GB');
+                            // const url = il[i].item.url.replace('https://festina.com', 'https://festina.com/en-GB');
                             const name = il[i].item.name;
                             const reference = il[i].item.sku;
                             const thumbnail = il[i].item.image;
