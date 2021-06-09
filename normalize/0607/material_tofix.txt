@@ -1,0 +1,335 @@
+material|Gunmetal Alloy|Stainless Steel|REMOVE
+material|Silicone (Polyurethane) with Gold-tone Barrel Inse|Polyurethane|REMOVE
+material|Silicone with a Polyurethane Nylon|Polyurethane|REMOVE
+material|Navy leather pattern polyurethane|Leather|REMOVE
+material|Two-tone (Silver and Black) Silicone|Silver|REMOVE
+material|Gun-metal Ion-plated Stainless Steel|Base Metal|REMOVE
+material|18kt Rose Gold with Lateral White Composite Resin|Composite|REMOVE
+material|Gold Stainless Steel|Gold|REMOVE
+material|Two-tone Stainless steel (silver-tone and gold-ton|Gold|REMOVE
+material|Pink Rubber and extra crystal clear strap|Crystal|REMOVE
+material|Titanium and White Gold|Titanium and White Gold|REMOVE
+material|18kt Yellow Gold Steel|Yellow Gold|REMOVE
+material|White (leather pattern) Polyurethane|Leather|REMOVE
+material|Platinum Tone Ceramic with Gold-tone Trim|Platinum|REMOVE
+material|"Base metal, two-tone silver and rose"|Silver|REMOVE
+material|"Base metal, two-tone silver and black"|Silver|REMOVE
+material|Nylon Mesh Velco|Stainless Steel|REMOVE
+material|Rose Gold- Ion-plated Stainless Steel|Rose Gold-plated|UPDATE
+material|Vintaged Bronze-tone  Stainless Steel|Bronze|REMOVE
+material|Two-tone (Silver and Rose Gold-tone) Base Metal|Silver|REMOVE
+material|Grey/Silver Ceramic|Silver|REMOVE
+material|Two-tone Stainless Steel (Steel and 18K Rose gold)|Rose Gold|REMOVE
+material|Satinless Steel|Satin|REMOVE
+material|Platinum-tone Ceramic with Gold trim|Platinum|REMOVE
+material|Rose Gold- tone Stainless Steel|Rose Gold|REMOVE
+material|Carbon and Titanium Composite|Composite|REMOVE
+material|Gold- Tone Stainless Steel|Gold|REMOVE
+material|Stainless Steel and 18kt Yelow Gold|GOLD|Yellow Gold|UPDATE
+material|Carbon-effect Calfskin|Carbon|REMOVE
+material|Nato Leather|Fabric|REMOVE
+material|Ros eGold-plated Stainless Steel|Gold-plated|Rose Gold-plated|UPDATE
+material|Black (Carbon fiber Design) Leather|Carbon Fiber|REMOVE
+material|Stainless Steel; PVD Gold|Gold|REMOVE
+material|Tortoise-shel Acetate and Gold-lone Stainless Stee|Gold|REMOVE
+material|Black Polyurethane with Silver Plastic|Silver|REMOVE
+material|Two-tone (Gold and Silver-tone) Base metal|Gold|REMOVE
+material|Stainless Steel; PVD Rose Gold|Rose Gold|REMOVE
+material|Glass Fiber Composite|Composite|REMOVE
+material|Glass Fiber Composite|Fibe|Glass Fiber|UPDATE
+material|Steel Coated Titanium Carbide|Titanium|REMOVE
+material|"Metal Alloy, Enamel"|Base Metal|REMOVE
+material|Two-tone (Black/Gold) PVD Stainless Steel|Gold|REMOVE
+material|(Snake-embossed) Silicone|Leather|REMOVE
+material|Gold -tone Stainless Steel|Gold|REMOVE
+material|Two-tone (Stainless Steel and 18kt Gold)|Gold|REMOVE
+material|Composite metal|Base Metal|REMOVE
+material|Two-tone (Silver and Gold-tone) Alloy|Silver|REMOVE
+material|Faux Burlwood Plastic|Wood|REMOVE
+material|Stainless Steel and Yelow Gold|Gold|Yellow Gold|UPDATE
+material|Black Polyurethane with 18kt Rose Gold-plated Stai|Stainless Steel|INSERT
+material|Alligator Rubber|Alligator Leather|REMOVE
+material|Camouflage Nylon Fabric|Fabric|REMOVE
+material|Black Ion-plated Stainless Steel with Rose Gold-to|Rose Gold|REMOVE
+material|Gold-Plated Metal Mesh|Stainless Steel|REMOVE
+material|Synthetic Rubber|Leather|REMOVE
+material|Stainless Steel and 18kt Sedna Rose Gold|Sedna Gold|REMOVE
+material|Two-tone Metal ( rose gold and Silver )|Rose Gold|REMOVE
+material|Two-tone Metal ( rose gold and Silver )|Silver|REMOVE
+material|Two-tne (Silver and Gold-plated) Stainless Steel|Silver|REMOVE
+material|Black Plastic Resin|Resin|REMOVE
+material|Leather NATO|Leather|REMOVE
+material|Stainless Steel DLC (Diamond Like Carbon)|Diamond|REMOVE
+material|Stainless Steel Twisted Cable with Yellow Gold-pla|Yellow Gold|Yellow Gold-plated|UPDATE
+material|Leather (Interchangeable Striped Canvas)|Canvas|REMOVE
+material|Two-tone Stainless Steel (silver-tone & rose gold-|Rose Gold|REMOVE
+material|Two Tone 18kt Gold and Steel|Gold|REMOVE
+material|Carbon Diffused Steel (Hardened Titanium)|Carbon|REMOVE
+material|Two-tone (Black and Gold) Plastic|Gold|REMOVE
+material|Stainless Steel with Interwoven Golden Fabric|Gold|REMOVE
+material|High-tech Ceramic and Rose PVD gold colored|Rose Gold|Rose Gold PVD|UPDATE
+material|Polyurethane Silicone with Stainless Steel|Polyurethane|REMOVE
+material|Stainelss Steel with 18kt Rose Gold|Steel|Stainless Steel|UPDATE
+material|Dark Titanium PVD Steel|Titanium|Titanium PVD|UPDATE
+material|Black Rubber with Black Sapphires Crystals|Sapphire|REMOVE
+material|Carbonfibre Reinforced Titanium|Carbon|Carbon Fiber|UPDATE
+material|Stainless Steel with Silver and Grey Acetate|Silver|REMOVE
+material|Stainless Steel with Interchangable leather|Leather|REMOVE
+material|(Synthetic) Rubber|Leather|REMOVE
+material|Titanium Black DLC and Pink Gold|Titanium|REMOVE
+material|Stianless Steel and 18kt Rose Gold|Steel|Stainless Steel|UPDATE
+material|Stainless Steel and Gold Ceramos (Ceramic) Center|Gold|REMOVE
+material|Yellow-Gold and Silver Stainless Steel|Yellow Gold|REMOVE
+material|Yellow-Gold and Silver Stainless Steel|Silver|REMOVE
+material|Satin-Textured Rubber|Satin|REMOVE
+material|Metal Alloy with Gold-tone accents|Base Metal|REMOVE
+material|Zebra-print Tortoise Acetate Resin|Resin|REMOVE
+material|Silicone (Polyurethane) with Silver-tone Cable Wir|Polyurethane|REMOVE
+material|Silver Matallic Resin|Silver|REMOVE
+material|Silver Ceramic|Silver|REMOVE
+material|Rose Gold Synthetic Leather|Rose Gold|REMOVE
+material|Canvas NATO|Canvas|REMOVE
+material|Goldt-one and Gunmetal Ion-plated Stainless Steel|Gold|REMOVE
+material|High Tech Thermoplastic Composite|Composite|REMOVE
+material|Two Tone Gold and Stainless Steel|Gold|REMOVE
+material|Metallic Silver Leather (Satin Finish|Silver|REMOVE
+material|Silicone (Polyurethane) with Yellow Gold-tone Inse|Polyurethane|REMOVE
+material|Rose Gold-tome Stainless Steel|Rose Gold|REMOVE
+material|NATO calf leather|Fabric|REMOVE
+material|Brown Leather with Mesh center|Stainless Steel|REMOVE
+material|Two Tone Stainless Steel and 18kt Yellow Gold|Yellow Gold|REMOVE
+material|Polyurethane with Gunmetal Ion-plated|Stainless Steel|REMOVE
+material|Silver Rubber|Silver|REMOVE
+material|Black Synthetic Rubber with Black Ion-plated|Leather|REMOVE
+material|Ceramos (Hi-Tech Ceramic and Metal Composite)|Composite|REMOVE
+material|Composite Alloy|Composite|REMOVE
+material|Stainless Steel Chevron Cable with Yellow Gold-ton|Yellow Gold|REMOVE
+material|Translucent Blue Plastic Polyurethane|Polyurethane|REMOVE
+material|Black Synthetic Rubber with Stainless Steel|Leather|REMOVE
+material|Rose  Gold PVD Stainless Steel|Gold-PVD|Rose Gold-PVD|UPDATE
+material|Silicone (Polyurethane) with Rose Gold-tone Barrel|Polyurethane|REMOVE
+material|"Stainless steel, two-tone silver and gold"|Gold|REMOVE
+material|"Stainless steel, two-tone silver and gold"|Silver|REMOVE
+material|Rose Gold-Plated Metal Mesh|Stainless Steel|REMOVE
+material|Two-tone (Silver and Rose Gold-tone) Steel|Silver|REMOVE
+material|Durable NATO Nylon|Fabric|REMOVE
+material|Bronze-tone Stainless Steel|Bronze|REMOVE
+material|PVD Gold Stainless Steel|Gold|Gold PVD|UPDATE
+material|Two-tone ( Rose Gold Stainless Steel and Tortoise|Rose Gold|REMOVE
+material|Stainless Steel with Titanium PVD Coating|Titanium|REMOVE
+material|Stainless Steel with Blue Resin Acetate|Resin|REMOVE
+material|Yellow Gold-plated Stainless Steel and White Ceram|Ceramic|INSERT
+material|Yellow Gold-plated Stainless Steel with Red Acetat|Acetate|INSERT
+material|Stainless Steel with Silver Resin Links|Silver|REMOVE
+material|Platinum Silk with Leather back|Platinum|REMOVE
+material|Platinum Silk with Leather back|Fabric|INSERT
+material|Metal Mesh|Stainless Steel|REMOVE
+material|Gunmetal Ceramic|Stainless Steel|REMOVE
+material|Satin Fabric|Fabric|REMOVE
+material|Polyurethane Silicone with Yellow Gold-plated Barr|Polyurethane|REMOVE
+material|Rose Gold-plated Stainless Steel with Mother of Pe|Mother of Pearl|INSERT
+material|Composite Plastic|Composite|REMOVE
+material|Gunmetal Aluminum|Stainless Steel|REMOVE
+material|Satin Stainless Steel|Satin|REMOVE
+material|18kt Yellow Gold Oysterquartz|Quartz|REMOVE
+material|Silicone (Polyurethane) with Rose Gold-tone Insert|Polyurethane|REMOVE
+material|Gun Metal|Base Metal|REMOVE
+material|Two-tone (Silver and Gold-tone) Steel|Silver|REMOVE
+material|Aluminium Alloy|Alloy|REMOVE
+material|Plastic Resin|Resin|REMOVE
+material|Ceramicized Aluminum|Ceramic|REMOVE
+material|Grey Alligator Rubber|Alligator Leather|REMOVE
+material|Stainless Steel/Titanium PVD Coating|Titanium|REMOVE
+material|Gunmetal Alloy Set with Charm|Stainless Steel|REMOVE
+material|Black (Leather Pattern) Polyurethane|Leather|REMOVE
+material|NATO Silicone|Fabric|REMOVE
+material|Rubber Alligator Red|Alligator Leather|REMOVE
+material|Whte Silicon Rubber|Silicone|REMOVE
+material|Polyurethane Silicone|Polyurethane|REMOVE
+material|925 Sterling Silver|925 Sterling Silver|REMOVE
+material|Pink (leather pattern) Polyurethane|Leather|REMOVE
+material|Alligator Rubber and Leather|Alligator Leather|Leather|UPDATE
+material|Titanium PVD Stainless Steel|Titanium|REMOVE
+material|Stainless Steel in horsebit style|Leather|REMOVE
+material|Two Tone (Silver and Gold) Stainless Steel|Gold|REMOVE
+material|Two Tone (Silver and Gold) Stainless Steel|Silver|REMOVE
+material|18k White Gold Mesh|Stainless Steel|REMOVE
+material|18kt Rose Gold-plated Stainless Steel with Silver-|Silver|REMOVE
+material|Denim Resin and Gold-tone Alloy|Fabric|REMOVE
+material|Rose Gold-tone Metal Mesh|Stainless Steel|REMOVE
+material|Two--tone ( Rose Gold steel and tortoise accent)|Rose Gold|REMOVE
+material|Two-tone Silver and Rose Gold-tone Stainless Steel|Silver|REMOVE
+material|Nato Nylon|Fabric|REMOVE
+material|Synthetic Leather|Synthetic Leather|REMOVE
+material|(Nylon) Fabric|Nylon|REMOVE
+material|Navy (Silver Dot) Leather|Silver|REMOVE
+material|White Alligator Rubber|Alligator Leather|REMOVE
+material|Gold-plated Stainless Steel and Black Polyure|Polyurethane|INSERT
+material|Silver Stainless Steel|Silver|REMOVE
+material|Fabric (Canvas) Nylon|Fabric|REMOVE
+material|Fabric (Canvas) Nylon|Nylon|REMOVE
+material|Two-tone (Stainless Steel / PVD Gold)|Gold|Gold PVD|UPDATE
+material|Stainless Steel with Black Diamond Like Carbon|Diamond|REMOVE
+material|Two-tone silver and black stainless steel|Silver|REMOVE
+material|Gunmetal Polyurethane|Stainless Steel|REMOVE
+material|Gunmetal Plastic|Stainless Steel|REMOVE
+material|Two-tone (Silver and Yellow Gold-plated) Stainless|Silver|REMOVE
+material|Gold-plated Stainless Steel with White Zebra Aceta|Acetate|INSERT
+material|Stainless Steel with Gold Ceramic Inserts|Gold|REMOVE
+material|Silver Resin|Silver|REMOVE
+material|Fiber-Weaved Leather|Fiber|REMOVE
+material|Silicone (Plastic)|Plastic|REMOVE
+material|Alligator Skin|Alligator Skin|REMOVE
+material|Silver-tone Metal Mesh|Stainless Steel|REMOVE
+material|Polyurethane Silicone and Stainless Steel|Polyurethane|REMOVE
+material|White (Leather Pattern) Polyurethane|Leather|REMOVE
+material|Stainless Steel & Plated Rose Gold|Rose Gold|Rose Gold-plated|UPDATE
+material|tainless Steel with Jade Acetate|Steel|Stainless Steel|UPDATE
+material|Rose Gold Ion- plated Stainless Steel|Rose Gold|Rose Gold-plated|UPDATE
+material|Croco Calf Leather|Crocodile Leather|REMOVE
+material|(Silicone) Rubber|Silicone|REMOVE
+material|Pink Rubber Alligator|Alligator Leather|REMOVE
+material|Two-tone (Silver and Gold-tone)Stainless Steel|Silver|REMOVE
+material|Two-tone (Silver and 18kt Gold Ion-plated) Stainle|Silver|Stainless Steel|UPDATE
+material|"Stainless steel, two tone, gold and silver"|Gold|REMOVE
+material|"Stainless steel, two tone, gold and silver"|Silver|REMOVE
+material|Silver-tone Brass Mesh|Stainless Steel|REMOVE
+material|Gunmetal Base Metal|Stainless Steel|REMOVE
+material|Silver Titanium|Silver|REMOVE
+material|Brown Rubber (Silicone)|Silicone|REMOVE
+material|Brushed and Satin Titanium|Satin|REMOVE
+material|Stainless Steel with Black Polyurethane Silver-to|Silver|REMOVE
+material|Rubberized Coated Metal|Rubber|REMOVE
+material|Gunmetal Titanium|Stainless Steel|REMOVE
+material|White leather pattern polyurethane|Leather|REMOVE
+material|Calfskin Leather and Stainless Steel|Leather|REMOVE
+material|18kt Gold-plated Stainless Steel & Swarvoski Cryst|Crystal|INSERT
+material|Leather (NATO style)|Fabric|REMOVE
+material|Gold- tone Stainless Steel|Gold|REMOVE
+material|Burlwood-inspired Resin|Wood|REMOVE
+material|Black(Leather Pattern) Polyurethane|Leather|REMOVE
+material|Stainless Steel with black Diamond Like Carbon|Diamond|REMOVE
+material|Two-tone black and silver base metal|Silver|REMOVE
+material|Silicone (Polyurethane) with Stainless Steel Inser|Polyurethane|REMOVE
+material|Two (Silver and Gold-tone) Stainless Steel|Silver|REMOVE
+material|(Silicone) Polyurethane with Rose Gold-plated Stai|Silicone|REMOVE
+material|Polyurethane Silicone and Gold-plated Stainless St|Polyurethane|REMOVE
+material|Two- tone (Silver and Gold Ion-plated) tainless St|Silver|REMOVE
+material|Two- tone (Silver and Gold Ion-plated) tainless St|Stainless Steel|INSERT
+material|Nylon Canvas|Nylon|REMOVE
+material|Leather (Fabric)|Fabric|REMOVE
+material|Semi-Satinated Stainless Steel|Satin|REMOVE
+material|Metal Alloy|Base Metal|REMOVE
+material|Carbon Composite|Composite|REMOVE
+material|Rubber Polyurethane|Polyurethane|REMOVE
+material|Canvas Leather|Canvas|REMOVE
+material|Gold-plated Stainless Steel with Black Polyuretha|Polyurethane|INSERT
+material|White Brown stripe Textile Leather|Fabric|REMOVE
+material|Bronzed Aluminum|Bronze|REMOVE
+material|NATO Canvas|Fabric|REMOVE
+material|Textile Nylon|Fabric|REMOVE
+material|Stainless Steel Case with Black Sapphires and Diam|Diamond|INSERT
+material|Leather (Rubberized)|Rubber|REMOVE
+material|Yellow Silcone Rubber|Silicone|REMOVE
+material|Two- tone (Silver and Rose Gold Ion-plated) Stainl|Stainless Steel|INSERT
+material|Two- tone (Silver and Rose Gold Ion-plated) Stainl|Silver|REMOVE
+material|Silicone (Polyurethane) with Black-plated Stainles|Polyurethane|REMOVE
+material|Silicone (Polyurethane) with Black-plated Stainles|Stainless Steel|INSERT
+material|Grey Titanium Ceramic|Titanium|REMOVE
+material|Fiber-Weave Leather|Fiber|REMOVE
+material|Silver Nyon Fabric|Silver|REMOVE
+material|Black bufalino Leather with diamond shape stitchin|Diamond|REMOVE
+material|18kt Gold-plated Stainless Steel and Black rRbber|Rubber|INSERT
+material|18kt Yellow Gold And Platinum-tone Ceramic|Platinum|REMOVE
+material|PolyurethaneSilicone and Gold-plated Stainless Ste|Polyurethane|REMOVE
+material|18kt Yellow Gold Mesh|Stainless Steel|REMOVE
+material|Black Composite Rubber|Composite|REMOVE
+material|Silver Lizard|Silver|REMOVE
+material|Brown Satin Leather|Satin|REMOVE
+material|18kt Gold-plated Stainless Steel and Polyuret|Polyurethane|INSERT
+material|Metallic Gunmetal Karung (Snake)|Stainless Steel|REMOVE
+material|PVD Rose Gold Stainless Steel|Rose Gold|Rose Gold PVD|UPDATE
+material|Platinum-tone Ceramic with Steel trim|Platinum|REMOVE
+material|Nato Style Carbon Fiber Leather|Fabric|REMOVE
+material|Nato Style Carbon Fiber Leather|Carbon Fiber|REMOVE
+material|Two-tone(Silver and Gold-tone) Stainless Steel|Silver|REMOVE
+material|Nylon Textile|Nylon|REMOVE
+material|Rubber Mesh|Stainless Steel|REMOVE
+material|Nylon NATO|Fabric|REMOVE
+material|Two-tone Silver and 18kt Rose Gold-plated) Stainle|Silver|REMOVE
+material|Two-tone Silver and 18kt Rose Gold-plated) Stainle|Stainless Steel|INSERT
+material|Two-tone (Silver and Gunmetal ) Stainless Steel|Silver|REMOVE
+material|Silicone (Polyurethane) with Yellow Gold-tone Barr|Polyurethane|REMOVE
+material|Stainless Steel with Rose Gold-tone Horse-shoe Lug|Leather|REMOVE
+material|"Three-tones (Steel, Gold, Rose Gold)"|Rose Gold|REMOVE
+material|DLC (Diamond-Like Carbon) Titanium|Diamond|REMOVE
+material|Silver Composite ABS Plastic|Composite|REMOVE
+material|Denim-Colored Leather|Fabric|REMOVE
+material|Two-tone (Stainless Steel and Wood-tone Trim)|Wood|REMOVE
+material|Brass Mesh|Stainless Steel|REMOVE
+material|Carbon Fiber-Textured Leather|Carbon Fiber|REMOVE
+material|Two--tone (Silver and Gold-tone) Stainless Steel|Silver|REMOVE
+material|White Plastic Resin|Resin|REMOVE
+material|Titanium and Rose Gold|Titanium and Rose Gold|REMOVE
+material|Goldr-tone Metal|Gold|REMOVE
+material|Rubber with a Yellow (Alligator Gummy) Leather Top|Alligator Leather|Leather|UPDATE
+material|Alloy Metal Bangle|Base Metal|REMOVE
+material|Brushed and Satin 18kt Pink Gold|Satin|REMOVE
+material|Stainless Steel and Yellow Gold Ceramos|Yellow Gold|REMOVE
+material|Ultra-light Carbon Matrix Composite|Carbon|REMOVE
+material|(Polyurethane) Rubber|Polyurethane|REMOVE
+material|Carbon Nanotube Composite|Composite|REMOVE
+material|Rubber Alligator|Alligator Leather|REMOVE
+material|Two-tone Stainless Steel (gold-tone and silver-ton|Silver|REMOVE
+material|Gold Ion-played Stainless Steel|Gold|Gold-plated|UPDATE
+material|Bronze Leather|Bronze|REMOVE
+material|Composite Ceramic|Composite|REMOVE
+material|Silver Polyurethane|Silver|REMOVE
+material|18kt Yellow Gold and Platinum-tone Ceramic|Platinum|REMOVE
+material|Stainless Steel with Plastic Composite|Composite|REMOVE
+material|Black Nylon Canvas|Nylon|REMOVE
+material|Silver Steel|Silver|REMOVE
+material|Gunmetal Silicone|Stainless Steel|REMOVE
+material|Gold Ion-plated Stainless Steel and Gold Polyure|Polyurethane|INSERT
+material|Glass Fiber Composite Polymide|Composite|REMOVE
+material|Glass Fiber Composite Polymide|Fiber|Glass Fiber|UPDATE
+material|Stainless Steel Case with Cabon Fiber Inserts|Fiber|Carbon Fiber|UPDATE
+material|Silicone (Polyurethane) with Black-plated Barrel I|Polyurethane|REMOVE
+material|Two-tone Stainless Steel  ( gold and steel)|Gold|REMOVE
+material|Composite Resin|Composite|REMOVE
+material|Two-tone (Silver and Gold-tone) Metal|Silver|REMOVE
+material|Black Rubberized-coated Metal|Rubber|REMOVE
+material|NATO Leather|Fabric|REMOVE
+material|Two Tone Stainless Steel with 18k rose gold platin|Rose Gold|Rose Gold-plated|UPDATE
+material|Aluminum Mesh|Stainless Steel|REMOVE
+material|Gold Ion-plated Stainless Steel and White Polyamid|Polycarbonate|INSERT
+material|Diamond Like Carbon Stainless Steel|Diamond|REMOVE
+material|Diamond Like Carbon Stainless Steel|Carbon|REMOVE
+material|Rubber with a Black Titanium-tone Barrel Inserts|Titanium|REMOVE
+material|Satin Steel|Satin|REMOVE
+material|Black Velvet-covered Leather|Fabric|REMOVE
+material|(Alligato)r Leather with Rubber Lining|Leather|Alligator Leather|UPDATE
+material|NATO Nylon|Fabric|REMOVE
+material|Stainless Steel with PVD Gold Coin Edge|Gold|Gold PVD|UPDATE
+material|Gun Metal Plated Stainless Steel|Base Metal|REMOVE
+material|Gunmetal Alligator Leather|Stainless Steel|REMOVE
+material|Gunmetal Alligator Leather|Leather|REMOVE
+material|"Carbon, Aluminum, Glass"|Glass|INSERT
+material|Rose Gold Ion-plated Stainless Steel with Black Ru|Rubber|INSERT
+material|Silicone Polyurethane with Rainbow Ion-plated Stai|Silicone|REMOVE
+material|Silicone Polyurethane with Rainbow Ion-plated Stai|Stainless Steel|INSERT
+material|Black Silicone with Gold-plated Stanless Steel Bar|Steel|Stainless Steel|UPDATE
+material|Stainless Steel with Yellow Gold Ceramos|Yellow Gold|REMOVE
+material|Two-tone (Titanium & Rose Gold)|Titanium|REMOVE
+material|Two-tone (Titanium & Rose Gold)|Rose Gold|REMOVE
+material|Brushed Silver Stainless Steel|Silver|REMOVE
+material|Polyurethane with Gunmetal Ion-plated Barrel Inser|Stainless Steel|REMOVE
+material|Two Tone Stainless Steel (Silver and Gold-Tone)|Silver|REMOVE
+material|Titanium Mesh|Stainless Steel|REMOVE
+material|18kt Rose Gold Mesh|Stainless Steel|REMOVE
+
+
+
+
+
+
