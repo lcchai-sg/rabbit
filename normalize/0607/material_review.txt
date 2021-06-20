@@ -1,56 +1,7 @@
+material|Rose Gold--tone Stainless Steel|Rose Gold|REMOVE
+material|Blue Satin Fabric Over Genuine Leather|Fabric|REMOVE
+material|Nylon Yarn (NATO)|Fabric|REMOVE
 
-material|18kt Rose Gold Mesh|Rose Gold
-material|Stainless Steel & 18kt Rose Gold|Stainless Steel
-material|Stainless Steel & 18kt Rose Gold|Rose Gold
-material|Stainless Steel with Horn Acetate center|Stainless Steel
-material|Stainless Steel with Horn Acetate center|Acetate
-material|(Barennia Calfskin) Leather (Rubber Backed)|Calfskin Leather
-material|(Barennia Calfskin) Leather (Rubber Backed)|Rubber
-material|Black Ion-plated Stainless Steel set with Diamonds|Stainless Steel
-material|Black Ion-plated Stainless Steel set with Diamonds|Diamond
-material|Rose Gold--tone Stainless Steel|Stainless Steel
-material|Rose Gold--tone Stainless Steel|Rose Gold
-material|Stainless steel and18kt Rose Gold|Stainless Steel
-material|Stainless steel and18kt Rose Gold|Rose Gold
-material|Titanium Carbide coated Steel|Steel
-material|Titanium Carbide coated Steel|Titanium
-material|Rubber with Stainless Steel Bars|Stainless Steel
-material|Rubber with Stainless Steel Bars|Rubber
-material|Stainless Steel w. Vulcanized Rubber-Coating|Stainless Steel
-material|Stainless Steel w. Vulcanized Rubber-Coating|Rubber
-material|Stainless Steel Case Covered By Brown Leather|Stainless Steel
-material|Stainless Steel Case Covered By Brown Leather|Leather
-material|"Multi-piece titanium case, Tungsten minutes scale"|Titanium
-material|"Multi-piece titanium case, Tungsten minutes scale"|Tungsten
-material|Mixed Nylon and Leather|Leather
-material|Mixed Nylon and Leather|Nylon
-material|Denim (Over Leather)|Leather
-material|Denim (Over Leather)|Fabric
-material|Silicone with Yellow Gold-tone Stainless Steel Ins|Stainless Steel
-material|Silicone with Yellow Gold-tone Stainless Steel Ins|Silicone
-material|Black Leather with Nylon Trim|Leather
-material|Black Leather with Nylon Trim|Nylon
-material|Nylon/Calf Inlay|Calfskin Leather
-material|Nylon/Calf Inlay|Nylon
-material|18kt Rose Gold / Steel|Steel
-material|18kt Rose Gold / Steel|Rose Gold
-material|18kt Gold-plated Stainless Steel with Silver-tone|Stainless Steel
-material|18kt Gold-plated Stainless Steel with Silver-tone|Gold-plated
-material|Stainless Steel with White (High-Tech) Ceramic Ins|Stainless Steel
-material|Stainless Steel with White (High-Tech) Ceramic Ins|Ceramic
-material|Alloy set with Crystals|Alloy
-material|Alloy set with Crystals|Crystal
-material|Rubber and Galuchat bracelet set with 10 Diamonds|Rubber
-material|Rubber and Galuchat bracelet set with 10 Diamonds|Diamond
-material|Polyurethane with Yellow Gold-tone Stainless Steel|Stainless Steel
-material|Polyurethane with Yellow Gold-tone Stainless Steel|Polyurethane
-material|Silicone with Gold-tone Stainless Steel Inserts|Stainless Steel
-material|Silicone with Gold-tone Stainless Steel Inserts|Silicone
-material|Blue Satin Fabric Over Genuine Leather|Leather
-material|Blue Satin Fabric Over Genuine Leather|Fabric
-material|Blue Satin Fabric Over Genuine Leather|Satin
-material|Nylon Yarn (NATO)|Fabric
-material|Nylon Yarn (NATO)|Nylon
 material|Stainless Steel with 18kt Pink Gold Jubilee|Stainless Steel
 material|Stainless Steel with 18kt Pink Gold Jubilee|Pink Gold
 material|Black TR90 Polyurethane and Stainless Steel|Stainless Steel

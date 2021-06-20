@@ -4,4 +4,4 @@ export MESSAGE_USER=synopsis
 export MESSAGE_PASS=synopsis
 export MESSAGE_VHOST=/lc
 
-node fix.js
+ts-node fix.js

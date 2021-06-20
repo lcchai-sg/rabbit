@@ -1,6 +1,8 @@
 const { MessageStation } = require("@cosmos/utils");
 const shortid = require('shortid');
 const u = require('./u_fix_urls');
+const { Mappers } = require('../utils');
+const cfg = require('../cfg');
 
 (async function () {
     const mqHost = process.env.MESSAGE_HOST;
@@ -19,28 +21,47 @@ const u = require('./u_fix_urls');
 
     for (let i = 0; i < u.length; i++) {
         console.log(u.length, i, u[i])
-        const job = {
-            dryRun: false,
-            payload: {
-                strategy: "jomashop",
-                command: "extraction",
-                context: {
-                    entry: u[i],
+
+        const { name } = Mappers.generateBrandID.map(u[i]);
+        if (name) {
+            const k = Object.keys(cfg);
+            let found = false; let strategy = '';
+            for (let i = 0; i < k.length && !found; i++) {
+                if (cfg[k[i]].brand === name) {
+                    found = true;
+                    strategy = cfg[k[i]].strategy;
                 }
             }
-        };
 
-        try {
-            // extraction for product
-            await channel.publish(
-                'scraper',
-                'crawler',
-                Buffer.from(JSON.stringify(job)),
-                { replyTo: 'scrape.data.raw', correlationId: shortid.generate() });
+            if (!strategy) {
+                console.log('NO STRATEGY : ', name, u[i]);
+                console.log('********************************************');
+            } else {
+                const job = {
+                    dryRun: false,
+                    payload: {
+                        strategy,
+                        command: "extraction",
+                        context: { entry: u[i], }
+                    }
+                };
 
-            console.log('submitted >', job);
-        } catch (error) {
-            console.error('error : ', error)
+                try {
+                    // extraction for product
+                    await channel.publish(
+                        'scraper',
+                        'crawler',
+                        Buffer.from(JSON.stringify(job)),
+                        { replyTo: 'scrape.data.raw', correlationId: shortid.generate() });
+
+                    console.log('submitted >', job);
+                } catch (error) {
+                    console.error('error : ', error)
+                }
+            }
+        } else {
+            console.log('******************** NO BRAND FOUND ********************');
+            console.log(u[i]);
         }
         await new Promise(r => setTimeout(r, 5000))
     }
