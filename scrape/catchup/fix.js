@@ -22,19 +22,28 @@ const cfg = require('../cfg');
     for (let i = 0; i < u.length; i++) {
         console.log(u.length, i, u[i])
 
-        const { name } = Mappers.generateBrandID.map(u[i]);
-        if (name) {
+        let bname = '';
+        if (u[i].match(/jomashop/i)) bname = 'jomashop';
+        else if (u[i].match(/kechiq/i)) bname = 'kechiq';
+        else if (u[i].match(/prestige/i)) bname = 'prestigetime';
+        else if (u[i].match(/mayfair/i)) bname = 'watchesofmayfair';
+        else if (u[i].match(/watchmaxx/i)) bname = 'watchmaxx';
+        else {
+            const { name } = Mappers.generateBrandID.map(u[i]);
+            bname = name;
+        }
+        if (bname) {
             const k = Object.keys(cfg);
             let found = false; let strategy = '';
             for (let i = 0; i < k.length && !found; i++) {
-                if (cfg[k[i]].brand === name) {
+                if (cfg[k[i]].brand === bname || cfg[k[i]].strategy === bname) {
                     found = true;
                     strategy = cfg[k[i]].strategy;
                 }
             }
 
             if (!strategy) {
-                console.log('NO STRATEGY : ', name, u[i]);
+                console.log('NO STRATEGY : ', bname, u[i]);
                 console.log('********************************************');
             } else {
                 const job = {
@@ -63,7 +72,7 @@ const cfg = require('../cfg');
             console.log('******************** NO BRAND FOUND ********************');
             console.log(u[i]);
         }
-        await new Promise(r => setTimeout(r, 5000))
+        await new Promise(r => setTimeout(r, 10000))
     }
     process.exit(0)
 })();
