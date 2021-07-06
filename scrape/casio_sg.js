@@ -22,18 +22,24 @@ const puppeteer = require('puppeteer');
     }
 
     const e = "https://www.casio.com/sg/watches/";
-    const browser = await puppeteer.launch();
-    const page = browser.newPage();
-    await page.goto(e);
+    const browser = await puppeteer.launch({ headless: false });
+    const page = await browser.newPage();
+    await page.goto(e, { waitUntil: ['load', 'domcontentloaded', 'networkidle0', 'networkidle2'] });
     await autoScroll(page);
 
+    let data = await page.evaluate(() => document.body.innerHTML);
+    const $ = cheerio.load(data);
+    let cnt = 0;
     $(".cmp-product_panel_list__item").each((idx, el) => {
         const reference = $(el).find(".cmp-product_panel__code").text().trim();
         const price = $(el).find(".cmp-product_panel__price-txt").text();
         const amount = price ? parseFloat(price.split('$')[1]) : null;
-        console.log({ reference, amount });
+        if (amount) {
+            console.log({ reference, amount });
+            cnt++;
+        }
     })
-
+    console.log(`number of watches : ${cnt}`);
     browser.close();
     console.log('done.');
 })();
