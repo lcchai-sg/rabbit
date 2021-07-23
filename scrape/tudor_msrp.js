@@ -18,12 +18,13 @@ const HttpsProxyAgent = require("https-proxy-agent");
     // });
     // config = { agent: proxyAgent }
     const cfg = {
-        proxy: {
-            protocol: "sock5",
-            host: 'usvpn.tell.com',
-            port: 3128,
-            auth: { username: 'proxyclient', password: '4uFra6iTrAw1Pr' }
-        }
+        proxyurl: "https://",
+        // proxy: {
+        //     protocol: "sock5",
+        //     host: 'usvpn.tell.com',
+        //     port: 3128,
+        //     auth: { username: 'proxyclient', password: '4uFra6iTrAw1Pr' }
+        // }
     }
     const { data } = await axios.get(e, cfg);
     // const res = await fetch(e, config);
