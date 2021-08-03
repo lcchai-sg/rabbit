@@ -10,76 +10,108 @@ const indexing = async (context) => {
     const lang = 'en';
     const brand = 'Junghans';
     const brandID = 440;
-    const cfg = { headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1' } };
+    const cfg = {};
+    // const cfg = { headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1' } };
     const result = { source, lang, brand, brandID, collections: [], items: {}, }
     const cats = [];
+    const collection = "temp";
+    result.collections.push(collection);
+    result.items[collection] = [];
     try {
-        const { data } = await client.get(entry, cfg);
-        // const page = await fetch(entry);
-        // const data = await page.text();
-        const $ = cheerio.load(data);
-        $(".footer--column").each((idx, el) => {
-            const type = $(el).find(".column--headline").text();
-            if (type === 'Collection') {
-                $(el).find("a").each((idx, el) => {
-                    const url = $(el).attr("href");
-                    const name = $(el).text().replace(/\s+/g, ' ').trim();
-                    result.collections.push(name);
-                    result.items[name] = [];
-                    cats.push({ name, url });
-                })
-            }
-        })
-        // const browser = await puppeteer.launch({ headless: true });
-        // const page = await browser.newPage();
-        for (const cat of cats) {
-            let p = 1;
-            let cnt = 0;
-            do {
-                const link = cat.url + "?p=" + p;
-                console.log(cat.name + "     " + link);
-                // const {data} = await client.get(link);
-                // const page = await fetch(link);
-                // const data = await page.text();
-                const { data } = await client.get(link, cfg);
-                // await page.goto(link, { waitUntil: 'domcontentloaded' });
-                // await autoScroll(page);
-                // const data = await page.evaluate(() => document.body.innerHTML);
-                // console.log(data);
-                const $ = cheerio.load(data);
-                cnt = 0; let jdata = null;
-                $('script').each((idx, el) => {
-                    const c = $(el).contents();
-                    if (c && c.toString().match(/ecommerce/i)) {
-                        console.log('with ecommerce.................');
-                        const cc = c.toString().match(/\[{"name"(.*)"\d{1,2}"}\]/ig);
-                        if (cc) console.log('with json data..................')
-                        jdata = cc ? JSON.parse(cc[0]) : null;
-                    }
-                })
-                $(".product--info").each((idx, el) => {
-                    const url = $(el).find("a").attr("href");
-                    const name = $(el).find("a").attr("title");
-                    const thumbnail = $(el).find("img").attr("srcset").split(',')[0].trim();
-                    const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
-                    const retail = jdata.length >= idx ? jdata[idx].price : null;
-                    const collection = cat.name;
-                    result.items[collection].push({
-                        source, lang, brand, brandID, url, collection, name, reference,
-                        thumbnail, retail,
-                    })
-                    cnt++;
-                })
-                if (cnt === 0) {
-                    console.log(data)
-                    process.exit(0)
+        let p = 1; let cnt = 0; let noData = true;
+        do {
+            const link = p === 1 ? entry : entry + "?p=" + p;
+            console.log(link);
+            const { data } = await client.get(link);
+            const $ = cheerio.load(data);
+            cnt = 0; let jdata = null;
+            $('script').each((idx, el) => {
+                const c = $(el).contents();
+                if (c && c.toString().match(/ecommerce/i)) {
+                    console.log('with ecommerce.................');
+                    const cc = c.toString().match(/\[{"name"(.*)"\d{1,2}"}\]/ig);
+                    if (cc) console.log('with json data..................')
+                    jdata = cc ? JSON.parse(cc[0]) : null;
                 }
-                console.log('cnt : ', cnt);
-                p++;
-                await new Promise(r => setTimeout(r, interval));
-            } while (cnt >= 12);
-        }
-        // await browser.close();
+            })
+            $(".product--info").each((idx, el) => {
+                const url = $(el).find("a").attr("href");
+                const name = $(el).find("a").attr("title");
+                const thumbnail = $(el).find("img").attr("srcset").split(',')[0].trim();
+                const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
+                const retail = jdata.length >= idx ? jdata[idx].price : null;
+                result.items[collection].push({
+                    source, lang, brand, brandID, url, collection, name, reference,
+                    thumbnail, retail,
+                })
+                cnt++;
+                noData = false;
+            })
+            if (noData) {
+                console.log(data);
+                process.exit(0);
+            }
+            // if (cnt === 0) {
+            //     console.log(data)
+            //     process.exit(0)
+            // }
+            console.log('cnt : ', cnt);
+            p++;
+            await new Promise(r => setTimeout(r, interval));
+        } while (cnt >= 12);
+        // get categories
+        // $(".footer--column").each((idx, el) => {
+        //     const type = $(el).find(".column--headline").text();
+        //     if (type === 'Collection') {
+        //         $(el).find("a").each((idx, el) => {
+        //             const url = $(el).attr("href");
+        //             const name = $(el).text().replace(/\s+/g, ' ').trim();
+        //             result.collections.push(name);
+        //             result.items[name] = [];
+        //             cats.push({ name, url });
+        //         })
+        //     }
+        // })
+        // for (const cat of cats) {
+        //     let p = 1;
+        //     let cnt = 0;
+        //     do {
+        //         const link = p === 1 ? cat.url : cat.url + "?p=" + p;
+        //         console.log(cat.name + "     " + link);
+        //         const { data } = await client.get(link, cfg);
+        //         const $ = cheerio.load(data);
+        //         cnt = 0; let jdata = null;
+        //         $('script').each((idx, el) => {
+        //             const c = $(el).contents();
+        //             if (c && c.toString().match(/ecommerce/i)) {
+        //                 console.log('with ecommerce.................');
+        //                 const cc = c.toString().match(/\[{"name"(.*)"\d{1,2}"}\]/ig);
+        //                 if (cc) console.log('with json data..................')
+        //                 jdata = cc ? JSON.parse(cc[0]) : null;
+        //             }
+        //         })
+        //         $(".product--info").each((idx, el) => {
+        //             const url = $(el).find("a").attr("href");
+        //             const name = $(el).find("a").attr("title");
+        //             const thumbnail = $(el).find("img").attr("srcset").split(',')[0].trim();
+        //             const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
+        //             const retail = jdata.length >= idx ? jdata[idx].price : null;
+        //             const collection = cat.name;
+        //             result.items[collection].push({
+        //                 source, lang, brand, brandID, url, collection, name, reference,
+        //                 thumbnail, retail,
+        //             })
+        //             cnt++;
+        //         })
+        //         // if (cnt === 0) {
+        //         //     console.log(data)
+        //         //     process.exit(0)
+        //         // }
+        //         console.log('cnt : ', cnt);
+        //         p++;
+        //         await new Promise(r => setTimeout(r, interval));
+        //     } while (cnt >= 12);
+        // }
         return result;
     } catch (error) {
         console.error('Failed indexing for Daniel Wellington with error : ', error);
@@ -97,7 +129,6 @@ async function autoScroll(page) {
                 var scrollHeight = document.body.scrollHeight;
                 window.scrollBy(0, distance);
                 totalHeight += distance;
-
                 if (totalHeight >= scrollHeight) {
                     clearInterval(timer);
                     resolve();
@@ -114,21 +145,19 @@ const index = async context => {
     const lang = 'en';
     const brand = 'Junghans';
     const brandID = 440;
-    const cfg = { headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1' } };
     const result = { source, lang, brand, brandID, collections: ['all'], items: { 'all': [] }, }
     const cats = [];
     try {
         const entry = "https://www.junghans.de/en/find-your-junghans/?p=";
         const browser = await puppeteer.launch({ headless: false });
         const page = await browser.newPage();
-        for (let i = 1; i < 2; i++) {
+        for (let i = 1; i < 40; i++) {
             let cnt = 0;
             const link = entry + i;
             console.log(link);
             await page.goto(link);
             await autoScroll(page);
             const data = await page.evaluate(() => document.body.innerHTML);
-            // const { data } = await client.get(link);
             const $ = cheerio.load(data);
             let jdata = null;
             $('script').each((idx, el) => {
@@ -144,13 +173,14 @@ const index = async context => {
                 console.log('product--info..................');
                 const url = $(el).find("a").first().attr("href");
                 const name = $(el).find("a").first().attr("title");
-                const thumbnail = $(el).find("img").attr("srcset").split(',')[0].trim();
+                const thumb = $(el).find("img").attr("srcset");
+                const thumbnail = thumb ? thumb.split(',')[0].trim() : null;
                 const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
-                const retail = jdata && jdata.length >= idx ? jdata[idx].price : null;
+                // const retail = jdata && jdata.length >= idx && jdata[idx].price ? jdata[idx].price : null;
                 // const collection = cat.name;
                 result.items['all'].push({
                     source, lang, brand, brandID, url, collection: null, name, reference,
-                    thumbnail, retail,
+                    thumbnail, retail: null,
                 })
                 cnt++;
             })
@@ -169,7 +199,9 @@ const index = async context => {
 (async () => {
     // const r = await indexing({
     //     client: axios,
-    //     entry: "https://www.junghans.de/en/",
+    //     entry:
+    //         // "https://www.junghans.de/en/",
+    //         "https://www.junghans.de/en/collection/watches/junghans-meister/",
     //     base: "https://www.junghans.de/en/",
     //     interval: 10000,
     // });
