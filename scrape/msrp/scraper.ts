@@ -10,17 +10,25 @@ const getMSRP = async (strategy, market) => {
 
 }
 const sleep = async (interval, count) => {
-    console.log('pausing.....', count);
     await new Promise(r => setTimeout(r, count * interval));
-    console.log('returning.........', count);
 }
 
 require("yargs")
     .command(
-        ["exec <brand> <country>", "run", "$0"],
+        ["exec", "run", "$0"],
         "Execute scrape",
         (yargs) => {
             return yargs
+                .option("brand", {
+                    alias: "b",
+                    describe: "strategy for the brand, default all brands",
+                    default: "",
+                })
+                .option("country", {
+                    alias: "c",
+                    describe: "market to scrape MSRP, default USA",
+                    default: "usa",
+                })
                 .option("domain", {
                     alias: "t",
                     describe: "domain url to receive result",
@@ -51,7 +59,8 @@ require("yargs")
                 from(m)
                     .subscribe(async s => {
                         await sleep(5000, cnt);
-                        console.log('MSRP scraping for ', s, ' market : ', country, ' count : ', cnt++);
+                        // console.log('MSRP scraping for ', s, ' market : ', country, ' count : ', cnt++);
+                        console.log(`ts-node src/scraper.ts ${s} ${country}`);
                     })
             }
             // let count = 1;
