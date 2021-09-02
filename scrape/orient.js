@@ -1,126 +1,128 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+// const data = require('./orient_w');
 
 const indexing = async (context) => {
-  const { client, entry, base, } = context;
-  const result = { collections: [], items: {} };
-  const cats = [];
-  try {
-    const $ = cheerio.load((await client.get(entry)).data);
-    $('.orient-navbar-main  li:nth-child(2) .collection-grid  .grid__item .collection-grid-item').each((idx, el) => {
-      const href = $(el).find('a').attr('href');
-      const name = $(el).find('.collection-grid-item__title h3').text().trim();
-      const url = base + href;
-      result.collections.push(name);
-      result.items[name] = [];
-      cats.push({ name, url });
-    });
-    for (const cat of cats) {
-      const $$ = cheerio.load((await client.get(cat.url)).data);
-      $$('.grid__item  .has-other-price.orient-product-item.grid-view-item').each((idx, el) => {
-        const href = $$(el).find('.grid-view-item__link').attr('href');
-        const thumbnailImg = $$(el).find('.grid-view-item__image-container img').attr('src');
-        const name = $$(el).find('.orient-product-item-text .orient-product-item-title').text().trim();
-        const retail = $$(el).find('.product-price__other-price').text();
-
-        result.items[cat.name].push({
-          url: base + href,
-          thumbnail: "https:" + thumbnailImg,
-          name,
-          retail,
+    const { client, entry, base, interval, } = context;
+    const baseURL = base ? base : "https://www.orientwatchusa.com";
+    const source = "official";
+    const lang = "en";
+    const brand = "Orient";
+    const brandID = 100;
+    const result = { source, lang, brand, brandID, collections: [], items: {} };
+    const cats = [];
+    try {
+        const { data } = await client.get(entry);
+        const $ = cheerio.load(data);
+        $('.collections').find("a").each((idx, el) => {
+            const href = $(el).attr("href");
+            const name = $(el).text();
+            const url = href ? baseURL + href : null;
+            if (name && !name.match(/straps/i) && !name.match(/buy now/i)) {
+                result.collections.push(name);
+                result.items[name] = [];
+                if (url) cats.push({ name, url });
+            }
         })
-      })
+        for (const cat of cats) {
+            console.log(cat.url);
+            const { data } = await client.get(cat.url);
+            const $ = cheerio.load(data);
+            $('.products').each((idx, el) => {
+                const col = $(el).find('.collection-info').find('div').first().text();
+                $(el).find('.product').each((idx, el) => {
+                    const url = baseURL + $(el).find("a").attr("href");
+                    const thumbnail = $(el).find("img").last().attr("data-src");
+                    const nr = $(el).find("img").last().attr("alt");
+                    const nref = nr ? nr.split('|') : null;
+                    const name = nref ? nref[0].trim() : null;
+                    const reference = nref && nref.length >= 2 ? nref[1].trim() : null;
+                    const collection = cat.name;
+                    let prc = $(el).find(".price").find("strike").text();
+                    if (!prc) prc = $(el).find(".price").text();
+                    const retail = prc ? prc.split(" ")[0] : null;
+                    result.items[collection].push({
+                        source, lang, brand, brandID, url, collection, name, reference,
+                        thumbnail, retail,
+                    })
+                })
+            })
+            await new Promise(r => setTimeout(r, interval));
+        }
+        return result;
+    } catch (error) {
+        console.error('Failed indexing for Orient with error : ' + error);
+        console.error('entry : ', entry);
+        return {};
     }
-    return result;
-  }
-  catch (error) {
-    console.log('Failed indexing for Orient with error : ' + error);
-    return {};
-  }
 };
-
 
 const extraction = async (context) => {
-  const { client, entry, ...rest } = context;
-  const result = { ...rest, url: entry, spec: [], related: [], features: [] };
-  try {
-    const $ = cheerio.load((await client.get(entry)).data);
-    const reference = $('title').text().trim();
-    result.reference = reference.split("|")[1].trim().substring(0, 10);
-    result.collection = $(' .list-inline li:nth-child(3)  span a').text().trim();
-    result.description = $('.product-single__description__inner--additional p').text().trim();
-    $('.product-single__title').each((idx, el) => {
-      if (idx === 0) {
-        result.name = $(el).text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").trim();
-      }
-    });
-    result.gender = 'M';
-    result.thumbnail = 'https:' + $('.product-single__photo img').attr('src');
-
-    $('.product-single__description__table').each((idx, el) => {
-      const key = $(el).find('div:nth-child(1)').first().text().trim();
-      const value = $(el).find('div:nth-child(2)').first().text().trim();
-      result.spec.push({ key, value });
-
-      $('div[style="width: 100%; line-height: 250%;"]').each((idx, el) => {
-        const d = $(el).text().replace(/(?:\r\n|\r|\n|\s+)/g, " ").split(":");
-        if (d) {
-          result.spec.push({ key: d[0].trim(), value: d[1].trim() });
-        }
-      })
-      // let key = '';
-      // let value = '';
-      // const keys = [];
-      // const values = [];
-      // $(el).find('div:nth-child(1)').each((idx, el) => {
-      //   key = $(el).text().trim();
-      //   keys.push(key);
-      // });
-      // $(el).find('div:nth-child(2)').each((idx, el) => {
-      //   value = $(el).text().trim();
-      //   values.push(value);
-      // });
-      // keys.map((key, i) => {
-      //   const value = values[i];
-      //   result.spec.push({ key, value });
-      // });
-    });
-  } catch (error) {
-    console.log('Failed extraction for Orient with error : ' + error);
-    result.code = error.response.status;
-  }
-  return result;
+    const { client, entry, ...rest } = context;
+    const result = { ...rest, url: entry, spec: [], related: [], };
+    result.source = "official";
+    result.lang = "en";
+    result.brand = "Orient";
+    result.brandID = 100;
+    try {
+        const { data } = await client.get(entry);
+        const $ = cheerio.load(data);
+        result.description = $('meta[property="og:description"]').attr('content');
+        const nr = $('meta[property="og:title"]').attr('content');
+        const nref = nr ? nr.split('|') : null;
+        result.name = nref ? nref[0].trim() : null;
+        result.reference = nref && nref.length > 1 ? nref[1].trim() : null;
+        result.collection = $('.breadcrumbs').find('div:nth-child(3)').text().toUpperCase();
+        result.reference = $('.breadcrumbs').find('div:nth-child(4)').text().toUpperCase();
+        result.thumbnail = $('.product-images').find('img:nth-child(3)').attr('data-src');
+        result.retail = $('.pricing').find('strike').text();
+        if (!result.retail) result.retail = $('.pricing').text();
+        $('.specifications .field').each((idx, el) => {
+            const key = $(el).find('.name').text().replace(/:/g, '');
+            const value = $(el).find('.value').text();
+            result.spec.push({ key, value });
+        })
+        $('.cs-product').find('a').each((idx, el) => {
+            const href = $(el).attr('href');
+            const ref = href.split('/');
+            const r = ref ? ref[ref.length - 2] : null;
+            if (r) result.related.push(r.toUpperCase());
+        })
+    } catch (error) {
+        console.error('Failed extraction for Orient with error : ' + error);
+        console.error('entry : ', entry);
+        if (error.response) result.code = error.response.status;
+        else result.code = 'UNKNOWN ERROR';
+    }
+    return result;
 };
 
-
 (async () => {
-  // const r = await indexing({
-  //   client: axios,
-  //   entry: "https://www.orientwatchusa.com",
-  //   brandID: 100,
-  //   brand: "Orient",
-  //   base: "https://www.orientwatchusa.com",
-  // });
-  // r.collections.forEach(c => {
-  //   r.items[c].forEach(w => {
-  //     console.log(w);
-  //   })
-  // })
-  // console.log(r);
+    // const r = await indexing({
+    //     client: axios,
+    //     entry: "https://www.orientwatchusa.com",
+    //     base: "https://www.orientwatchusa.com",
+    //     interval: 3000,
+    // });
+    // r.collections.forEach(c => {
+    //     r.items[c].forEach(w => {
+    //         console.log(w);
+    //     })
+    // })
+    // console.log(r);
 
-  const rr = [
-    "https://www.orientwatchusa.com/collections/classic/products/ra-ak0304b10a",
-    "https://www.orientwatchusa.com/collections/sport/products/ra-ac0k05g00b",
-    "https://www.orientwatchusa.com/collections/orient-star/products/re-av0a04b00b",
-  ];
+    const rr = [
+        'https://www.orientwatchusa.com/collections/orient-star/re-au0404n00b',
+        // 'https://www.orientwatchusa.com/collections/orient-star/re-ay0001b00b',
+    ];
 
-  for (let i = 0; i < rr.length; i++) {
-    const ex = await extraction({
-      entry: rr[i],
-      client: axios,
-      brand: "Orient",
-      brandID: 100,
-    })
-    console.log(ex);
-  }
+    for (let i = 0; i < rr.length; i++) {
+        const ex = await extraction({
+            entry: rr[i],
+            client: axios,
+            brand: "Orient",
+            brandID: 100,
+        })
+        console.log(ex);
+    }
 })();
