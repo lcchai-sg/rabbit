@@ -1,1 +1,0 @@
-/Users/lcchai/work/projects/synopsis/synopsis-scraper/src/utils/index.ts
