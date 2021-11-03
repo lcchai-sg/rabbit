@@ -1,40 +1,57 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const e = "https://www.cartier.com/fr-fr/montres";
+const puppeteer = require('puppeteer');
+// const e = "https://www.cartier.com/fr-fr/montres";
+const e = "https://www.cartier.com/de-de/uhren/uhrenkollektion/tank";
 const results = [];
 const cats = [];
 
 (async () => {
-    const { data } = await axios.get(e);
+    const browser = await puppeteer.launch({ headless: false });
+    const page = await browser.newPage();
+    await page.goto(e, { waitUntil: ['load', 'domcontentloaded', 'networkidle0', 'networkidle2'] });
+    await autoScroll(page);
+    const data = await page.evaluate(() => document.body.innerHTML);
     const $ = cheerio.load(data);
-    $(".shelf-element__btn").each((idx, el) => {
-        const href = $(el).find("a").attr("href");
-        cats.push(href);
-    })
-    console.log('cats : ', cats.length);
-    for (const cat of cats) {
-        await new Promise(r => setTimeout(r, 2000));
-        const c = cat.split('/');
-        const col = c[c.length - 1];
-        let pg = 1; let cnt = 0;
-        do {
-            cnt = 0;
-            const link = cat + "?page=" + pg;
-            console.log(link);
-            const { data } = await axios.get(link);
-            const $ = cheerio.load(data);
-            $(".product-slot.slot-element").each((idx, el) => {
-                const d = $(el).attr("data-ytos-track-product-data");
+    let moredata = true;
+    do {
+        $(".product-slot.slot-element").each((idx, el) => {
+            const d = $(el).attr("data-ytos-track-product-data");
+            if (d) {
                 const j = JSON.parse(d);
-                const name = j.product_title;
-                const reference = j.product_cod10 ? j.product_cod10 : j.product_cod8 ? j.product_cod8 : null;
-                const amount = j.product_discountedPrice ? parseFloat(j.product_discountedPrice) : j.price ? parseFloat(j.price) : null;
-                results.push({ col, name, reference, amount });
-                cnt++;
-            })
-            pg++;
-        } while (cnt >= 24);
-    }
+                const reference = j.product_mfPartNumber ? j.product_mfPartNumber : null;
+                const price = j.product_discountedPrice ? j.product_discountedPrice : null;
+                const name = j.title ? j.title : null;
+                console.log({ name, reference, price });
+            }
+        })
+        const btn = ".loadMoreProductsButton";
+        if (await page.$(btn) !== null) {
+            const np = $(btn).find("a").attr("href");
+            console.log(`next : ${np}`);
+            await page.click(btn);
+        } else moredata = false;
+    } while (moredata)
+
     console.log('total : ', results.length);
     results.forEach(r => { console.log(r) })
 })()
+
+const autoScroll = async (page) => {
+    await page.evaluate(async () => {
+        await new Promise((resolve, reject) => {
+            var totalHeight = 0;
+            var distance = 100;
+            var timer = setInterval(() => {
+                var scrollHeight = document.body.scrollHeight;
+                window.scrollBy(0, distance);
+                totalHeight += distance;
+                if (totalHeight >= scrollHeight) {
+                    window.scrollBy(0, -2 * distance);
+                    clearInterval(timer);
+                    resolve();
+                }
+            }, 100);
+        });
+    });
+}

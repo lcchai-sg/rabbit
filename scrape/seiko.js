@@ -1,13 +1,33 @@
-const axios = require('axios');
-// const u = "https://www.seiko.com.tw/apo/search.php?form%5B0%5D%5Bname%5D=gender&form%5B0%5D%5Bvalue%5D=female&form%5B1%5D%5Bname%5D=gender&form%5B1%5D%5Bvalue%5D=male&form%5B2%5D%5Bname%5D=sort&form%5B2%5D%5Bvalue%5D=hightolow&_=1630556584288";
-const u = "https://www.seikowatches.com/__api/posts/list?locale_id=9&paginate=false&unit=9999";
+const puppeteer = require('puppeteer');
+const cheerio = require('cheerio');
+const entry = "https://www.casio-intl.com/hk/zh/wat/search/watch/";
 
 (async () => {
-    const { data } = await axios.get(u, { timeout: 60000 });
-    console.log(data);
-    // const p = data.product;
-    // p.forEach(r => {
-    //     console.log({ reference: r.ProductTitle, amount: r.Price });
-    // })
-    // console.log(`\ntotal : ${p.length}`);
-})()
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    await page.goto(entry, { timeout: 0, waitUntil: ['load', 'domcontentloaded', 'networkidle0', 'networkidle2'] });
+    let data = await page.evaluate(() => document.body.innerHTML);
+    let $ = cheerio.load(data);
+    let next = true; let cnt = 0; let pg = 1;
+    while (next) {
+        console.log(`page : ${pg}`);
+        $(".model-list").find(".column").each((idx, el) => {
+            const reference = $(el).find("h3").text();
+            const price = $(el).find("p").text();
+            const amount = parseFloat(price ? price.replace(/HK|\$|,/g, "") : null);
+            cnt++;
+            console.log({ reference, price, amount });
+        })
+        const lnk = $(".control.js-next").attr("class");
+        if (!lnk.match(/disable/i)) {
+            await page.click(".control.js-next");
+            pg++;
+            data = await page.evaluate(() => document.body.innerHTML);
+            $ = cheerio.load(data);
+        } else next = false;
+    }
+    console.log();
+    console.log(`total : ${cnt}`);
+    await browser.close();
+    console.log('done..........');
+})();

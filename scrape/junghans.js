@@ -1,6 +1,5 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-// const fetch = require('cross-fetch');
 const puppeteer = require('puppeteer')
 
 const indexing = async (context) => {
@@ -139,54 +138,81 @@ async function autoScroll(page) {
 }
 
 const index = async context => {
+    async function autoScroll(page) {
+        await page.evaluate(async () => {
+            await new Promise((resolve, reject) => {
+                var totalHeight = 0;
+                var distance = 100;
+                var timer = setInterval(() => {
+                    var scrollHeight = document.body.scrollHeight;
+                    window.scrollBy(0, distance);
+                    totalHeight += distance;
+                    if (totalHeight >= scrollHeight) {
+                        clearInterval(timer);
+                        resolve();
+                    }
+                }, 100);
+            });
+        });
+    }
+
+    const sleep = async i => {
+        await new Promise(r => setTimeout(r, i));
+    }
+
     const { client, entry, base, interval, } = context;
     const baseURL = base ? base : "https://www.junghans.de/en/";
     const source = 'official';
     const lang = 'en';
     const brand = 'Junghans';
     const brandID = 440;
-    const result = { source, lang, brand, brandID, collections: ['all'], items: { 'all': [] }, }
-    const cats = [];
+    const result = [];
     try {
-        const entry = "https://www.junghans.de/en/find-your-junghans/?p=";
+        const entry = "https://www.junghans.de/en/find-your-junghans/";
+        // const entry = "https://www.junghans.de/en/find-your-junghans/?p=";
         const browser = await puppeteer.launch({ headless: false });
         const page = await browser.newPage();
-        for (let i = 1; i < 40; i++) {
-            let cnt = 0;
-            const link = entry + i;
-            console.log(link);
-            await page.goto(link);
-            await autoScroll(page);
-            const data = await page.evaluate(() => document.body.innerHTML);
-            const $ = cheerio.load(data);
-            let jdata = null;
-            $('script').each((idx, el) => {
-                const c = $(el).contents();
-                if (c && c.toString().match(/ecommerce/i)) {
-                    console.log('with ecommerce.................');
-                    const cc = c.toString().match(/\[{"name"(.*)"\d{1,2}"}\]/ig);
-                    if (cc) console.log('with json data..................')
-                    jdata = cc ? JSON.parse(cc[0]) : null;
-                }
-            })
-            $(".product--info").each((idx, el) => {
-                console.log('product--info..................');
-                const url = $(el).find("a").first().attr("href");
-                const name = $(el).find("a").first().attr("title");
-                const thumb = $(el).find("img").attr("srcset");
-                const thumbnail = thumb ? thumb.split(',')[0].trim() : null;
-                const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
-                // const retail = jdata && jdata.length >= idx && jdata[idx].price ? jdata[idx].price : null;
-                // const collection = cat.name;
-                result.items['all'].push({
-                    source, lang, brand, brandID, url, collection: null, name, reference,
-                    thumbnail, retail: null,
-                })
-                cnt++;
-            })
-            console.log('cnt : ', cnt);
-            await new Promise(r => setTimeout(r, interval));
-        }
+
+        // await page.goto(entry, { timeout: 0, waitUntil: ['load', 'domcontentloaded', 'networkidle0', 'networkidle2'] })
+        // let loadmore = true;
+        // while (loadmore) {
+        //     const btn = '.btn.is--primary.is--icon-right.js--load-more';
+        //     // const btn = 'btn is--primary is--icon-right js--load-more'
+        //     await autoScroll(page);
+        //     if (await page.$(btn) !== null) await page.click(btn);
+        //     else loadmore = false;
+        // }
+        // if (!loadmore) {
+        //     const data = await page.evaluate(() => document.body.innerHTML);
+        //     const $ = cheerio.load(data);
+        //     $(".product--info").each((idx, el) => {
+        //         const url = $(el).find("a").first().attr("href");
+        //         const name = $(el).find("a").first().attr("title");
+        //         const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
+        //         const price = $(el).find(".price--default").text();
+        //         const amount = price ? parseInt(price.replace(/\$|€|,|\.|\*|\s+/g, '')) / 100 : null;
+        //         console.log({ idx, url, name, reference, price, amount });
+        //         result.push({ reference, amount });
+        //     })
+        // }
+
+        const entry1 = "https://www.junghans.de/en/find-your-junghans/?p=1";
+        await page.goto(entry1, { waitUntil: ['load', 'domcontentloaded', 'networkidle0', 'networkidle2'] });
+        const btn1 = '.btn.is--primary.is--icon-right.js--load-previous';
+        if (page.$(btn1) !== null) await page.click(btn1);
+        else console.log('previous button not found !!!');
+        // await autoScroll(page);
+        const data = await page.evaluate(() => document.body.innerHTML);
+        const $ = cheerio.load(data);
+        $(".product--info").each((idx, el) => {
+            const url = $(el).find("a").first().attr("href");
+            const name = $(el).find("a").first().attr("title");
+            const reference = $(el).find(".order-number").find(".entry--content").text().replace(/\s+/g, ' ').trim();
+            const price = $(el).find(".price--default").text();
+            const amount = price ? parseInt(price.replace(/\$|€|,|\.|\*|\s+/g, '')) / 100 : null;
+            console.log({ idx, url, name, reference, price, amount });
+            result.push({ reference, amount });
+        })
         browser.close();
         return result;
     } catch (error) {
@@ -205,21 +231,29 @@ const index = async context => {
     //     base: "https://www.junghans.de/en/",
     //     interval: 10000,
     // });
+    // const r = await index({
+    //     client: axios,
+    //     entry: "https://www.junghans.de/en/",
+    //     base: "https://www.junghans.de/en/",
+    //     interval: 10000,
+    // });
+    // let cnt = 0;
+    // r.collections && r.collections.forEach(c => {
+    //     console.log(`collection : ${c}`)
+    //     r.items[c].forEach(w => {
+    //         console.log(w);
+    //         cnt++;
+    //     })
+    // });
+    // console.log();
+    // console.log(`watches : ${cnt}`);
+    // process.exit(0);
+
     const r = await index({
         client: axios,
-        entry: "https://www.junghans.de/en/",
-        base: "https://www.junghans.de/en/",
-        interval: 10000,
+        entry: "https://www.junghans.de/en/find-your-junghans/",
     });
-    let cnt = 0;
-    r.collections && r.collections.forEach(c => {
-        console.log(`collection : ${c}`)
-        r.items[c].forEach(w => {
-            console.log(w);
-            cnt++;
-        })
-    });
+    r && r.forEach(p => { console.log(p); });
     console.log();
-    console.log(`watches : ${cnt}`);
     process.exit(0);
 })();

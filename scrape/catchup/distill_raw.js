@@ -9,7 +9,7 @@ const shortid = require('shortid');
     user: 'synopsis',
     pass: 'synopsis',
     name: 'synopsis',
-    coll: 'p_reference_raw',
+    coll: 'reference_raw',
   };
 
   const db_url = `mongodb://${mdb.user}:${mdb.pass}@${mdb.host}:${mdb.port}/${mdb.name}`;
@@ -21,8 +21,8 @@ const shortid = require('shortid');
 
   // update the following variables
   const source = "official";
-  const brandID = 76;
-  const strategy = "casio";
+  const brandID = 5;
+  const strategy = "montblanc";
 
   //const mqHost = process.env.MESSAGE_HOST || 'mq.ieplsg.com';
   //const mqUser = process.env.MESSAGE_USER || 'synopsis';

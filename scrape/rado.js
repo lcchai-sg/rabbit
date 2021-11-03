@@ -4058,7 +4058,7 @@ const extraction = async (context) => {
             if (dd && dd.length > 1) result.spec.push({ key: dd[0].trim(), value: dd[1].trim() })
         })
     } catch (error) {
-        logger.error('Failed extraction for Rado with error : ' + error);
+        console.error('Failed extraction for Rado with error : ' + error);
         if (error.response) result.code = error.response.status;
         else result.code = 'UNKNOWN ERROR';
     }
@@ -4117,19 +4117,47 @@ const allindex = async context => {
     // await allindex({ client: axios });
     // console.log(`total : ${cnt}`);
 
-    const spec = [];
-    for (let i = 0; i < r.length; i++) {
+    // const spec = [];
+    // for (let i = 0; i < r.length; i++) {
+    //     const ex = await extraction({
+    //         client: axios,
+    //         entry: r[i].url,
+    //     })
+    //     ex.spec.forEach(s => {
+    //         const sp = s.key + "||" + s.value;
+    //         if (spec.indexOf(sp) < 0) spec.push(sp);
+    //     })
+    //     await new Promise(r => setTimeout(r, 10000));
+    // }
+    // spec.sort().forEach(s => { console.log(s); });
+
+    const r = [
+        "https://www.rado.com/en_us/hyperchrome-stainless-steel-grey-44-9-mm-r32502163.html",
+        "https://www.rado.com/en_us/hyperchrome-stainless-steel-light-44-9-mm-r32502103.html",
+        "https://www.rado.com/en_us/hyperchrome-1314-plasma-high-tech-ceramic-grey-42mm-r32256702.html",
+        "https://www.rado.com/en_us/r32502155-xxl-watch-hyperchrome-q-black-stainless-steel-black-44-9-mm-r32502155.html",
+        "https://www.rado.com/en_us/hyperchrome-classic-automatic-stainless-steel-blue-42mm-r33101204.html",
+        "https://www.rado.com/en_us/coupole-classic-diamonds-stainless-steel-light-34mm-r22884923.html",
+        "https://www.rado.com/en_us/coupole-classic-automatic-power-reserve-stainless-steel-black-41mm-r22878163.html",
+        "https://www.rado.com/en_us/coupole-classic-automatic-power-reserve-stainless-steel-light-41mm-r22878045.html",
+        "https://www.rado.com/en_us/coupole-classic-automatic-power-reserve-blue-41mm-r22879215.html",
+        "https://www.rado.com/en_us/coupole-classic-automatic-power-reserve-light-41mm-r22879315.html",
+        "https://www.rado.com/en_us/coupole-classic-automatic-power-reserve-stainless-steel-light-41mm-r22878313.html",
+        "https://www.rado.com/en_us/ceramica-diamonds-high-tech-ceramic-black-22-9-mm-r21702732.html",
+        "https://www.rado.com/en_us/ceramica-automatic-high-tech-ceramic-black-30mm-r21808152.html",
+        "https://www.rado.com/en_us/florence-black-28mm-r48871173.html",
+        "https://www.rado.com/en_us/florence-black-28mm-r48873173.html",
+        "https://www.rado.com/en_us/florence-diamonds-light-28mm-r48873734.html",
+        "https://www.rado.com/en_us/the-original-automatic-cvd-coated-hardmetal-other-35mm-r12413633.html",
+    ];
+    for (const u of r) {
         const ex = await extraction({
             client: axios,
-            entry: r[i].url,
-        })
-        ex.spec.forEach(s => {
-            const sp = s.key + "||" + s.value;
-            if (spec.indexOf(sp) < 0) spec.push(sp);
-        })
-        await new Promise(r => setTimeout(r, 10000));
+            entry: u,
+        });
+        console.log(ex);
+        await new Promise(r => setTimeout(r, 2000));
     }
-    spec.sort().forEach(s => { console.log(s); });
     console.log();
     console.log('done............................');
 })()
